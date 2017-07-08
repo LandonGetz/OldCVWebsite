@@ -81,3 +81,15 @@ h1 {
 #sublist {
     padding-top: 10px;
 }
+h2 {
+    text-align: center;
+}
+
+#contactbuttons {
+    display: inline;
+    text-align: center;
+}
+
+#icon {
+    padding-right:5px;
+}
