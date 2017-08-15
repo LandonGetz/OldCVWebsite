@@ -12,7 +12,7 @@ scroll: true
 <h1 id="about"><b>About Me</b></h1>
 <hr>
 <div class="container">
-    <h4>I am a Master's of Science candidate in the Thomas lab at Dalhousie University studying <i>Vibrio parahaemolyticus</i> environmental survival and host-pathogen interactions.</h4>
+    <h4>I am a Master of Science candidate in the Thomas lab at Dalhousie University studying <i>Vibrio parahaemolyticus</i> environmental survival and host-pathogen interactions.</h4>
 </div>
 <div class="container" id="contactbuttondiv">
     <h5 id="contactbuttons"><span id="icon" class="glyphicon glyphicon-envelope"></span>  Email:<a href="mailto:landon.getz@dal.ca">landon.getz@dal.ca</a></h5>|
