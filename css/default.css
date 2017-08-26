@@ -124,4 +124,6 @@ h2 {
 #skillslist {
     display:inline-flex;
     text-align: center;
+    align-content: center;
+    margin: 10px;
 }
