@@ -27,26 +27,55 @@ scroll: true
     <h1 id="CVcontent"><b>Curriculum Vitae</b></h1>
     <hr>
     <h2><span class="fa fa-pie-chart" aria-hidden="true"></span> Skills</h2>
-    <div class="container" id="skillslist">
+    <div class="row" id="skillslist">
         <div class="col-lg-4" id="list"><h3><b>Technology and Computers:</b></h3>
             <ul id="skillssublist">
-                <li>HTML and CSS Coding</li>
-                <li>Jekyll Static Site Building</li>
-                <li>Linux</li>
-                <li>Terminal and Command Line Usage</li>
-                <li>Biological Computing and Bioinformatics</li>
+                <li>HTML and CSS Coding.</li>
+                <li>Jekyll Static Site Building.</li>
+                <li>Linux.</li>
+                <li>Terminal and Command Line Usage.</li>
+                <li>Biological Computing and Bioinformatics.</li>
             </ul>
         </div>
-        <div class="col-lg-4" id="list"><h3><b>Personal:</b></h3>
+        <div class="col-lg-4" id="list"><h3><b>Research:</b></h3>
             <ul id="skillssublist">
-                <li>Strong Leadership Skills</li>
-                <li>Communication Skills</li>
+                <li>Searching Primary Literature.</li>
+                <li>Self-directed Question Identification.</li>
+                <li>Grant Writing.</li>
+                <li>Experiment and Protocol Design.</li>
             </ul>
         </div>
         <div class="col-lg-4" id="list"><h3><b>Molecular Biology:</b></h3>
             <ul id="skillssublist">
-                <li>Standard Techniques (PCR, DNA/Protein Electrophoresis, etc)</li>
-                <li>Bacterial Transposon Mutagenesis and Identification of Insertion Site</li>
+                <li>Standard Techniques (PCR, DNA/Protein Electrophoresis, etc).</li>
+                <li>Bacterial Transposon Mutagenesis.</li>
+                <li>Synthetic Biology.</li>
+            </ul>
+        </div>
+    </div>
+    <div class="row" id="skillslist">
+        <div class="col-lg-4" id="list"><h3><b>Microbiology:</b></h3>
+            <ul id="skillssublist">
+                <li>Aseptic Technique.</li>
+                <li>Bacterial Culture Techniques.</li>
+                <li>Media/Buffer Preparation.</li>
+                <li>Strain Maintenance and Organization.</li>
+            </ul>
+        </div>
+        <div class="col-lg-4" id="list"><h3><b>Communication:</b></h3>
+            <ul id="skillssublist">
+                <li>Clear and Effective Writing.</li>
+                <li>Presentations.</li>
+                <li>Public Speaking.</li>
+                <li>Extensive Teaching Skills.</li>
+            </ul>
+        </div>
+        <div class="col-lg-4" id="list"><h3><b>Other:</b></h3>
+            <ul id="skillssublist">
+                <li>Knowledge of Food Gardening and Food Systems.</li>
+                <li>Strong Leadership Skills.</li>
+                <li>Communication Skills.</li>
+                <li>Team-Oriented.</li>
             </ul>
         </div>
     </div>
@@ -83,6 +112,11 @@ scroll: true
     </ul>
         <h2><span class="glyphicon glyphicon-book" aria-hidden="true"></span>  Publications</h2>
     <ul id="list">
+    <li id="list"><b>Commentaries:</b>
+            <ul id="sublist">
+            <li><a href="https://impactethics.ca/2017/08/24/a-reflection-on-blood-donation-policy-in-canada/" target="_blank">A Reflection on Blood Donation Policy in Canada</a>, <i><a href="http://www.impactethics.ca" target="_blank">Impact Ethics</a></i>, Halifax, NS.</li>
+            </ul>
+     </li>
      <li id="list"><b>Abstracts: </b>
             <ul id="sublist">
                 <li>Infection Disease Research Day, Discovery of a Genetic Switch in <i>Vibrio parahaemolyticus</i> That Contributes to Host Cell Death During Infection, <i>Dalhousie University</i>, Halifax, NS.</li>
@@ -181,7 +215,7 @@ scroll: true
     </ul>
     <h2><span class="fa fa-newspaper-o" aria-hidden="true"></span> Media</h2>
     <ul id="list">
-        <li id="list"><b>Halifax's The Coast - <i><a href="https://www.thecoast.ca/halifax/10-urban-gardens-you-need-to-know/Content?oid=8720166">10 urban gardens you need to know</a></i> by Victoria Walton</b></li>
+        <li id="list"><b>Halifax's The Coast - <i><a target="_blank" href="https://www.thecoast.ca/halifax/10-urban-gardens-you-need-to-know/Content?oid=8720166">10 urban gardens you need to know</a></i> by Victoria Walton</b></li>
         <ul id="sublist">
         <li>Featured for work at the Dalhousie Urban Garden</li>
         </ul>
