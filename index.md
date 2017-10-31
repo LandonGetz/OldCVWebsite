@@ -112,16 +112,27 @@ scroll: true
     </ul>
         <h2><span class="glyphicon glyphicon-book" aria-hidden="true"></span>  Publications</h2>
     <ul id="list">
+      <li id="list"><b>Papers: </b>
+            <ul id="sublist">
+                <li>Taxonomic differences of gut microbiomes drive cellulolytic enzymatic potential within hind-gut fermenting mammals, <i>PLoS One</i>, In Revision.</li>  
+            </ul>
+    </li>
     <li id="list"><b>Commentaries:</b>
             <ul id="sublist">
             <li><a href="https://impactethics.ca/2017/08/24/a-reflection-on-blood-donation-policy-in-canada/" target="_blank">A Reflection on Blood Donation Policy in Canada</a>, <i><a href="http://www.impactethics.ca" target="_blank">Impact Ethics</a></i>, Halifax, NS.</li>
             </ul>
-     </li>
+            </li>
      <li id="list"><b>Abstracts: </b>
             <ul id="sublist">
                 <li>Infection Disease Research Day, Discovery of a Genetic Switch in <i>Vibrio parahaemolyticus</i> That Contributes to Host Cell Death During Infection, <i>Dalhousie University</i>, Halifax, NS.</li>
                 <li>Giant Jamboree Abstract Guide, A ‘spike’ in biofuel production: mining the porcupine microbiome to engineer a softwood feedstock platform, <i>iGEM Giant Jamboree</i>, Boston, MA.</li>
             </ul>
+            </li>
+    <li id="list"><b>Blog Posts:</b>
+        <ul id="sublist">
+        <li><a href="https://plosibilities.wordpress.com/2017/09/28/vaccinia-viruss-vip-access-to-host-protein-making-machinery/">Vaccinia Virus’s VIP Access to Host Protein Making Machinery</a>,<a href="www.plosibilities.wordpress.com"><i>Plosibilities</i></a></li>
+         <li><a href="https://plosibilities.wordpress.com/2017/09/14/changing-all-on-your-own-lonely-bugs-mutate-faster/">Changing All on Your Own: “Lonely Bugs Mutate Faster</a>,<a href="www.plosibilities.wordpress.com"><i>Plosibilities</i></a></li>
+        </ul>
     </li>
     </ul>
     <h2><span class="glyphicon glyphicon-blackboard" aria-hidden="true"></span>  Conference Presentations</h2>
