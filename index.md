@@ -130,8 +130,8 @@ scroll: true
             </li>
     <li id="list"><b>Blog Posts:</b>
         <ul id="sublist">
-        <li><a href="https://plosibilities.wordpress.com/2017/09/28/vaccinia-viruss-vip-access-to-host-protein-making-machinery/">Vaccinia Virus’s VIP Access to Host Protein Making Machinery</a>,<a href="http://www.plosibilities.wordpress.com"><i>Plosibilities</i></a></li>
-         <li><a href="https://plosibilities.wordpress.com/2017/09/14/changing-all-on-your-own-lonely-bugs-mutate-faster/">Changing All on Your Own: “Lonely Bugs Mutate Faster</a>,<a href="http://www.plosibilities.wordpress.com"><i>Plosibilities</i></a></li>
+        <li><a href="https://plosibilities.wordpress.com/2017/09/28/vaccinia-viruss-vip-access-to-host-protein-making-machinery/">Vaccinia Virus’s VIP Access to Host Protein Making Machinery</a>,<a href="http://www.plosibilities.wordpress.com"><i> Plosibilities</i></a></li>
+         <li><a href="https://plosibilities.wordpress.com/2017/09/14/changing-all-on-your-own-lonely-bugs-mutate-faster/">Changing All on Your Own: “Lonely Bugs Mutate Faster</a>,<a href="http://www.plosibilities.wordpress.com"><i> Plosibilities</i></a></li>
         </ul>
     </li>
     </ul>
