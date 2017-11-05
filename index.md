@@ -99,12 +99,12 @@ scroll: true
         </li>
         <li id="list"><b>Certificate in Genetics, <i>Dalhousie University</i></b>
             <ul id="sublist">
-                <li>Recieved June 2017</li>
+                <li>Received June 2017</li>
             </ul>
         </li>
             <li id="list"><b>High School Diploma, <i>Medicine Hat High School</i></b>
                 <ul id="sublist">
-                    <li>Recieved June 2013</li>
+                    <li>Received June 2013</li>
                     <li>First Class Honours</li>
                     <li>Awarded Alexander Rutherford Scholarship - $2,500 Award</li>
                 </ul>
@@ -114,6 +114,7 @@ scroll: true
     <ul id="list">
       <li id="list"><b>Papers: </b>
             <ul id="sublist">
+                <li>The Transcriptional Regulator HlyU De-represses Expression of <i>exsA</i> Leading to Type III Secretion System-1 Activation in <i>Vibrio parahaemolyticus</i>, <i>Journal of Bacteriology</i>, Under Review</li>
                 <li>Taxonomic differences of gut microbiomes drive cellulolytic enzymatic potential within hind-gut fermenting mammals, <i>PLoS One</i>, In Revision.</li>  
             </ul>
     </li>
@@ -124,26 +125,33 @@ scroll: true
             </li>
      <li id="list"><b>Abstracts: </b>
             <ul id="sublist">
-                <li>Infection Disease Research Day, Discovery of a Genetic Switch in <i>Vibrio parahaemolyticus</i> That Contributes to Host Cell Death During Infection, <i>Dalhousie University</i>, Halifax, NS.</li>
-                <li>Giant Jamboree Abstract Guide, A ‘spike’ in biofuel production: mining the porcupine microbiome to engineer a softwood feedstock platform, <i>iGEM Giant Jamboree</i>, Boston, MA.</li>
+                <li>HlyU and H-NS Act as a Genetic Switch for Transcriptional Control of the Type III Secretion System-I Master Regulator <i>exsA</i>, <i>ASM Vibrio2017: The Biology of Vibrios</i>, Chicago, IL - November 2017</li>
+                <li>Infection Disease Research Day, Discovery of a Genetic Switch in <i>Vibrio parahaemolyticus</i> That Contributes to Host Cell Death During Infection, <i>Dalhousie University</i>, Halifax, NS - March 2017</li>
+                <li>Giant Jamboree Abstract Guide, A ‘spike’ in biofuel production: mining the porcupine microbiome to engineer a softwood feedstock platform, <i>iGEM Giant Jamboree</i>, Boston, MA - October 2016</li>
             </ul>
             </li>
     <li id="list"><b>Blog Posts:</b>
         <ul id="sublist">
-        <li><a href="https://plosibilities.wordpress.com/2017/09/28/vaccinia-viruss-vip-access-to-host-protein-making-machinery/">Vaccinia Virus’s VIP Access to Host Protein Making Machinery</a>,<a href="http://www.plosibilities.wordpress.com"><i> Plosibilities</i></a></li>
-         <li><a href="https://plosibilities.wordpress.com/2017/09/14/changing-all-on-your-own-lonely-bugs-mutate-faster/">Changing All on Your Own: “Lonely Bugs Mutate Faster</a>,<a href="http://www.plosibilities.wordpress.com"><i> Plosibilities</i></a></li>
+        <li><a href="https://plosibilities.wordpress.com/2017/09/28/vaccinia-viruss-vip-access-to-host-protein-making-machinery/" target="_blank">Vaccinia Virus’s VIP Access to Host Protein Making Machinery</a>,<a href="http://www.plosibilities.wordpress.com" target="_blank"><i> Plosibilities</i></a></li>
+         <li><a href="https://plosibilities.wordpress.com/2017/09/14/changing-all-on-your-own-lonely-bugs-mutate-faster/" target="_blank">Changing All on Your Own: “Lonely Bugs Mutate Faster</a>,<a href="http://www.plosibilities.wordpress.com" target="_blank"><i> Plosibilities</i></a></li>
         </ul>
     </li>
     </ul>
     <h2><span class="glyphicon glyphicon-blackboard" aria-hidden="true"></span>  Conference Presentations</h2>
     <ul id="list">
         <li>Infectious Disease Research Day Poster Presentation, <i>Dalhousie University</i>, Halifax, NS - April, 2017</li>
-        <li>iGEM Giant Jamboree Powerpoint Presentation, <i>iGEM</i>, Boston, MA - October, 2016</li>
+        <li>iGEM Giant Jamboree PowerPoint Presentation, <i>iGEM</i>, Boston, MA - October, 2016</li>
         <li>Microbiology and Immunology Seminar Series: iGEM Introduction, <i>Dalhousie University</i>, Halifax, NS - September 2016</li>
     </ul>
     <h2><span class="glyphicon glyphicon-apple" aria-hidden="true"></span> Teaching and Mentoring</h2>
     <ul id="list">
-        <li id="list"><b>Senior Chemistry Resource Center Assistant, <i>Dalhousie Univeristy</i></b>
+        <li id="list"><b>Microbiology and Immunology Introductory Class (MICI 2100) Teaching Assistant, <i>Dalhousie University</i></b>
+            <ul id="sublist">
+                <li>September 2017 to <i>Present</i>.</li>
+                <li>Respond to student emails and Brightspace messages, be available for face-to-face conversations, and mark exams.</li>
+            </ul>
+        </li>
+        <li id="list"><b>Senior Chemistry Resource Center Assistant, <i>Dalhousie University</i></b>
             <ul id="sublist">
                 <li>January 2017 to <i>Present</i>.</li>
                 <li>Create TA's assignment and meeting schedule, be available throughout the week to answer questions about First Year Chemistry assignments and lecture material.</li>
@@ -153,21 +161,42 @@ scroll: true
             <ul id="sublist">
                 <li>January 2017 to <i>Present</i>.</li>
                 <li>Be a graduate student resource for the Bioinformatics and Web Design teams.</li>
-                <li>Current <i>Dalhousie iGEM 2017</i> Website can be found <a target="_blank" href="http://2017.igem.org/Team:Dalhousie">here.</a><i> (Currently under construction).</i></li>
+                <li>Current <i>Dalhousie iGEM 2017</i> Website can be found <a target="_blank" href="http://2017.igem.org/Team:Dalhousie">here.</a></li>
             </ul>
         </li>
         <li id="list"><b>Chemistry Resource Center Assistant, <i>Dalhousie Univeristy</i></b>
             <ul id="sublist">
                 <li>September 2015 to December 2016.</li>
-                <li>Be available throughout hte week to answer questions about First Year Chemistry assignmnets and lecture material.</li>
-                <li>Attend weeking meetings with prepared assignment completed to answer other TA's questions and prepare for the coming week.</li>
+                <li>Be available throughout the week to answer questions about First Year Chemistry assignments and lecture material.</li>
+                <li>Attend weekly meetings with prepared assignment completed to answer other TA's questions and prepare for the coming week.</li>
             </ul>
         </li>
         <li id="list"><b>Community Assistant, <i>Dalhousie Student Life</i></b>
             <ul id="sublist">
                 <li>September 2014 to May 2015</li>
-                <li>Help off-campus students by providing an on-campus liason, location and support system similar to programs in place for on-campus students.</li>
-                <li>Plan events to integrate the Halifax community with the Dalhousie Community, and be a point of contact for communicaiton between the Halifax Community and the University community.</li>
+                <li>Help off-campus students by providing an on-campus liaison, location and support system similar to programs in place for on-campus students.</li>
+                <li>Plan events to integrate the Halifax community with the Dalhousie Community, and be a point of contact for communication between the Halifax Community and the University community.</li>
+            </ul>
+        </li>
+    </ul>
+    <h2><span class="fa fa-users" aria-hidden="hidden"></span> Community Service</h2>
+    <ul id="list">
+        <li id="list"><b>External Coordinator, <i><a href="http://dalurbangarden.com" target="_blank">Dalhousie Urban Garden Society</a></i></b>
+            <ul id="sublist">
+                <li>May 2016 to <i>Present</i></li>
+                <li>Act as a liaison between Dalhousie Urban Garden Society with community food initiatives and groups, prepare newsletters and social media posts and take charge of regular garden maintenance</li>
+            </ul>
+        </li>
+        <li id="list"><b>Front of House, <i>Halifax Music Co-Op</i></b>
+            <ul id="sublist">
+                <li>September 2013 to March 2015</li>
+                <li>Take and sell tickets at the door, greet concert-goers, and sell merchandise/concessions.</li>
+            </ul>
+        </li>
+        <li id="list"><b>House Co-President, <i>Howe Hall Residence Council</i></b>
+            <ul id="sublist">
+                <li>September 2013 to April 2014</li>
+                <li>Alongside the co-president, put together a house council and hold weekly house council meetings, attend monthly residence council meetings, plan house events, and support the rest of council in community initiatives.</li>
             </ul>
         </li>
     </ul>
@@ -183,28 +212,28 @@ scroll: true
         <li id="list"><b>Groundskeeper, <i>Mount Saint Vincent University</i></b>
             <ul id="sublist">
                 <li>May-September 2016</li>
-                <li>Self-directed task-oriented work, ensure grounds of the Univeristy are maintained</li>
+                <li>Self-directed task-oriented work, ensure grounds of the University are maintained</li>
                 <li>Tasks: Mowing lawns, planting and maintaining flower beds, cleaning up garbage around campus, pruning trees and shrubs.</li>
             </ul>
         </li>
         <li id="list"><b>Camp Counsellor, <i>Dalhousie University - Dalplex</i></b>
             <ul id="sublist">
                 <li>May-September 2015</li>
-                <li>Organize and Supervise activities for Camp children at Dalhousie University's Dalples Active Kids Summer Camp.</li>
+                <li>Organize and Supervise activities for Camp children at Dalhousie University's Dalplex Active Kids Summer Camp.</li>
                 <li>Be CPR C and First Aid Certified as well as hold current Water Safety Instructor and National Lifeguarding Service - Pool Option Certifications.</li>
             </ul>
         </li>
         <li id="list"><b>Swim Instructor and Lifeguard, <i>Dalhousie University - Dalplex</i></b>
             <ul id="sublist">
                 <li>May 2014 - May 2015</li>
-                <li>Organize swim lessons for children aged 2 to 14 years of age, as well as hold Water Safety Instructor Certifcation.</li>
+                <li>Organize swim lessons for children aged 2 to 14 years of age, as well as hold Water Safety Instructor Certification.</li>
                 <li>Overlook operations of the pool and ensure patron safety during use of the facilities, as well as hold National Lifeguard Service - Pool Option certification.</li>
             </ul>
         </li>
         <li id="list"><b>Lifeguard and Swim Instructor, <i>City of Medicine Hat</i></b>
             <ul id="sublist">
                 <li>May 2012 - May 2013</li>
-                <li>Organize swim lessons for children aged 2 to 14 years of age, as well as hold Water Safety Instructor Certifcation.</li>
+                <li>Organize swim lessons for children aged 2 to 14 years of age, as well as hold Water Safety Instructor Certification.</li>
                 <li>Overlook operations of the pool and ensure patron safety during use of the facilities, as well as hold National Lifeguard Service - Pool Option certification.</li>
             </ul>
         </li>
@@ -212,7 +241,7 @@ scroll: true
             <ul id="sublist">
                 <li>December 2011 - May 2013</li>
                 <li>Relevant Skills: Communication, team-building and cooperation skills, technology and computer knowledge, teaching others, initiative.</li>
-                <li>As a member of the sales team, roles included assisting customers, selling computers, tablets and associated tech, and ensuring cleanliness and orgnaization of the store</li>
+                <li>As a member of the sales team, roles included assisting customers, selling computers, tablets and associated tech, and ensuring cleanliness and organization of the store</li>
                 <li>Assisted in Computer Setups, One-on-one technology learning lessons, screen protector installation and router setups.</li>
             </ul>
         </li>
@@ -230,5 +259,12 @@ scroll: true
         <ul id="sublist">
         <li>Featured for work at the Dalhousie Urban Garden</li>
         </ul>
-    </ul>
+        </ul>
+        <ul id="list">
+            <li id="list"><b>The Dalhousie Gazette - <i><a href="http://dalgazette.com/news/urban-garden-one-dalhousies-hidden-gems/">Urban Garden is one of Dalhousie’s hidden gems</a></i> by Lauren Hazlewood</b>
+            <ul id="sublist">
+                <li>Featured for work at the Dalhousie Urban Garden</li>
+            </ul>
+            </li>
+        </ul>
 </div>
