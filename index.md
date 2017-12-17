@@ -115,7 +115,7 @@ scroll: true
       <li id="list"><b>Papers: </b>
             <ul id="sublist">
                 <li>The Transcriptional Regulator HlyU De-represses Expression of <i>exsA</i> Leading to Type III Secretion System-1 Activation in <i>Vibrio parahaemolyticus</i>, <i>Journal of Bacteriology</i>, Under Review</li>
-                <li>Taxonomic differences of gut microbiomes drive cellulolytic enzymatic potential within hind-gut fermenting mammals, <i>PLoS One</i>, In Revision.</li>  
+                <li>Taxonomic differences of gut microbiomes drive cellulolytic enzymatic potential within hind-gut fermenting mammals, <i>PLoS One</i>, Accepted.</li>  
             </ul>
     </li>
     <li id="list"><b>Commentaries:</b>
