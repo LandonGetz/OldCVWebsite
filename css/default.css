@@ -56,7 +56,7 @@ h1 {
 }
 
 #header {
-    background: url("/images/header_new.jpg"") no-repeat center center fixed;
+    background: url("/images/header_new.jpg) no-repeat center center fixed;
     background-size: cover;
     background-repeat: no-repeat;
     height: 550px;
