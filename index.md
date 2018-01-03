@@ -15,7 +15,7 @@ scroll: true
     <h4>I am a Master of Science candidate in the Thomas lab at Dalhousie University studying <i>Vibrio parahaemolyticus</i> environmental survival and host-pathogen interactions.</h4>
 </div>
 <div class="container" id="contactbuttondiv">
-    <h5 id="contactbuttons"><span id="icon" class="glyphicon glyphicon-envelope"></span>  Email:<a href="mailto:landon.getz@dal.ca">landon.getz@dal.ca</a></h5>|
+    <h5 id="contactbuttons"><span id="icon" class="glyphicon glyphicon-envelope"></span>  Email:<a href="mailto:landon.getz@dal.ca"> landon.getz@dal.ca</a></h5>|
     <h5 id="contactbuttons"><i id="icon" class="fa fa-twitter-square fa-1x" aria-hidden="true"></i>  Twitter: <a target="_blank" href="http://twitter.com/landongetz">@landongetz</a></h5>|
     <h5 id="contactbuttons"><span id="icon" class="fa fa-linkedin-square"></span>  <a href="https://www.linkedin.com/in/landon-getz-19a473111/">Linkedin</a></h5>|
     <h5 id="contactbuttons"><span id="icon" class="fa fa-github-square"></span>  <a href="https://www.github.com/LandonGetz">Github</a></h5>
@@ -114,7 +114,7 @@ scroll: true
     <ul id="list">
       <li id="list"><b>Papers: </b>
             <ul id="sublist">
-                <li>The Transcriptional Regulator HlyU De-represses Expression of <i>exsA</i> Leading to Type III Secretion System-1 Activation in <i>Vibrio parahaemolyticus</i>, <i>Journal of Bacteriology</i>, Under Review</li>
+                <li>The Transcriptional Regulator HlyU De-represses Expression of <i>exsA</i> Leading to Type III Secretion System-1 Activation in <i>Vibrio parahaemolyticus</i>, <i>Journal of Bacteriology</i>, In Revision</li>
                 <li><a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0189404" target="_blank">Taxonomic differences of gut microbiomes drive cellulolytic enzymatic potential within hind-gut fermenting mammals</a>, <i>PLoS One</i>, Published.</li>  
             </ul>
     </li>
@@ -164,7 +164,7 @@ scroll: true
                 <li>Current <i>Dalhousie iGEM 2017</i> Website can be found <a target="_blank" href="http://2017.igem.org/Team:Dalhousie">here.</a></li>
             </ul>
         </li>
-        <li id="list"><b>Chemistry Resource Center Assistant, <i>Dalhousie Univeristy</i></b>
+        <li id="list"><b>Chemistry Resource Center Assistant, <i>Dalhousie University</i></b>
             <ul id="sublist">
                 <li>September 2015 to December 2016.</li>
                 <li>Be available throughout the week to answer questions about First Year Chemistry assignments and lecture material.</li>
