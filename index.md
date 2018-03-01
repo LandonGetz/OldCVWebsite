@@ -19,6 +19,7 @@ scroll: true
     <h5 id="contactbuttons"><i id="icon" class="fa fa-twitter-square fa-1x" aria-hidden="true"></i>  Twitter: <a target="_blank" href="http://twitter.com/landongetz">@landongetz</a></h5>|
     <h5 id="contactbuttons"><span id="icon" class="fa fa-linkedin-square"></span>  <a href="https://www.linkedin.com/in/landon-getz-19a473111/">Linkedin</a></h5>|
     <h5 id="contactbuttons"><span id="icon" class="fa fa-github-square"></span>  <a href="https://www.github.com/LandonGetz">Github</a></h5>
+    <h5 id="contactbuttons"><i id="icon" class="fa fa-graduation-cap" aria-hidden="true"></i>  <a href="https://scholar.google.ca/citations?user=cFMTBYMAAAAJ&hl=en&authuser=3">Google Scholar</a></h5>
 </div>
 <div class="container" id="CV">
 </div>
