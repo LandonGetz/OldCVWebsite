@@ -18,7 +18,7 @@ scroll: true
     <h5 id="contactbuttons"><span id="icon" class="glyphicon glyphicon-envelope"></span>  Email:<a href="mailto:landon.getz@dal.ca"> landon.getz@dal.ca</a></h5>|
     <h5 id="contactbuttons"><i id="icon" class="fa fa-twitter-square fa-1x" aria-hidden="true"></i>  Twitter: <a target="_blank" href="http://twitter.com/landongetz">@landongetz</a></h5>|
     <h5 id="contactbuttons"><span id="icon" class="fa fa-linkedin-square"></span>  <a href="https://www.linkedin.com/in/landon-getz-19a473111/">Linkedin</a></h5>|
-    <h5 id="contactbuttons"><span id="icon" class="fa fa-github-square"></span>  <a href="https://www.github.com/LandonGetz">Github</a></h5>
+    <h5 id="contactbuttons"><span id="icon" class="fa fa-github-square"></span>  <a href="https://www.github.com/LandonGetz">Github</a></h5>|
     <h5 id="contactbuttons"><i id="icon" class="fa fa-graduation-cap" aria-hidden="true"></i>  <a href="https://scholar.google.ca/citations?user=cFMTBYMAAAAJ&hl=en&authuser=3">Google Scholar</a></h5>
 </div>
 <div class="container" id="CV">
@@ -117,7 +117,7 @@ scroll: true
             <ul id="sublist">
                 <li>Runté, C., Jain, U., <b>Getz, L.J.</b>,Secord, S., Kuwae, A., Abe, A., Leblanc, J., Stadnyk, A.W., Kaper, J.B., Hansen, A.M., Thomas, N.A. (2018) <a href="https://www.biorxiv.org/content/early/2018/02/22/270066" target="_blank">"Tandem tyrosine residues in the EPEC multicargo chaperone CesT support differential type III effector translocation and early host colonization."</a><i>BioRxiv</i>.</li>
                 <li><b>Getz, L.J.,</b> Thomas, N.A. (2018) <a href="http://jb.asm.org/content/early/2018/02/08/JB.00653-17.abstract" target="_blank">"The Transcriptional Regulator HlyU is a Positive Regulator for Expression of <i>exsA</i> Leading to Type III Secretion System-1 Activation in <i>Vibrio parahaemolyticus</i>"</a> <i>Journal of Bacteriology</i>.</li>
-                <li><b>Getz, L.J.*</b>, Finlayson-Trick, E.C.L.*, Slaine, P.D.*, Thornbury, M., Lamourerux, E., Cook, J., Langille, M.G.I., Murray, L.E., McCormick, C., Rohde, J.R., Cheng, Z. (2017). <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0189404" target="_blank">"Taxonomic    differences of gut microbiomes drive cellulolytic enzymatic potential within hind-gut fermenting mammals."</a> <i>PLoS One</i> 
+                <li><b>Getz, L.J.*</b>, Finlayson-Trick, E.C.L.*, Slaine, P.D.*, Thornbury, M., Lamourerux, E., Cook, J., Langille, M.G.I., Murray, L.E., McCormick, C., Rohde, J.R., Cheng, Z. (2017). <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0189404" target="_blank">"Taxonomic    differences of gut microbiomes drive cellulolytic enzymatic potential within hind-gut fermenting mammals."</a> <i>PLoS One</i></li>
             </ul>
     </li>
     <li id="list"><b>Commentaries:</b>
