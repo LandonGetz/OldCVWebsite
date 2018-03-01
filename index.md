@@ -114,8 +114,8 @@ scroll: true
     <ul id="list">
       <li id="list"><b>Papers: </b>
             <ul id="sublist">
-                <li><a href="https://www.biorxiv.org/content/early/2018/02/22/270066">Runté, C., Jain, U., <b>Getz, L.J.</b>,Secord, S., Kuwae, A., Abe, A., Leblanc, J., Stadnyk, A.W., Kaper, J.B., Hansen, A.M., Thomas, N.A. (2018) "Tandem tyrosine residues in the EPEC multicargo chaperone CesT support differential type III effector translocation and early host colonization." <i>BioRxiv</i>.</a></li>
-                <li><a href="http://jb.asm.org/content/early/2018/02/08/JB.00653-17.abstract"><b>Getz, L.J.,</b> Thomas, N.A. (2018) "The Transcriptional Regulator HlyU is a Positive Regulator for Expression of <i>exsA</i> Leading to Type III Secretion System-1 Activation in <i>Vibrio parahaemolyticus</i>" <i>Journal of Bacteriology</i>.</a></li>
+                <li>Runté, C., Jain, U., <b>Getz, L.J.</b>,Secord, S., Kuwae, A., Abe, A., Leblanc, J., Stadnyk, A.W., Kaper, J.B., Hansen, A.M., Thomas, N.A. (2018) <a href="https://www.biorxiv.org/content/early/2018/02/22/270066" target="_blank">"Tandem tyrosine residues in the EPEC multicargo chaperone CesT support differential type III effector translocation and early host colonization."</a><i>BioRxiv</i>.</li>
+                <li><b>Getz, L.J.,</b> Thomas, N.A. (2018) <a href="http://jb.asm.org/content/early/2018/02/08/JB.00653-17.abstract" target="_blank">"The Transcriptional Regulator HlyU is a Positive Regulator for Expression of <i>exsA</i> Leading to Type III Secretion System-1 Activation in <i>Vibrio parahaemolyticus</i>"</a> <i>Journal of Bacteriology</i>.</li>
                 <li><a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0189404" target="_blank">Taxonomic    differences of gut microbiomes drive cellulolytic enzymatic potential within hind-gut fermenting mammals</a>, <i>PLoS One</i>, Published.</li>  
             </ul>
     </li>
