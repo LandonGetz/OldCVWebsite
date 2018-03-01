@@ -114,8 +114,9 @@ scroll: true
     <ul id="list">
       <li id="list"><b>Papers: </b>
             <ul id="sublist">
-                <li>The Transcriptional Regulator HlyU is a Positive Regulator for Expression of <i>exsA</i> Leading to Type III Secretion System-1 Activation in <i>Vibrio parahaemolyticus</i>, <i>Journal of Bacteriology</i>, Accepted</li>
-                <li><a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0189404" target="_blank">Taxonomic differences of gut microbiomes drive cellulolytic enzymatic potential within hind-gut fermenting mammals</a>, <i>PLoS One</i>, Published.</li>  
+                <li><a href="https://www.biorxiv.org/content/early/2018/02/22/270066">Runté, C., Jain, U., <b>Getz, L.J.</b>,Secord, S., Kuwae, A., Abe, A., Leblanc, J., Stadnyk, A.W., Kaper, J.B., Hansen, A.M., Thomas, N.A. (2018) "Tandem tyrosine residues in the EPEC multicargo chaperone CesT support differential type III effector translocation and early host colonization." <i>BioRxiv</i>.</a></li>
+                <li><a href="http://jb.asm.org/content/early/2018/02/08/JB.00653-17.abstract"><b>Getz, L.J.,</b> Thomas, N.A. (2018) "The Transcriptional Regulator HlyU is a Positive Regulator for Expression of <i>exsA</i> Leading to Type III Secretion System-1 Activation in <i>Vibrio parahaemolyticus</i>" <i>Journal of Bacteriology</i>.</a></li>
+                <li><a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0189404" target="_blank">Taxonomic    differences of gut microbiomes drive cellulolytic enzymatic potential within hind-gut fermenting mammals</a>, <i>PLoS One</i>, Published.</li>  
             </ul>
     </li>
     <li id="list"><b>Commentaries:</b>
@@ -181,6 +182,13 @@ scroll: true
     </ul>
     <h2><span class="fa fa-users" aria-hidden="hidden"></span> Community Service</h2>
     <ul id="list">
+        <li id="list"><b>Graduate Student Representative, <i>Graduate Studies Committee.</i></b>
+            <ul id="sublist">
+                <li>Sept 2017 to Present</li>
+                <li>Act as a liason between graduate/undergraduate students and the committee</li>
+                <li>Provide feedback to the committee based on my experience as an undergraduate student at Dalhousie Univeristy</li>
+            </ul>
+        </li>
         <li id="list"><b>External Coordinator, <i><a href="http://dalurbangarden.com" target="_blank">Dalhousie Urban Garden Society</a></i></b>
             <ul id="sublist">
                 <li>May 2016 to <i>Present</i></li>
