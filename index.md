@@ -115,14 +115,15 @@ scroll: true
     <ul id="list">
       <li id="list"><b>Papers: </b>
             <ul id="sublist">
+                <li>Runté, C., Jain, U., <b>Getz, L.J.</b>,Secord, S., Kuwae, A., Abe, A., Leblanc, J., Stadnyk, A.W., Kaper, J.B., Hansen, A.M., Thomas, N.A. (2018). Tandem tyrosine phosphosites in the enteropathogenic Escherichia coli chaperone CesT are required for differential type III effector translocation and virulence<a href="http://onlinelibrary.wiley.com/doi/10.1111/mmi.13948/full" target="_blank">""</a><i>Molecular Microbiology</i>.</li>
                 <li>Runté, C., Jain, U., <b>Getz, L.J.</b>,Secord, S., Kuwae, A., Abe, A., Leblanc, J., Stadnyk, A.W., Kaper, J.B., Hansen, A.M., Thomas, N.A. (2018) <a href="https://www.biorxiv.org/content/early/2018/02/22/270066" target="_blank">"Tandem tyrosine residues in the EPEC multicargo chaperone CesT support differential type III effector translocation and early host colonization."</a><i>BioRxiv</i>.</li>
                 <li><b>Getz, L.J.,</b> Thomas, N.A. (2018) <a href="http://jb.asm.org/content/early/2018/02/08/JB.00653-17.abstract" target="_blank">"The Transcriptional Regulator HlyU is a Positive Regulator for Expression of <i>exsA</i> Leading to Type III Secretion System-1 Activation in <i>Vibrio parahaemolyticus</i>"</a> <i>Journal of Bacteriology</i>.</li>
-                <li><b>Getz, L.J.*</b>, Finlayson-Trick, E.C.L.*, Slaine, P.D.*, Thornbury, M., Lamourerux, E., Cook, J., Langille, M.G.I., Murray, L.E., McCormick, C., Rohde, J.R., Cheng, Z. (2017). <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0189404" target="_blank">"Taxonomic    differences of gut microbiomes drive cellulolytic enzymatic potential within hind-gut fermenting mammals."</a> <i>PLoS One</i></li>
+                <li><b>Getz, L.J.*</b>, Finlayson-Trick, E.C.L.*, Slaine, P.D.*, Thornbury, M., Lamourerux, E., Cook, J., Langille, M.G.I., Murray, L.E., McCormick, C., Rohde, J.R., Cheng, Z. (2017). <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0189404" target="_blank">"Taxonomic differences of gut microbiomes drive cellulolytic enzymatic potential within hind-gut fermenting mammals."</a> <i>PLoS One</i></li>
             </ul>
     </li>
     <li id="list"><b>Commentaries:</b>
             <ul id="sublist">
-            <li><a href="https://impactethics.ca/2017/08/24/a-reflection-on-blood-donation-policy-in-canada/" target="_blank">A Reflection on Blood Donation Policy in Canada</a>, <i><a href="http://www.impactethics.ca" target="_blank">Impact Ethics</a></i>, Halifax, NS.</li>
+            <li><b>Getz, L. J.</b><a href="https://impactethics.ca/2017/08/24/a-reflection-on-blood-donation-policy-in-canada/" target="_blank">"A Reflection on Blood Donation Policy in Canada"</a>, <i><a href="http://www.impactethics.ca" target="_blank">Impact Ethics</a></i>, Halifax, NS.</li>
             </ul>
             </li>
      <li id="list"><b>Abstracts: </b>
@@ -134,6 +135,7 @@ scroll: true
             </li>
     <li id="list"><b>Blog Posts:</b>
         <ul id="sublist">
+        <li><a href="https://plosibilities.wordpress.com/2018/03/02/borrowing-name-tags-choleras-method-of-evading-our-defences/" target="_blank">Borrowing Name-Tags: Cholera’s Method of Evading our Defences</a>, <a href="http://www.plosibilities.wordpress.com" target="_blank"><i>Plosibilities</i></a></li>
         <li><a href="https://plosibilities.wordpress.com/2017/09/28/vaccinia-viruss-vip-access-to-host-protein-making-machinery/" target="_blank">Vaccinia Virus’s VIP Access to Host Protein Making Machinery</a>,<a href="http://www.plosibilities.wordpress.com" target="_blank"><i> Plosibilities</i></a></li>
          <li><a href="https://plosibilities.wordpress.com/2017/09/14/changing-all-on-your-own-lonely-bugs-mutate-faster/" target="_blank">Changing All on Your Own: “Lonely Bugs Mutate Faster</a>,<a href="http://www.plosibilities.wordpress.com" target="_blank"><i> Plosibilities</i></a></li>
         </ul>
