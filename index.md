@@ -85,6 +85,7 @@ scroll: true
         <li id="list"><b>M.Sc Microbiology and Immunology, <i>Dalhousie University</i></b>
             <ul id="sublist">
                 <li>Nova Scotia Graduate Scholarship (NSGS) Recipient - $10,000 Award</li>
+                <li>Alexander Graham Bell Canadian Graduate Scholarship - Masters Recipient 2018 - $17,500 Award</li>
                 <li>Currently Enrolled</li>
                 <li>Studying Host-Pathogen Interactions and Environmental Survival in <i>Vibrio parahaemolyticus</i></li>
                 <li>Expected Graduation: Summer 2019</li>
@@ -259,10 +260,21 @@ scroll: true
     </ul>
     <h2><span class="glyphicon glyphicon-tower" aria-hidden="true"></span>  Awards:</h2>
     <ul id="list">
-        <li>Award for Excellence in Undergraduate Honours Research - June 2017 - $100 Award and Certificate</li>
-        <li>Nova Scotia Graduate Scholarship - May 2017 - $10,000 Award</li>
-        <li>National Science and Engineering Research Council of Canada University Summer Research Award - May 2016 - $4,500 Award</li>
-        <li>Alexander Rutherford Scholarship - June 2013 - $2,500 Award</li>
+        <li>Alexander Graham Bell Canadian Graduate Scholarship - Masters Recipient 2018 - $17,500 Award</li>
+        <li>2018 Nova Scotia Graduate Scholarship - $10,000</li>
+        <li>2017 Award for Excellence in Undergraduate Honours Research - $100</li>
+        <li>2017 Nova Scotia Graduate Scholarship - $10,000</li>
+        <li>2017 Faculty of Science Undergraduate Research Prize</li>
+        <li>2017 Honours Student Prize</li>
+        <li>2016/2017 Academic Year – Faculty of Science Dean’s List</li>
+        <li>2016 National Science and Engineering Research Council of Canada University Summer Research Award - $4,500</li>
+        <li>2015/2016 Academic Year – Faculty of Science Dean’s List</li>
+        <li>2015 Dalhousie University In-Course Scholarship - $250</li>
+        <li>2014/2015 Academic Year – Faculty of Science Dean’s List</li>
+        <li>2013 Fall – Faculty of Science Dean’s List</li>
+        <li>2013 Dalhousie University Entrance Scholarship - $750</li>
+        <li>2013 Alexander Rutherford Scholarship - $2,500</li>
+
     </ul>
     <h2><span class="fa fa-newspaper-o" aria-hidden="true"></span> Media</h2>
     <ul id="list">
