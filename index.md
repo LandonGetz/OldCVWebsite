@@ -117,7 +117,6 @@ scroll: true
       <li id="list"><b>Papers: </b>
             <ul id="sublist">
             <li>Runté, C., Jain, U., <b>Getz, L.J.</b>, Secord, S., Kuwae, A., Abe, A., Leblanc, J., Stadnyk, A.W., Kaper, J.B., Hansen, A.M., Thomas, N.A. (2018). <a href="http://onlinelibrary.wiley.com/doi/10.1111/mmi.13948/full" target="_blank">"Tandem tyrosine phosphosites in the enteropathogenic <i>Escherichia coli</i> chaperone CesT are required for differential type III effector translocation and virulence."</a><i> Molecular Microbiology</i>.</li>
-                <li>Runté, C., Jain, U., <b>Getz, L.J.</b>, Secord, S., Kuwae, A., Abe, A., Leblanc, J., Stadnyk, A.W., Kaper, J.B., Hansen, A.M., Thomas, N.A. (2018) <a href="https://www.biorxiv.org/content/early/2018/02/22/270066" target="_blank">"Tandem tyrosine residues in the EPEC multicargo chaperone CesT support differential type III effector translocation and early host colonization."</a><i>BioRxiv</i>.</li>
                 <li><b>Getz, L.J.,</b> Thomas, N.A. (2018) <a href="http://jb.asm.org/content/early/2018/02/08/JB.00653-17.abstract" target="_blank">"The Transcriptional Regulator HlyU is a Positive Regulator for Expression of <i>exsA</i> Leading to Type III Secretion System-1 Activation in <i>Vibrio parahaemolyticus</i>"</a> <i>Journal of Bacteriology</i>.</li>
                 <li><b>Getz, L.J.*</b>, Finlayson-Trick, E.C.L.*, Slaine, P.D.*, Thornbury, M., Lamourerux, E., Cook, J., Langille, M.G.I., Murray, L.E., McCormick, C., Rohde, J.R., Cheng, Z. (2017). <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0189404" target="_blank">"Taxonomic differences of gut microbiomes drive cellulolytic enzymatic potential within hind-gut fermenting mammals."</a> <i>PLoS One</i></li>
             </ul>
@@ -127,11 +126,19 @@ scroll: true
             <li><b>Getz, L. J.</b><a href="https://impactethics.ca/2017/08/24/a-reflection-on-blood-donation-policy-in-canada/" target="_blank">"A Reflection on Blood Donation Policy in Canada"</a>, <i><a href="http://www.impactethics.ca" target="_blank">Impact Ethics</a></i>, Halifax, NS.</li>
             </ul>
             </li>
+    <li id="list"><b>Pre-Prints:</b>
+            <ul id="sublist">
+                <li>Runté, C., Jain, U., <b>Getz, L.J.</b>, Secord, S., Kuwae, A., Abe, A., Leblanc, J., Stadnyk, A.W., Kaper, J.B., Hansen, A.M., Thomas, N.A. (2018) <a href="https://www.biorxiv.org/content/early/2018/02/22/270066" target="_blank">"Tandem tyrosine residues in the EPEC multicargo chaperone CesT support differential type III effector translocation and early host colonization."</a><i>BioRxiv</i>.</li>
+                <li>*Thornbury, M., *Sicheri, J., Guinard, C,. Mahoney, D., Routledge, F,. Curry, M., Elaghil, M., Boudreau, N., Tsai, A., Slaine P., Finlayson-Trick, E.C.L., Getz, L.J., Cook, J., Rohde, J.R., McCormick, C. <a href="https://www.biorxiv.org/content/early/2018/03/27/288985" target="_blank">“Discovery and Characterization of Novel Lignocellulose-Degrading Enzymes from the Porcupine Microbiome.”</a> BioRxiv.</li>
+        
+            </ul></li>
      <li id="list"><b>Abstracts: </b>
             <ul id="sublist">
+                <li>Linking Phenotype and Pathogen Genomics: Tn-Seq and Next Generation DNA Sequencing, PREP Graduate Student Research Day, <i>Dalhousie University</i>, Halifax, NS - May 2018</li>
+                <li><a href="http://centerforvaccinology.ca/wp-content/uploads/2018/03/2018-Research-Day-Handbook-1.pdf" target="_blank">Linking Phenotype and Pathogen Genomics: Tn-Seq and Next Generation DNA Sequencing</a>, 23rd Annual Infectious Disesase Research Day, <i>Dalhousie University</i>, Halifax, NS - Apr 2018</li>
                 <li>HlyU and H-NS Act as a Genetic Switch for Transcriptional Control of the Type III Secretion System-I Master Regulator <i>exsA</i>, <i>ASM Vibrio2017: The Biology of Vibrios</i>, Chicago, IL - November 2017</li>
-                <li>Infection Disease Research Day, Discovery of a Genetic Switch in <i>Vibrio parahaemolyticus</i> That Contributes to Host Cell Death During Infection, <i>Dalhousie University</i>, Halifax, NS - March 2017</li>
-                <li>Giant Jamboree Abstract Guide, A ‘spike’ in biofuel production: mining the porcupine microbiome to engineer a softwood feedstock platform, <i>iGEM Giant Jamboree</i>, Boston, MA - October 2016</li>
+                <li><a href="http://centerforvaccinology.ca/wp-content/uploads/2016/03/Handbook-10Apr2017.pdf" target="_blank">Discovery of a Genetic Switch in <i>Vibrio parahaemolyticus</i> That Contributes to Host Cell Death During Infection</a>, 22nd Annual Infectious Disease Research Day, <i>Dalhousie University</i>, Halifax, NS - March 2017</li>
+                <li><a href="http://2016.igem.org/wiki/images/9/9d/IGEM2016_GiantJamboree_booklet.pdf" target="_blank">A ‘spike’ in biofuel production: mining the porcupine microbiome to engineer a softwood feedstock platform</a>, Giant Jamboree Abstract Guide, <i>iGEM Giant Jamboree</i>, Boston, MA - October 2016</li>
             </ul>
             </li>
     <li id="list"><b>Blog Posts:</b>
@@ -144,9 +151,13 @@ scroll: true
     </ul>
     <h2><span class="glyphicon glyphicon-blackboard" aria-hidden="true"></span>  Conference Presentations</h2>
     <ul id="list">
-        <li>Infectious Disease Research Day Poster Presentation, <i>Dalhousie University</i>, Halifax, NS - April, 2017</li>
-        <li>iGEM Giant Jamboree PowerPoint Presentation, <i>iGEM</i>, Boston, MA - October, 2016</li>
-        <li>Microbiology and Immunology Seminar Series: iGEM Introduction, <i>Dalhousie University</i>, Halifax, NS - September 2016</li>
+        <li>PREP Graduate Student Research Day Platform Talk, <i>Dalhousie University</i>, Halifax, NS - May 2018</li>
+        <li>23rd Annual Infectious Disease Research Day Poster Presentation, <i>Centre for Vaccinology</i>, Halifax, NS - April 2018</li>
+        <li>Microbiology and Immunology Graduate Student Seminar Platform Talk, <i>Dalhousie University</i>, Halifax, NS - February 2018</li>
+        <li>ASM Vibrio2017 Poster Presentation, <i>American Society of Microbiology</i>, Chicago, IL - November 2017</li>
+        <li>22rd Annual Infectious Disease Research Day Poster Presentation, <i>Dalhousie University</i>, Halifax, NS - April, 2017</li>
+        <li>iGEM Giant Jamboree Platform Talk, <i>iGEM</i>, Boston, MA - October, 2016</li>
+        <li>Microbiology and Immunology Seminar Series: iGEM Introduction Platform Talk, <i>Dalhousie University</i>, Halifax, NS - September 2016</li>
     </ul>
     <h2><span class="glyphicon glyphicon-apple" aria-hidden="true"></span> Teaching and Mentoring</h2>
     <ul id="list">
