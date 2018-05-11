@@ -156,7 +156,7 @@ scroll: true
         <li>Microbiology and Immunology Graduate Student Seminar Platform Talk, <i>Dalhousie University</i>, Halifax, NS - February 2018</li>
         <li>ASM Vibrio2017 Poster Presentation, <i>American Society of Microbiology</i>, Chicago, IL - November 2017</li>
         <li>22rd Annual Infectious Disease Research Day Poster Presentation, <i>Dalhousie University</i>, Halifax, NS - April, 2017</li>
-        <li>iGEM Giant Jamboree Platform Talk, <i>iGEM</i>, Boston, MA - October, 2016</li>
+        <li>2016 iGEM Giant Jamboree Platform Talk, <i>iGEM</i>, Boston, MA - October, 2016</li>
         <li>Microbiology and Immunology Seminar Series: iGEM Introduction Platform Talk, <i>Dalhousie University</i>, Halifax, NS - September 2016</li>
     </ul>
     <h2><span class="glyphicon glyphicon-apple" aria-hidden="true"></span> Teaching and Mentoring</h2>
