@@ -123,8 +123,8 @@ scroll: true
     </li>
     <li id="list"><b>Commentaries:</b>
             <ul id="sublist">
-            <li><b>Getz, L.J.</b><a href="https://impactethics.ca/2018/05/11/the-privacy-implications-of-human-dna-sequencing/" target="_blank">"The Privacy Implications of Human DNA Sequencing"</a>, <i><a href="http://www.impactethics.ca" target="_blank">Impact Ethics</a></i>, <a href="https://www.dal.ca/sites/noveltechethics.html" target="_blank">Novel Tech Ethics,</a> Halifax, NS.</li>
-            <li><b>Getz, L. J.</b><a href="https://impactethics.ca/2017/08/24/a-reflection-on-blood-donation-policy-in-canada/" target="_blank">"A Reflection on Blood Donation Policy in Canada"</a>, <i><a href="http://www.impactethics.ca" target="_blank">Impact Ethics</a></i>, <a href="https://www.dal.ca/sites/noveltechethics.html" target="_blank">Novel Tech Ethics,</a> Halifax, NS.</li>
+            <li><b>Getz, L. J. </b><a href="https://impactethics.ca/2018/05/11/the-privacy-implications-of-human-dna-sequencing/" target="_blank">"The Privacy Implications of Human DNA Sequencing"</a>, <i><a href="http://www.impactethics.ca" target="_blank">Impact Ethics</a></i>, <a href="https://www.dal.ca/sites/noveltechethics.html" target="_blank">Novel Tech Ethics,</a> Halifax, NS.</li>
+            <li><b>Getz, L. J. </b><a href="https://impactethics.ca/2017/08/24/a-reflection-on-blood-donation-policy-in-canada/" target="_blank">"A Reflection on Blood Donation Policy in Canada"</a>, <i><a href="http://www.impactethics.ca" target="_blank">Impact Ethics</a></i>, <a href="https://www.dal.ca/sites/noveltechethics.html" target="_blank">Novel Tech Ethics,</a> Halifax, NS.</li>
             </ul>
             </li>
     <li id="list"><b>Pre-Prints:</b>
