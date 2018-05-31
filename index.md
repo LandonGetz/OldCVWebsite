@@ -116,6 +116,7 @@ scroll: true
     <ul id="list">
       <li id="list"><b>Papers: </b>
             <ul id="sublist">
+            <li><b>Getz, L.J.</b>, Dellaire, G. "Angels and Devils: Dual-Use in Biotechnology." <i>Trends in Biotechnology</i>, Under Review.</li>
             <li>Runté, C., Jain, U., <b>Getz, L.J.</b>, Secord, S., Kuwae, A., Abe, A., Leblanc, J., Stadnyk, A.W., Kaper, J.B., Hansen, A.M., Thomas, N.A. (2018). <a href="http://onlinelibrary.wiley.com/doi/10.1111/mmi.13948/full" target="_blank">"Tandem tyrosine phosphosites in the enteropathogenic <i>Escherichia coli</i> chaperone CesT are required for differential type III effector translocation and virulence."</a><i> Molecular Microbiology</i>.</li>
                 <li><b>Getz, L.J.,</b> Thomas, N.A. (2018) <a href="http://jb.asm.org/content/early/2018/02/08/JB.00653-17.abstract" target="_blank">"The Transcriptional Regulator HlyU is a Positive Regulator for Expression of <i>exsA</i> Leading to Type III Secretion System-1 Activation in <i>Vibrio parahaemolyticus</i>"</a> <i>Journal of Bacteriology</i>.</li>
                 <li><b>Getz, L.J.*</b>, Finlayson-Trick, E.C.L.*, Slaine, P.D.*, Thornbury, M., Lamourerux, E., Cook, J., Langille, M.G.I., Murray, L.E., McCormick, C., Rohde, J.R., Cheng, Z. (2017). <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0189404" target="_blank">"Taxonomic differences of gut microbiomes drive cellulolytic enzymatic potential within hind-gut fermenting mammals."</a> <i>PLoS One</i></li>
@@ -272,7 +273,8 @@ scroll: true
     </ul>
     <h2><span class="glyphicon glyphicon-tower" aria-hidden="true"></span>  Awards:</h2>
     <ul id="list">
-        <li>Alexander Graham Bell Canadian Graduate Scholarship - Masters Recipient 2018 - $17,500 Award</li>
+        <li>2018 Nova Scotia Health Research Foundataion Scotia Scholars Award - $10,000 Award</li>
+        <li>2018 Alexander Graham Bell Canadian Graduate Scholarship - Masters Recipient - $17,500 Award</li>
         <li>2018 Nova Scotia Graduate Scholarship - $10,000</li>
         <li>2017 Award for Excellence in Undergraduate Honours Research - $100</li>
         <li>2017 Nova Scotia Graduate Scholarship - $10,000</li>
