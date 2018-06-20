@@ -199,7 +199,7 @@ scroll: true
     </ul>
     <h2><span class="fa fa-users" aria-hidden="hidden"></span> Community Service</h2>
     <ul id="list">
-        <li id="list"><b>Graduate Student Representative, <i>Graduate Studies Committee.</i></b>
+        <li id="list"><b>Graduate Student Representative, <i>Undergraduate Studies Committee.</i></b>
             <ul id="sublist">
                 <li>Sept 2017 to Present</li>
                 <li>Act as a liason between graduate/undergraduate students and the committee</li>
