@@ -292,7 +292,7 @@ scroll: true
     </ul>
     <h2><span class="fa fa-newspaper-o" aria-hidden="true"></span> Media</h2>
     <ul id="list">
-        <li id="list"><b><a href="https://www.cbc.ca/listen/shows/information-morning-ns/" target="_blank">CBC Nova Scotia's Information Morning Radio Show </a> - <i>Inclusion and Diveristy in STEM</i> with Portia Clarke, live in studio.</b></li>
+        <li id="list"><b><a href="https://www.cbc.ca/listen/shows/information-morning-ns/" target="_blank">CBC Nova Scotia's Information Morning Radio Show </a> - <i>Inclusion and Diversity in STEM</i> with Portia Clarke, live in studio.</b></li>
             <ul id="sublist">
                 <li>Discussed #LGBTSTEMday and LGBTQ+ Representation in Science, Technology, Engineering, and Math (STEM)</li>
             </ul>
