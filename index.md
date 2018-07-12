@@ -273,7 +273,7 @@ scroll: true
     </ul>
     <h2><span class="glyphicon glyphicon-tower" aria-hidden="true"></span>  Awards:</h2>
     <ul id="list">
-        <li>2018 Nova Scotia Health Research Foundataion Scotia Scholars Award - $10,000 Award</li>
+        <li>2018 Nova Scotia Health Research Foundation Scotia Scholars Award - $10,000 Award</li>
         <li>2018 Alexander Graham Bell Canadian Graduate Scholarship - Masters Recipient - $17,500 Award</li>
         <li>2018 Nova Scotia Graduate Scholarship - $10,000</li>
         <li>2017 Award for Excellence in Undergraduate Honours Research - $100</li>
@@ -292,6 +292,10 @@ scroll: true
     </ul>
     <h2><span class="fa fa-newspaper-o" aria-hidden="true"></span> Media</h2>
     <ul id="list">
+        <li id="list"><b>CBC Nova Scotia's Information Morning Radio Show - <i>Inclusion and Diveristy in STEM</i> with Portia Clarke, live in studio.</li>
+        <ul id="sublist">
+        <li>Discussed #LGBTSTEMday and LGBTQ+ Representation in Science, Technology, Engineering, and Math (STEM)</li>
+        </ul>
         <li id="list"><b>Halifax's The Coast - <i><a target="_blank" href="https://www.thecoast.ca/halifax/10-urban-gardens-you-need-to-know/Content?oid=8720166">10 urban gardens you need to know</a></i> by Victoria Walton</b></li>
         <ul id="sublist">
         <li>Featured for work at the Dalhousie Urban Garden</li>
