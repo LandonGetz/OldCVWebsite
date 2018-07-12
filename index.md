@@ -293,16 +293,14 @@ scroll: true
     <h2><span class="fa fa-newspaper-o" aria-hidden="true"></span> Media</h2>
     <ul id="list">
         <li id="list"><b><a href="https://www.cbc.ca/listen/shows/information-morning-ns/" target="_blank">CBC Nova Scotia's Information Morning Radio Show </a> - <i>Inclusion and Diveristy in STEM</i> with Portia Clarke, live in studio.</b></li>
-        <ul id="sublist">
-        <li>Discussed #LGBTSTEMday and LGBTQ+ Representation in Science, Technology, Engineering, and Math (STEM)</li>
-        </ul>
+            <ul id="sublist">
+                <li>Discussed #LGBTSTEMday and LGBTQ+ Representation in Science, Technology, Engineering, and Math (STEM)</li>
+            </ul>
         <li id="list"><b>Halifax's The Coast - <i><a target="_blank" href="https://www.thecoast.ca/halifax/10-urban-gardens-you-need-to-know/Content?oid=8720166">10 urban gardens you need to know</a></i> by Victoria Walton</b></li>
-        <ul id="sublist">
-        <li>Featured for work at the Dalhousie Urban Garden</li>
-        </ul>
-        </ul>
-        <ul id="list">
-            <li id="list"><b>The Dalhousie Gazette - <i><a href="http://dalgazette.com/news/urban-garden-one-dalhousies-hidden-gems/">Urban Garden is one of Dalhousie’s hidden gems</a></i> by Lauren Hazlewood</b>
+            <ul id="sublist">
+                <li>Featured for work at the Dalhousie Urban Garden</li>
+            </ul>
+        <li id="list"><b>The Dalhousie Gazette - <i><a href="http://dalgazette.com/news/urban-garden-one-dalhousies-hidden-gems/">Urban Garden is one of Dalhousie’s hidden gems</a></i> by Lauren Hazlewood</b>
             <ul id="sublist">
                 <li>Featured for work at the Dalhousie Urban Garden</li>
             </ul>
