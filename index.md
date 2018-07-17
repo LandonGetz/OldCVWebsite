@@ -116,7 +116,8 @@ scroll: true
     <ul id="list">
       <li id="list"><b>Papers: </b>
             <ul id="sublist">
-            <li><b>Getz, L.J.</b>, Dellaire, G. "Angels and Devils: Dual-Use in Biotechnology." <i>Trends in Biotechnology</i>, Under Review.</li>
+			<li>Thornbury, M.*, Sicheri, J.*, Slaine, P.D., <b>Getz, L. J.</b>, Finlayson-Trick, E.C.L., Cook, J., Guinard, C., Boudreau, N., Jakeman, D., Rohde, J.R., McCormick, C. 2018. "Discovery and Characterization of Novel Lignocellulose-Degrading Enzymes from the Porcupine Microbiome by Synthetic Metagenomics." <i>PLoS One</i>, Under Review</li>
+            <li><b>Getz, L.J.</b>, Dellaire, G. "Angels and Devils: Dual-Use in Biotechnology." <i>Trends in Biotechnology</i>, In Revision.</li>
             <li>Runté, C., Jain, U., <b>Getz, L.J.</b>, Secord, S., Kuwae, A., Abe, A., Leblanc, J., Stadnyk, A.W., Kaper, J.B., Hansen, A.M., Thomas, N.A. (2018). <a href="http://onlinelibrary.wiley.com/doi/10.1111/mmi.13948/full" target="_blank">"Tandem tyrosine phosphosites in the enteropathogenic <i>Escherichia coli</i> chaperone CesT are required for differential type III effector translocation and virulence."</a><i> Molecular Microbiology</i>.</li>
                 <li><b>Getz, L.J.,</b> Thomas, N.A. (2018) <a href="http://jb.asm.org/content/early/2018/02/08/JB.00653-17.abstract" target="_blank">"The Transcriptional Regulator HlyU is a Positive Regulator for Expression of <i>exsA</i> Leading to Type III Secretion System-1 Activation in <i>Vibrio parahaemolyticus</i>"</a> <i>Journal of Bacteriology</i>.</li>
                 <li><b>Getz, L.J.*</b>, Finlayson-Trick, E.C.L.*, Slaine, P.D.*, Thornbury, M., Lamourerux, E., Cook, J., Langille, M.G.I., Murray, L.E., McCormick, C., Rohde, J.R., Cheng, Z. (2017). <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0189404" target="_blank">"Taxonomic differences of gut microbiomes drive cellulolytic enzymatic potential within hind-gut fermenting mammals."</a> <i>PLoS One</i></li>
@@ -197,6 +198,21 @@ scroll: true
             </ul>
         </li>
     </ul>
+	<h2><span class="fa fa-flask" aria-hidden="hidden"></span> Science Communication</h2>
+	<ul id="list">
+		<li id="list"><b><a href="https://www.dal.ca/news/2018/06/06/curious--just-ask-a-scientist.html" target="_blank">"Ask a Scientist"</a> Campaign, <i>Dalhousie Faculty of Science</i></b>
+			<ul id="sublist">
+				<li>Discussed LGBTQ+ Science, Technology, Engineering, Maths Day at Halifax Pride along with other LGBTQ+ Scientists at Dalhousie</li>
+				<li>Discussed Environmental Microbiology and Bacteriology to the community crowd.</li>
+			</ul>
+		</li>
+		<li id="list"><b>LGBTQ+ Science, Technology, Engineering, Maths Day Discussion on <i>Information Morning</i> with Portia Clark</b>
+			<ul id="sublist">
+				<li><a href="https://www.cbc.ca/listen/shows/information-morning-ns/" target="_blank">Information Morning</a> is the public broadcasters (CBC) local morning radio show in Nova Scotia</li>
+				<li>Discussed the importance of inclusion and diversity in STEM, along with LGBTQ+ STEM Day.</li>
+			</ul>
+		</li>
+	</ul>
     <h2><span class="fa fa-users" aria-hidden="hidden"></span> Community Service</h2>
     <ul id="list">
         <li id="list"><b>Graduate Student Representative, <i>Undergraduate Studies Committee.</i></b>
