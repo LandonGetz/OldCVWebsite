@@ -12,7 +12,7 @@ scroll: true
 <h1 id="about"><b>About Me</b></h1>
 <hr>
 <div class="container">
-    <h4>I am a Master of Science candidate in the Thomas lab at Dalhousie University studying <i>Vibrio parahaemolyticus</i> environmental survival and host-pathogen interactions.</h4>
+    <h4>I am a Ph.D. candidate in the Thomas lab at Dalhousie University studying <i>Vibrio parahaemolyticus</i> environmental survival and host-pathogen interactions.</h4>
 </div>
 <div class="container" id="contactbuttondiv">
     <h5 id="contactbuttons"><span id="icon" class="glyphicon glyphicon-envelope"></span>  Email:<a href="mailto:landon.getz@dal.ca"> landon.getz@dal.ca</a></h5>|
@@ -117,7 +117,7 @@ scroll: true
       <li id="list"><b>Papers: </b>
             <ul id="sublist">
 			<li>Thornbury, M.*, Sicheri, J.*, Slaine, P.D., <b>Getz, L. J.</b>, Finlayson-Trick, E.C.L., Cook, J., Guinard, C., Boudreau, N., Jakeman, D., Rohde, J.R., McCormick, C. 2018. "Discovery and Characterization of Novel Lignocellulose-Degrading Enzymes from the Porcupine Microbiome by Synthetic Metagenomics." <i>PLoS One</i>, Under Review</li>
-            <li><b>Getz, L.J.</b>, Dellaire, G. "Angels and Devils: Dual-Use in Biotechnology." <i>Trends in Biotechnology</i>, In Revision.</li>
+            <li><b>Getz, L.J.</b>, Dellaire, G. "Angels and Devils: Dual-Use in Biotechnology." <i>Trends in Biotechnology</i>, Accepted.</li>
             <li>Runté, C., Jain, U., <b>Getz, L.J.</b>, Secord, S., Kuwae, A., Abe, A., Leblanc, J., Stadnyk, A.W., Kaper, J.B., Hansen, A.M., Thomas, N.A. (2018). <a href="http://onlinelibrary.wiley.com/doi/10.1111/mmi.13948/full" target="_blank">"Tandem tyrosine phosphosites in the enteropathogenic <i>Escherichia coli</i> chaperone CesT are required for differential type III effector translocation and virulence."</a><i> Molecular Microbiology</i>.</li>
                 <li><b>Getz, L.J.,</b> Thomas, N.A. (2018) <a href="http://jb.asm.org/content/early/2018/02/08/JB.00653-17.abstract" target="_blank">"The Transcriptional Regulator HlyU is a Positive Regulator for Expression of <i>exsA</i> Leading to Type III Secretion System-1 Activation in <i>Vibrio parahaemolyticus</i>"</a> <i>Journal of Bacteriology</i>.</li>
                 <li><b>Getz, L.J.*</b>, Finlayson-Trick, E.C.L.*, Slaine, P.D.*, Thornbury, M., Lamourerux, E., Cook, J., Langille, M.G.I., Murray, L.E., McCormick, C., Rohde, J.R., Cheng, Z. (2017). <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0189404" target="_blank">"Taxonomic differences of gut microbiomes drive cellulolytic enzymatic potential within hind-gut fermenting mammals."</a> <i>PLoS One</i></li>
@@ -297,7 +297,7 @@ scroll: true
         <li>2017 Faculty of Science Undergraduate Research Prize</li>
         <li>2017 Honours Student Prize</li>
         <li>2016/2017 Academic Year – Faculty of Science Dean’s List</li>
-        <li>2016 National Science and Engineering Research Council of Canada University Summer Research Award - $4,500</li>
+        <li>2016 Natural Science and Engineering Research Council of Canada University Summer Research Award - $4,500</li>
         <li>2015/2016 Academic Year – Faculty of Science Dean’s List</li>
         <li>2015 Dalhousie University In-Course Scholarship - $250</li>
         <li>2014/2015 Academic Year – Faculty of Science Dean’s List</li>
