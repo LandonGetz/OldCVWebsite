@@ -116,11 +116,12 @@ scroll: true
     <ul id="list">
       <li id="list"><b>Papers: </b>
             <ul id="sublist">
-			<li>Thornbury, M.*, Sicheri, J.*, Slaine, P.D., <b>Getz, L. J.</b>, Finlayson-Trick, E.C.L., Cook, J., Guinard, C., Boudreau, N., Jakeman, D., Rohde, J.R., McCormick, C. 2018. "Discovery and Characterization of Novel Lignocellulose-Degrading Enzymes from the Porcupine Microbiome by Synthetic Metagenomics." <i>PLoS One</i>, Under Review</li>
-            <li><b>Getz, L.J.</b>, Dellaire, G. "Angels and Devils: Dual-Use in Biotechnology." <i>Trends in Biotechnology</i>, Accepted.</li>
-            <li>Runté, C., Jain, U., <b>Getz, L.J.</b>, Secord, S., Kuwae, A., Abe, A., Leblanc, J., Stadnyk, A.W., Kaper, J.B., Hansen, A.M., Thomas, N.A. (2018). <a href="http://onlinelibrary.wiley.com/doi/10.1111/mmi.13948/full" target="_blank">"Tandem tyrosine phosphosites in the enteropathogenic <i>Escherichia coli</i> chaperone CesT are required for differential type III effector translocation and virulence."</a><i> Molecular Microbiology</i>.</li>
-                <li><b>Getz, L.J.,</b> Thomas, N.A. (2018) <a href="http://jb.asm.org/content/early/2018/02/08/JB.00653-17.abstract" target="_blank">"The Transcriptional Regulator HlyU is a Positive Regulator for Expression of <i>exsA</i> Leading to Type III Secretion System-1 Activation in <i>Vibrio parahaemolyticus</i>"</a> <i>Journal of Bacteriology</i>.</li>
-                <li><b>Getz, L.J.*</b>, Finlayson-Trick, E.C.L.*, Slaine, P.D.*, Thornbury, M., Lamourerux, E., Cook, J., Langille, M.G.I., Murray, L.E., McCormick, C., Rohde, J.R., Cheng, Z. (2017). <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0189404" target="_blank">"Taxonomic differences of gut microbiomes drive cellulolytic enzymatic potential within hind-gut fermenting mammals."</a> <i>PLoS One</i></li>
+				<li>Thornbury, M.<sup>*</sup>, Sicheri, J.<sup>*</sup>, Slaine, P.D., <b>Getz, L. J.</b>, Finlayson-Trick, E.C.L., Cook, J., Guinard, C., Boudreau, N., Jakeman, D., Rohde, J.R., McCormick, C.<sup>#</sup> (2018). "Discovery and Characterization of Novel Lignocellulose-Degrading Enzymes from the Porcupine Microbiome by Synthetic Metagenomics." <i>PLoS One</i>, Under Review</li>
+				<li><b>Getz, L.J.<sup>#</sup></b>, Dellaire, G.<sup>#</sup> (2018). <a href="https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(18)30207-5" target="_blank">"Angels and Devils: Dual-Use in Biotechnology."</a> <i>Trends in Biotechnology</i> DOI: <a href="https://doi.org/10.1016/j.tibtech.2018.07.016" target="_blank">https://doi.org/10.1016/j.tibtech.2018.07.016</a>.</li>
+				<li>Runté, C., Jain, U., <b>Getz, L.J.</b>, Secord, S., Kuwae, A., Abe, A., Leblanc, J., Stadnyk, A.W., Kaper, J.B., Hansen, A.M., Thomas, N.A.<sup>#</sup> (2018). <a href="http://onlinelibrary.wiley.com/doi/10.1111/mmi.13948/full" target="_blank">"Tandem tyrosine phosphosites in the enteropathogenic <i>Escherichia coli</i> chaperone CesT are required for differential type III effector translocation and virulence."</a><i> Molecular Microbiology</i>. DOI: <a href="https://doi.org/10.1111/mmi.13948" target="_blank">https://doi.org/10.1111/mmi.13948</a>.</li>
+                <li><b>Getz, L.J.,</b> Thomas, N.A.<sup>#</sup> (2018) <a href="http://jb.asm.org/content/200/15/e00653-17.abstract" target="_blank">"The Transcriptional Regulator HlyU is a Positive Regulator for Expression of <i>exsA</i> Leading to Type III Secretion System-1 Activation in <i>Vibrio parahaemolyticus</i>"</a> <i>Journal of Bacteriology</i>. DOI: <a href="https://doi.org/10.1128/JB.00653-17" target="_blank">https://doi.org/10.1128/JB.00653-17</a>.</li>
+                <li><b>Getz, L.J.<sup>*</sup></b>, Finlayson-Trick, E.C.L.<sup>*</sup>, Slaine, P.D.<sup>*</sup>, Thornbury, M., Lamourerux, E., Cook, J., Langille, M.G.I., Murray, L.E., McCormick, C., Rohde, J.R., Cheng, Z.<sup>#</sup> (2017). <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0189404" target="_blank">"Taxonomic differences of gut microbiomes drive cellulolytic enzymatic potential within hind-gut fermenting mammals."</a> <i>PLoS One</i>. DOI: <a href="https://doi.org/10.1371/journal.pone.0189404" target="_blank">https://doi.org/10.1371/journal.pone.0189404</a>.</li>
+				<sup>*Authors contributed equally to the work</sup>, <sup>#</sup>Corresponding Author.
             </ul>
     </li>
     <li id="list"><b>Commentaries:</b>
@@ -131,9 +132,9 @@ scroll: true
             </li>
     <li id="list"><b>Pre-Prints:</b>
             <ul id="sublist">
+				 <li>*Thornbury, M., *Sicheri, J., Guinard, C,. Mahoney, D., Routledge, F,. Curry, M., Elaghil, M., Boudreau, N., Tsai, A., Slaine P., Finlayson-Trick, E.C.L., Getz, L.J., Cook, J., Rohde, J.R., McCormick, C. <a href="https://www.biorxiv.org/content/early/2018/03/27/288985" target="_blank">“Discovery and Characterization of Novel Lignocellulose-Degrading Enzymes from the Porcupine Microbiome.”</a> BioRxiv.</li>
                 <li>Runté, C., Jain, U., <b>Getz, L.J.</b>, Secord, S., Kuwae, A., Abe, A., Leblanc, J., Stadnyk, A.W., Kaper, J.B., Hansen, A.M., Thomas, N.A. (2018) <a href="https://www.biorxiv.org/content/early/2018/02/22/270066" target="_blank">"Tandem tyrosine residues in the EPEC multicargo chaperone CesT support differential type III effector translocation and early host colonization."</a><i>BioRxiv</i>.</li>
-                <li>*Thornbury, M., *Sicheri, J., Guinard, C,. Mahoney, D., Routledge, F,. Curry, M., Elaghil, M., Boudreau, N., Tsai, A., Slaine P., Finlayson-Trick, E.C.L., Getz, L.J., Cook, J., Rohde, J.R., McCormick, C. <a href="https://www.biorxiv.org/content/early/2018/03/27/288985" target="_blank">“Discovery and Characterization of Novel Lignocellulose-Degrading Enzymes from the Porcupine Microbiome.”</a> BioRxiv.</li>
-        
+              
             </ul></li>
      <li id="list"><b>Abstracts: </b>
             <ul id="sublist">
