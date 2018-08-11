@@ -164,22 +164,30 @@ scroll: true
         <li>Microbiology and Immunology Seminar Series: iGEM Introduction Platform Talk, <i>Dalhousie University</i>, Halifax, NS - September 2016</li>
     </ul>
     <h2><span class="glyphicon glyphicon-apple" aria-hidden="true"></span> Teaching and Mentoring</h2>
-    <ul id="list">
-        <li id="list"><b>Microbiology and Immunology Introductory Class (MICI 2100) Teaching Assistant, <i>Dalhousie University</i></b>
-            <ul id="sublist">
-                <li>September 2017 to <i>Present</i>.</li>
-                <li>Respond to student emails and Brightspace messages, be available for face-to-face conversations, and mark exams.</li>
-            </ul>
-        </li>
-        <li id="list"><b>Senior Chemistry Resource Center Assistant, <i>Dalhousie University</i></b>
+    
+	<ul id="list">
+		<li id="list"><b>Graduate Student Mentor, <i>Dalhousie University</i></b>
+		<ul id="sublist">
+			<li>January 2018 to <i>Present</i></li>
+			<li>Wetlab mentor for Dalhousie iGEM 2018. I ensure the safety of the students, teach them the appropraite molecular biology skills, and lead them through the Summer project.</li>
+			<li>Prepared a <b>three-day molecular biology bootcamp</b>, where each student cloned a piece of DNA into the pSB1C3 iGEM Biobrick Shipping Vector.</li>
+			</ul>
+		</li>
+            <li id="list"><b>Senior Chemistry Resource Center Assistant, <i>Dalhousie University</i></b>
             <ul id="sublist">
                 <li>January 2017 to <i>Present</i>.</li>
                 <li>Create TA's assignment and meeting schedule, be available throughout the week to answer questions about First Year Chemistry assignments and lecture material.</li>
             </ul>
         </li>
+		<li id="list"><b>Microbiology and Immunology Introductory Class (MICI 2100) Teaching Assistant, <i>Dalhousie University</i></b>
+            <ul id="sublist">
+                <li>September 2017 to January 2018.</li>
+                <li>Respond to student emails and Brightspace messages, be available for face-to-face conversations, and mark exams.</li>
+            </ul>
+        </li>
           <li id="list"><b>Bioinformatics and Web Design Mentor, <i>Dalhousie IGEM 2017</i></b>
             <ul id="sublist">
-                <li>January 2017 to <i>Present</i>.</li>
+                <li>January 2017 to January 2018.</li>
                 <li>Be a graduate student resource for the Bioinformatics and Web Design teams.</li>
                 <li>Current <i>Dalhousie iGEM 2017</i> Website can be found <a target="_blank" href="http://2017.igem.org/Team:Dalhousie">here.</a></li>
             </ul>
