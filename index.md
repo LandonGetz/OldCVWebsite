@@ -82,13 +82,14 @@ scroll: true
     </div>
    <h2><span class="fa fa-graduation-cap" aria-hidden="true"></span>  Education</h2>
     <ul id="list">
-        <li id="list"><b>M.Sc Microbiology and Immunology, <i>Dalhousie University</i></b>
+        <li id="list"><b>Ph.D Microbiology and Immunology, <i>Dalhousie University</i></b>
             <ul id="sublist">
+                <li>Nominated by Dalhousie University for the Vanier Canadian Graduate Scholarship - $50,000 Award</li>
                 <li>Nova Scotia Graduate Scholarship (NSGS) Recipient - $10,000 Award</li>
                 <li>Alexander Graham Bell Canadian Graduate Scholarship - Masters Recipient 2018 - $17,500 Award</li>
                 <li>Currently Enrolled</li>
                 <li>Studying Host-Pathogen Interactions and Environmental Survival in <i>Vibrio parahaemolyticus</i></li>
-                <li>Expected Graduation: Summer 2019</li>
+                <li>Expected Graduation: Summer 2022</li>
             </ul>
         </li>
         <li id="list"><b>B.Sc. First Class Honours in Microbiology and Immunology, <i>Dalhousie University</i></b>
@@ -126,6 +127,8 @@ scroll: true
             </ul>
     <li id="list"><b>Commentaries:</b>
             <ul id="sublist">
+            <li>Baylis, F., Dellaire, G., <b>Getz, L.J.</b><a href="https://theconversation.com/why-we-are-not-ready-for-genetically-designed-babies-107756" target="_blank">Why we are not ready for genetically designed babies</a>, <i><a href="https://theconversation.com/ca" target="_blank">The Conversation: Canada Edition</a></i></li>
+            <li><b>Getz, L. J.</b><a href="https://impactethics.ca/2018/10/26/thicker-than-water-slow-movement-on-blood-policy/" target="_blank">"Thicker Than Water: Slow Movement on Blood Policy"</a>, <i><a href="http://www.impactethics.ca" target="_blank">Impact Ethics</a></i></li>
             <li><b>Getz, L. J. </b><a href="https://impactethics.ca/2018/05/11/the-privacy-implications-of-human-dna-sequencing/" target="_blank">"The Privacy Implications of Human DNA Sequencing"</a>, <i><a href="http://www.impactethics.ca" target="_blank">Impact Ethics</a></i>, <a href="https://www.dal.ca/sites/noveltechethics.html" target="_blank">Novel Tech Ethics,</a> Halifax, NS.</li>
             <li><b>Getz, L. J. </b><a href="https://impactethics.ca/2017/08/24/a-reflection-on-blood-donation-policy-in-canada/" target="_blank">"A Reflection on Blood Donation Policy in Canada"</a>, <i><a href="http://www.impactethics.ca" target="_blank">Impact Ethics</a></i>, <a href="https://www.dal.ca/sites/noveltechethics.html" target="_blank">Novel Tech Ethics,</a> Halifax, NS.</li>
             </ul>
@@ -166,6 +169,13 @@ scroll: true
     <h2><span class="glyphicon glyphicon-apple" aria-hidden="true"></span> Teaching and Mentoring</h2>
     
 	<ul id="list">
+        <li id="list"<b>Part Time Academic, <i>Dalhousie University</i></b>
+        <ul id="sublist">
+            <li>September 2018 to <i>Present</i></li>
+            <li>Instructor for CHEM 1011/1012 at Dalhousie University and First Year Chemistry Resource Centre Coordinator</li>
+            <li>Duties include: Organize TAs, lecture once a week, respond to student e-mails, prepare course material, mark quizzes and exams.</li>
+        </ul>
+        </li>
 		<li id="list"><b>Graduate Student Mentor, <i>Dalhousie University</i></b>
 		<ul id="sublist">
 			<li>January 2018 to <i>Present</i></li>
@@ -175,7 +185,7 @@ scroll: true
 		</li>
             <li id="list"><b>Senior Chemistry Resource Center Assistant, <i>Dalhousie University</i></b>
             <ul id="sublist">
-                <li>January 2017 to <i>Present</i>.</li>
+                <li>January 2017 to <i>September 2018</i>.</li>
                 <li>Create TA's assignment and meeting schedule, be available throughout the week to answer questions about First Year Chemistry assignments and lecture material.</li>
             </ul>
         </li>
@@ -209,6 +219,12 @@ scroll: true
     </ul>
 	<h2><span class="fa fa-flask" aria-hidden="hidden"></span> Science Communication</h2>
 	<ul id="list">
+        <li id="list"><b><a href="https://twitter.com/scislamhfx?lang=en" target="_blank">Science Slam Halifax Participant</a></b>
+            <ul id="sublist">
+                <li>Discussed a subset of my work, marine nutrient cycles, to a lay audience at a Grade 8 education level</li>
+                <li>Platform was a 5 minute talk, no powerpoint slides.</li>
+            </ul>
+        </li>
 		<li id="list"><b><a href="https://www.dal.ca/news/2018/06/06/curious--just-ask-a-scientist.html" target="_blank">"Ask a Scientist"</a> Campaign, <i>Dalhousie Faculty of Science</i></b>
 			<ul id="sublist">
 				<li>Discussed LGBTQ+ Science, Technology, Engineering, Maths Day at Halifax Pride along with other LGBTQ+ Scientists at Dalhousie</li>
