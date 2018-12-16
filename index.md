@@ -6,6 +6,9 @@ layout: default
 page_title: Landon J. Getz
 scroll: true
 ---
+<head>
+    <meta content='width=device-width, initial-scale=1' name='viewport'/>
+</head>
 <div class="container" id="about">
 </div>
 <hr>
@@ -119,7 +122,7 @@ scroll: true
 		</li>
 		<b><sup>*</sup>Authors contributed equally to the work, <sup>#</sup>Corresponding Author.</b>
             <ul id="sublist">
-				<li>Thornbury, M.<sup>*</sup>, Sicheri, J.<sup>*</sup>, Slaine, P.D., <b>Getz, L. J.</b>, Finlayson-Trick, E.C.L., Cook, J., Guinard, C., Boudreau, N., Jakeman, D., Rohde, J.R., McCormick, C.<sup>#</sup> (2018). "Discovery and Characterization of Novel Lignocellulose-Degrading Enzymes from the Porcupine Microbiome by Synthetic Metagenomics." <i>PLoS One</i>, Under Review.</li>
+                <li>Thornbury, M.<sup>*</sup>, Sicheri, J.<sup>*</sup>, Slaine, P.D., <b>Getz, L. J.</b>, Finlayson-Trick, E.C.L., Cook, J., Guinard, C., Boudreau, N., Jakeman, D., Rohde, J.R., McCormick, C.<sup>#</sup> (2018). "Discovery and Characterization of Novel Lignocellulose-Degrading Enzymes from the Porcupine Microbiome by Synthetic Metagenomics." <i>PLoS One</i>, <b>Accepted</b>.</li>
 				<li><b>Getz, L.J.<sup>#</sup></b>, Dellaire, G.<sup>#</sup> (2018). <a href="https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(18)30207-5" target="_blank">"Angels and Devils: Dual-Use in Biotechnology."</a> <i>Trends in Biotechnology</i>. DOI: <a href="https://doi.org/10.1016/j.tibtech.2018.07.016" target="_blank">https://doi.org/10.1016/j.tibtech.2018.07.016</a>.</li>
 				<li>Runté, C., Jain, U., <b>Getz, L.J.</b>, Secord, S., Kuwae, A., Abe, A., Leblanc, J., Stadnyk, A.W., Kaper, J.B., Hansen, A.M., Thomas, N.A.<sup>#</sup> (2018). <a href="http://onlinelibrary.wiley.com/doi/10.1111/mmi.13948/full" target="_blank">"Tandem tyrosine phosphosites in the enteropathogenic <i>Escherichia coli</i> chaperone CesT are required for differential type III effector translocation and virulence."</a><i> Molecular Microbiology</i>. DOI: <a href="https://doi.org/10.1111/mmi.13948" target="_blank">https://doi.org/10.1111/mmi.13948</a>.</li>
                 <li><b>Getz, L.J.,</b> Thomas, N.A.<sup>#</sup> (2018) <a href="http://jb.asm.org/content/200/15/e00653-17.abstract" target="_blank">"The Transcriptional Regulator HlyU is a Positive Regulator for Expression of <i>exsA</i> Leading to Type III Secretion System-1 Activation in <i>Vibrio parahaemolyticus</i>"</a> <i>Journal of Bacteriology</i>. DOI: <a href="https://doi.org/10.1128/JB.00653-17" target="_blank">https://doi.org/10.1128/JB.00653-17</a>.</li>
@@ -127,10 +130,11 @@ scroll: true
             </ul>
     <li id="list"><b>Commentaries:</b>
             <ul id="sublist">
+                <li><b>Getz, L.J.</b>, Dellaire, G., Baylis, F.</li><a href="https://www.thehastingscenter.org/jiankui-sorry-tale-high-stakes-science/" target="_blank">"Jiankui He: A Sorry Tale of High-Stakes Science"</a>, <i><a href="https://www.thehastingscenter.org/publications-resources/forum/" target="_blank">The Hastings Center Forum Blog</a>.</i>    
                 <li>Baylis, F., Dellaire, G., <b>Getz, L.J.</b><a href="https://theconversation.com/why-we-are-not-ready-for-genetically-designed-babies-107756" target="_blank"> "Why we are not ready for genetically designed babies"</a>, <i><a href="https://theconversation.com/ca" target="_blank">The Conversation: Canada Edition</a></i><b>Reprinted in:</b><a href="https://nationalpost.com/pmn/news-pmn/why-we-are-not-ready-for-genetically-designed-babies" target="_blank">The National Post</a> and the <a href="https://www.thechronicleherald.ca/opinion/opinion-why-we-are-not-ready-for-genetically-designed-babies-263999/" target="_blank">Halifax Chronicle Herald</a>.</li>
-            <li><b>Getz, L.J.</b><a href="https://impactethics.ca/2018/10/26/thicker-than-water-slow-movement-on-blood-policy/" target="_blank">"Thicker Than Water: Slow Movement on Blood Policy"</a>, <i><a href="http://www.impactethics.ca" target="_blank">Impact Ethics</a></i>, <a href="https://www.dal.ca/sites/noveltechethics.html" target="_blank">Novel Tech Ethics,</a> Halifax, NS.</li>
-            <li><b>Getz, L.J. </b><a href="https://impactethics.ca/2018/05/11/the-privacy-implications-of-human-dna-sequencing/" target="_blank">"The Privacy Implications of Human DNA Sequencing"</a>, <i><a href="http://www.impactethics.ca" target="_blank">Impact Ethics</a></i>, <a href="https://www.dal.ca/sites/noveltechethics.html" target="_blank">Novel Tech Ethics,</a> Halifax, NS.</li>
-            <li><b>Getz, L.J. </b><a href="https://impactethics.ca/2017/08/24/a-reflection-on-blood-donation-policy-in-canada/" target="_blank">"A Reflection on Blood Donation Policy in Canada"</a>, <i><a href="http://www.impactethics.ca" target="_blank">Impact Ethics</a></i>, <a href="https://www.dal.ca/sites/noveltechethics.html" target="_blank">Novel Tech Ethics,</a> Halifax, NS.</li>
+                <li><b>Getz, L.J.</b><a href="https://impactethics.ca/2018/10/26/thicker-than-water-slow-movement-on-blood-policy/" target="_blank">"Thicker Than Water: Slow Movement on Blood Policy"</a>, <i><a href="http://www.impactethics.ca" target="_blank">Impact Ethics</a></i>, <a href="https://www.dal.ca/sites/noveltechethics.html" target="_blank">Novel Tech Ethics,</a> Halifax, NS.</li>
+                <li><b>Getz, L.J. </b><a href="https://impactethics.ca/2018/05/11/the-privacy-implications-of-human-dna-sequencing/" target="_blank">"The Privacy Implications of Human DNA Sequencing"</a>, <i><a href="http://www.impactethics.ca" target="_blank">Impact Ethics</a></i>, <a href="https://www.dal.ca/sites/noveltechethics.html" target="_blank">Novel Tech Ethics,</a> Halifax, NS.</li>
+                <li><b>Getz, L.J. </b><a href="https://impactethics.ca/2017/08/24/a-reflection-on-blood-donation-policy-in-canada/" target="_blank">"A Reflection on Blood Donation Policy in Canada"</a>, <i><a href="http://www.impactethics.ca" target="_blank">Impact Ethics</a></i>, <a href="https://www.dal.ca/sites/noveltechethics.html" target="_blank">Novel Tech Ethics,</a> Halifax, NS.</li>
             </ul>
             </li>
     <li id="list"><b>Pre-Prints:</b>
