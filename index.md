@@ -130,8 +130,8 @@ scroll: true
             </ul>
     <li id="list"><b>Commentaries:</b>
             <ul id="sublist">
-                <li><b>Getz, L.J.</b>, Dellaire, G., Baylis, F.<a href="https://www.thehastingscenter.org/jiankui-sorry-tale-high-stakes-science/" target="_blank">"Jiankui He: A Sorry Tale of High-Stakes Science"</a>, <i><a href="https://www.thehastingscenter.org/publications-resources/forum/" target="_blank">The Hastings Center Forum Blog</a>.</i></li>
-                <li>Baylis, F., Dellaire, G., <b>Getz, L.J.</b><a href="https://theconversation.com/why-we-are-not-ready-for-genetically-designed-babies-107756" target="_blank"> "Why we are not ready for genetically designed babies"</a>, <i><a href="https://theconversation.com/ca" target="_blank">The Conversation: Canada Edition</a></i><b> Reprinted in:</b><a href="https://nationalpost.com/pmn/news-pmn/why-we-are-not-ready-for-genetically-designed-babies" target="_blank">The National Post</a> and the <a href="https://www.thechronicleherald.ca/opinion/opinion-why-we-are-not-ready-for-genetically-designed-babies-263999/" target="_blank">Halifax Chronicle Herald</a>.</li>
+                <li><b>Getz, L.J.</b>, Dellaire, G., Baylis, F. <a href="https://www.thehastingscenter.org/jiankui-sorry-tale-high-stakes-science/" target="_blank">"Jiankui He: A Sorry Tale of High-Stakes Science"</a>, <i><a href="https://www.thehastingscenter.org/publications-resources/forum/" target="_blank">The Hastings Center Forum Blog</a>.</i></li>
+                <li>Baylis, F., Dellaire, G., <b>Getz, L.J.</b><a href="https://theconversation.com/why-we-are-not-ready-for-genetically-designed-babies-107756" target="_blank"> "Why we are not ready for genetically designed babies"</a>, <i><a href="https://theconversation.com/ca" target="_blank">The Conversation: Canada Edition</a>.</i><b> Reprinted in:</b><a href="https://nationalpost.com/pmn/news-pmn/why-we-are-not-ready-for-genetically-designed-babies" target="_blank">The National Post</a> and the <a href="https://www.thechronicleherald.ca/opinion/opinion-why-we-are-not-ready-for-genetically-designed-babies-263999/" target="_blank">Halifax Chronicle Herald</a>.</li>
                 <li><b>Getz, L.J.</b><a href="https://impactethics.ca/2018/10/26/thicker-than-water-slow-movement-on-blood-policy/" target="_blank">"Thicker Than Water: Slow Movement on Blood Policy"</a>, <i><a href="http://www.impactethics.ca" target="_blank">Impact Ethics</a></i>, <a href="https://www.dal.ca/sites/noveltechethics.html" target="_blank">Novel Tech Ethics,</a> Halifax, NS.</li>
                 <li><b>Getz, L.J. </b><a href="https://impactethics.ca/2018/05/11/the-privacy-implications-of-human-dna-sequencing/" target="_blank">"The Privacy Implications of Human DNA Sequencing"</a>, <i><a href="http://www.impactethics.ca" target="_blank">Impact Ethics</a></i>, <a href="https://www.dal.ca/sites/noveltechethics.html" target="_blank">Novel Tech Ethics,</a> Halifax, NS.</li>
                 <li><b>Getz, L.J. </b><a href="https://impactethics.ca/2017/08/24/a-reflection-on-blood-donation-policy-in-canada/" target="_blank">"A Reflection on Blood Donation Policy in Canada"</a>, <i><a href="http://www.impactethics.ca" target="_blank">Impact Ethics</a></i>, <a href="https://www.dal.ca/sites/noveltechethics.html" target="_blank">Novel Tech Ethics,</a> Halifax, NS.</li>
@@ -141,17 +141,17 @@ scroll: true
             <ul id="sublist">
                 <li>*Thornbury, M., *Sicheri, J., Guinard, C,. Mahoney, D., Routledge, F,. Curry, M., Elaghil, M., Boudreau, N., Tsai, A., Slaine P., Finlayson-Trick, E.C.L., <b>Getz, L.J.</b>, Cook, J., Rohde, J.R., McCormick, C. <a href="https://www.biorxiv.org/content/early/2018/03/27/288985" target="_blank">“Discovery and Characterization of Novel Lignocellulose-Degrading Enzymes from the Porcupine Microbiome.”</a> BioRxiv.</li>
                 <li>Runté, C., Jain, U., <b>Getz, L.J.</b>, Secord, S., Kuwae, A., Abe, A., Leblanc, J., Stadnyk, A.W., Kaper, J.B., Hansen, A.M., Thomas, N.A. (2018) <a href="https://www.biorxiv.org/content/early/2018/02/22/270066" target="_blank">"Tandem tyrosine residues in the EPEC multicargo chaperone CesT support differential type III effector translocation and early host colonization."</a><i>BioRxiv</i>.</li>
-              
-            </ul></li>
-     <li id="list"><b>Abstracts: </b>
-            <ul id="sublist">
+            </ul>
+    </li>
+    <li id="list"><b>Abstracts: </b>
+         <ul id="sublist">
                 <li>Linking Phenotype and Pathogen Genomics: Tn-Seq and Next Generation DNA Sequencing, PREP Graduate Student Research Day, <i>Dalhousie University</i>, Halifax, NS - May 2018</li>
                 <li><a href="http://centerforvaccinology.ca/wp-content/uploads/2018/03/2018-Research-Day-Handbook-1.pdf" target="_blank">Linking Phenotype and Pathogen Genomics: Tn-Seq and Next Generation DNA Sequencing</a>, 23rd Annual Infectious Disesase Research Day, <i>Dalhousie University</i>, Halifax, NS - Apr 2018</li>
                 <li>HlyU and H-NS Act as a Genetic Switch for Transcriptional Control of the Type III Secretion System-I Master Regulator <i>exsA</i>, <i>ASM Vibrio2017: The Biology of Vibrios</i>, Chicago, IL - November 2017</li>
                 <li><a href="http://centerforvaccinology.ca/wp-content/uploads/2016/03/Handbook-10Apr2017.pdf" target="_blank">Discovery of a Genetic Switch in <i>Vibrio parahaemolyticus</i> That Contributes to Host Cell Death During Infection</a>, 22nd Annual Infectious Disease Research Day, <i>Dalhousie University</i>, Halifax, NS - March 2017</li>
                 <li><a href="http://2016.igem.org/wiki/images/9/9d/IGEM2016_GiantJamboree_booklet.pdf" target="_blank">A ‘spike’ in biofuel production: mining the porcupine microbiome to engineer a softwood feedstock platform</a>, Giant Jamboree Abstract Guide, <i>iGEM Giant Jamboree</i>, Boston, MA - October 2016</li>
             </ul>
-            </li>
+    </li>
     <li id="list"><b>Blog Posts:</b>
         <ul id="sublist">
         <li><a href="https://plosibilities.wordpress.com/2018/03/02/borrowing-name-tags-choleras-method-of-evading-our-defences/" target="_blank">Borrowing Name-Tags: Cholera’s Method of Evading our Defences</a>, <a href="http://www.plosibilities.wordpress.com" target="_blank"><i>Plosibilities</i></a></li>
@@ -171,9 +171,8 @@ scroll: true
         <li>Microbiology and Immunology Seminar Series: iGEM Introduction Platform Talk, <i>Dalhousie University</i>, Halifax, NS - September 2016</li>
     </ul>
     <h2><span class="glyphicon glyphicon-apple" aria-hidden="true"></span> Teaching and Mentoring</h2>
-    
 	<ul id="list">
-        <li id="list"<b>Part Time Academic, <i>Dalhousie University</i></b>
+        <li id="list"><b>Part Time Academic, <i>Dalhousie University</i></b>
         <ul id="sublist">
             <li>September 2018 to <i>Present</i></li>
             <li>Instructor for CHEM 1011/1012 at Dalhousie University and First Year Chemistry Resource Centre Coordinator</li>
@@ -333,7 +332,6 @@ scroll: true
         <li>2013 Fall – Faculty of Science Dean’s List</li>
         <li>2013 Dalhousie University Entrance Scholarship - $750</li>
         <li>2013 Alexander Rutherford Scholarship - $2,500</li>
-
     </ul>
     <h2><span class="fa fa-newspaper-o" aria-hidden="true"></span> Media</h2>
     <ul id="list">
