@@ -6,9 +6,6 @@ layout: default
 page_title: Landon J. Getz
 scroll: true
 ---
-<head>
-    <meta content='width=device-width, initial-scale=1' name='viewport'/>
-</head>
 <div class="container" id="about">
 </div>
 <hr>
