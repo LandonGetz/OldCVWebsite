@@ -83,7 +83,7 @@ scroll: true
         </div>
     </div>
     </div>
-    <div class="container">
+
    <h2 id="Education"><span class="fa fa-graduation-cap" aria-hidden="true"></span>  Education</h2>
     <ul id="list">
         <li id="list"><b>Ph.D Microbiology and Immunology, <i>Dalhousie University</i></b>
