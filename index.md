@@ -23,7 +23,6 @@ scroll: true
     <h5 id="contactbuttons"><i id="icon" class="fa fa-graduation-cap" aria-hidden="true"></i>  <a href="https://scholar.google.ca/citations?user=cFMTBYMAAAAJ&hl=en&authuser=3">Google Scholar</a></h5>
 </div>
 <div class="container" id="CV">
-<div>
     <hr>
     <h1 id="CVcontent"><b>Curriculum Vitae</b></h1>
     <hr>
@@ -83,7 +82,8 @@ scroll: true
         </div>
     </div>
     </div>
-
+</div>
+<div>
    <h2 id="Education"><span class="fa fa-graduation-cap" aria-hidden="true"></span>  Education</h2>
     <ul id="list">
         <li id="list"><b>Ph.D Microbiology and Immunology, <i>Dalhousie University</i></b>
@@ -117,7 +117,6 @@ scroll: true
                 </ul>
             </li>
     </ul>
-    </div>
         <h2><span class="glyphicon glyphicon-book" aria-hidden="true"></span>  Publications</h2>
     <ul id="list">
       <li id="list"><b>Papers: </b>
@@ -319,6 +318,7 @@ scroll: true
     </ul>
     <h2><span class="glyphicon glyphicon-tower" aria-hidden="true"></span>  Awards:</h2>
     <ul id="list">
+        <li>Nominated for Vanier Canadian Graduate Scholarship by Dalhousie University - $50,000 Award</li>
         <li>2018 Nova Scotia Health Research Foundation Scotia Scholars Award - $10,000 Award</li>
         <li>2018 Alexander Graham Bell Canadian Graduate Scholarship - Masters Recipient - $17,500 Award</li>
         <li>2018 Nova Scotia Graduate Scholarship - $10,000</li>
@@ -351,5 +351,4 @@ scroll: true
             </ul>
             </li>
         </ul>
-</div>
 </div>

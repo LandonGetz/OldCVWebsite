@@ -14,7 +14,7 @@ body {
 
 #navbar {
     font-family: 'Lato', sans-serif;
-    background-color: #2F4F4F;
+    background-color: #708090;
     width: 100%;
 }
 
@@ -78,7 +78,6 @@ h1 {
     text-align: center;
     color: white;
     font-family: 'Lato', serif;
-    padding-left: 50px;
     font-weight: bold;
 }
 
@@ -108,7 +107,6 @@ h1 {
 
 h2 {
     text-align: center;
-    padding:20px;
 }
 
 #image {
@@ -142,4 +140,14 @@ h2 {
 
 #Education {
     text-align: center;
+    align-content: center;
+}
+
+#CVcontent {
+    align-content: center;
+    text-align: center
+}
+
+#list {
+    padding-top: 10px;
 }
