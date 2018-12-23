@@ -13,8 +13,8 @@ body {
 }
 
 #navbar {
-    font-family: 'Alegreya Sans SC', sans-serif;
-    background-color: black;
+    font-family: 'Lato', sans-serif;
+    background-color: #2F4F4F;
     width: 100%;
 }
 
@@ -23,32 +23,26 @@ body {
     padding-right:10px;
     text-align: right;
     color: white;
-    text-shadow:black 0.3em 0.3em 0.3em;
 }
 
 #navbar li a:hover {
     color: grey;
-    background-color: black;
 }
 
 #navbar li a:active {
     color: grey;
-    background-color: black;
 }
 
 #navbar li a:link {
     color:white;
-    background-color: black;
 }
 
 #nav li a:visited {
     color: white;
-    background-color: black;
 }
 
 #navtoggle {
     color:white;
-    background-color: black;
     font-size: 12pt;
 }
 
@@ -97,19 +91,21 @@ h1 {
     padding-left: 100px;
 }
 
-#list {
-    padding-top:10px;
-}
 #sublist {
     padding-top: 10px;
 }
 
-#skillssublist {
-    padding-top: 10px;
+#skillssublist,
+#skillslist {
+    align-content: center;
     text-align: center;
     list-style: none;
-    padding-right:35px;
 }
+
+#skillssublist {
+    margin-left: -40px;
+}
+
 h2 {
     text-align: center;
     padding:20px;
@@ -144,9 +140,6 @@ h2 {
     padding-bottom:50px;
 }
 
-#skillslist {
-    display:inline-flex;
+#Education {
     text-align: center;
-    align-content: center;
-    margin: 10px;
 }

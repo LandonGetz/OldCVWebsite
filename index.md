@@ -23,14 +23,13 @@ scroll: true
     <h5 id="contactbuttons"><i id="icon" class="fa fa-graduation-cap" aria-hidden="true"></i>  <a href="https://scholar.google.ca/citations?user=cFMTBYMAAAAJ&hl=en&authuser=3">Google Scholar</a></h5>
 </div>
 <div class="container" id="CV">
-</div>
 <div>
     <hr>
     <h1 id="CVcontent"><b>Curriculum Vitae</b></h1>
     <hr>
-    <h2><span class="fa fa-pie-chart" aria-hidden="true"></span> Skills</h2>
-    <div class="row" id="skillslist">
-        <div class="col-lg-4" id="list"><h3><b>Technology and Computers:</b></h3>
+    <div id="skillslist"><h2><span class="fa fa-pie-chart" aria-hidden="true"></span> Skills</h2>
+        <div class="col-lg-4" id="list">
+        <div><h3><b>Technology and Computers:</b></h3>
             <ul id="skillssublist">
                 <li>HTML and CSS Coding.</li>
                 <li>Jekyll Static Site Building.</li>
@@ -39,7 +38,7 @@ scroll: true
                 <li>Biological Computing and Bioinformatics.</li>
             </ul>
         </div>
-        <div class="col-lg-4" id="list"><h3><b>Research:</b></h3>
+        <div><h3><b>Research:</b></h3>
             <ul id="skillssublist">
                 <li>Searching Primary Literature.</li>
                 <li>Self-directed Question Identification.</li>
@@ -47,16 +46,16 @@ scroll: true
                 <li>Experiment and Protocol Design.</li>
             </ul>
         </div>
-        <div class="col-lg-4" id="list"><h3><b>Molecular Biology:</b></h3>
+    </div>
+        <div class="col-lg-4" id="list">
+        <div><h3><b>Molecular Biology:</b></h3>
             <ul id="skillssublist">
                 <li>Standard Techniques (PCR, DNA/Protein Electrophoresis, etc).</li>
                 <li>Bacterial Transposon Mutagenesis.</li>
                 <li>Synthetic Biology.</li>
             </ul>
         </div>
-    </div>
-    <div class="row" id="skillslist">
-        <div class="col-lg-4" id="list"><h3><b>Microbiology:</b></h3>
+        <div><h3><b>Microbiology:</b></h3>
             <ul id="skillssublist">
                 <li>Aseptic Technique.</li>
                 <li>Bacterial Culture Techniques.</li>
@@ -64,7 +63,9 @@ scroll: true
                 <li>Strain Maintenance and Organization.</li>
             </ul>
         </div>
-        <div class="col-lg-4" id="list"><h3><b>Communication:</b></h3>
+        </div>
+        <div class="col-lg-4" id="list">
+        <div><h3><b>Communication:</b></h3>
             <ul id="skillssublist">
                 <li>Clear and Effective Writing.</li>
                 <li>Presentations.</li>
@@ -72,7 +73,7 @@ scroll: true
                 <li>Extensive Teaching Skills.</li>
             </ul>
         </div>
-        <div class="col-lg-4" id="list"><h3><b>Other:</b></h3>
+        <div><h3><b>Other:</b></h3>
             <ul id="skillssublist">
                 <li>Knowledge of Food Gardening and Food Systems.</li>
                 <li>Strong Leadership Skills.</li>
@@ -81,7 +82,9 @@ scroll: true
             </ul>
         </div>
     </div>
-   <h2><span class="fa fa-graduation-cap" aria-hidden="true"></span>  Education</h2>
+    </div>
+    <div class="container">
+   <h2 id="Education"><span class="fa fa-graduation-cap" aria-hidden="true"></span>  Education</h2>
     <ul id="list">
         <li id="list"><b>Ph.D Microbiology and Immunology, <i>Dalhousie University</i></b>
             <ul id="sublist">
@@ -114,6 +117,7 @@ scroll: true
                 </ul>
             </li>
     </ul>
+    </div>
         <h2><span class="glyphicon glyphicon-book" aria-hidden="true"></span>  Publications</h2>
     <ul id="list">
       <li id="list"><b>Papers: </b>
@@ -347,4 +351,5 @@ scroll: true
             </ul>
             </li>
         </ul>
+</div>
 </div>
