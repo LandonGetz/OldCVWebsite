@@ -17,8 +17,8 @@ title: Landon J. Getz
 email: landon.getz@dal.ca
 description: > # this means to ignore newlines until "baseurl:"
     I am an M.Sc. Candidate in the Thomas Lab at Dalhousie University studying Vibrio parahaemolyticus environmental survival and host-pathogen interactions.
-baseurl: "landongetz.com" # the subpath of your site, e.g. /blog
-url: "http://landongetz.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://landongetz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: landongetz
 github_username:  landongetz
 
