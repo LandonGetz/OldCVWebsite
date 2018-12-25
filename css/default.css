@@ -9,7 +9,9 @@ body {
 }
 
 #jumbotron {
-    max-width: 100%
+    max-width: 100%;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
 }
 
 #navbar {
@@ -75,7 +77,8 @@ h1 {
 }
 
 #headertext {
-    text-align: center;
+    padding-right: 75px;
+    text-align: right;
     color: white;
     font-family: 'Lato', serif;
     font-weight: bold;

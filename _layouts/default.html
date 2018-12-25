@@ -86,8 +86,14 @@
         </div>
         <!-- /.container -->
     </nav>
-    <div class="jumbotron" id="header">
-    <h1 id="headertext"> {{page.page_title}} </h1>
+    <div class="jumbotron" id="header" style="padding:0px;">
+        <div class="row" style="background-image: url(/images/header-full.jpg); background-size: cover; background-repeat: no-repeat; height: 100%; width: 100%; border: 0px; margin: 0px; padding: 0px;">
+                    <h1 id="headertext" style="vertical-align: middle; line-height: 500px;"> {{page.page_title}} </h1>
+    
+        </div>
+        </div>
+        <h1 id="headertext"> {{page.page_title}} </h1>
+    
         </div>
     <div class="container" id="content">
         {{ content }}
