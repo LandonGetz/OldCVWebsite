@@ -99,6 +99,7 @@ h1 {
 }
 #headertext {
     padding: 0px;
+    padding-right: 5px;
     padding-top: 5px;
     text-align: right;
     color: white;
