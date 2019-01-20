@@ -17,14 +17,17 @@ scroll: true
 </div>
 <div class="container" id="contactbuttondiv">
     <h5 id="contactbuttons"><span id="icon" class="glyphicon glyphicon-envelope"></span>  Email:<a href="mailto:landon.getz@dal.ca"> landon.getz@dal.ca</a></h5>|
-    <h5 id="contactbuttons"><i id="icon" class="fa fa-twitter-square fa-1x" aria-hidden="true"></i>  Twitter: <a target="_blank" href="http://twitter.com/landongetz">@landongetz</a></h5>|
-    <h5 id="contactbuttons"><span id="icon" class="fa fa-linkedin-square"></span>  <a href="https://www.linkedin.com/in/landon-getz-19a473111/">Linkedin</a></h5>|
-    <h5 id="contactbuttons"><span id="icon" class="fa fa-github-square"></span>  <a href="https://www.github.com/LandonGetz">Github</a></h5>|
+    <h5 id="contactbuttons"><i id="icon" class="fab fa-twitter-square fa-1x" aria-hidden="true"></i>  Twitter: <a target="_blank" href="http://twitter.com/landongetz">@landongetz</a></h5>|
+    <h5 id="contactbuttons"><span id="icon" class="fab fa-linkedin-square"></span>  <a href="https://www.linkedin.com/in/landon-getz-19a473111/">Linkedin</a></h5>|
+    <h5 id="contactbuttons"><span id="icon" class="fab fa-github-square"></span>  <a href="https://www.github.com/LandonGetz">Github</a></h5>|
     <h5 id="contactbuttons"><i id="icon" class="fa fa-graduation-cap" aria-hidden="true"></i>  <a href="https://scholar.google.ca/citations?user=cFMTBYMAAAAJ&hl=en&authuser=3">Google Scholar</a></h5>
 </div>
 <div class="container" id="CV">
     <hr>
     <h1 id="CVcontent"><b>Curriculum Vitae</b></h1>
+     <row style="text-align: center;">
+         <h5 style="text-align:center; padding:0;margin:5px;"><a href="www.landongetz.github.io/documents/CV.pdf" target="_blank">Download a PDF Copy</a></h5>
+    </row>
     <hr>
     <div id="skillslist"><h2><span class="fa fa-pie-chart" aria-hidden="true"></span> Skills</h2>
         <div class="col-lg-4" id="list">
@@ -123,7 +126,7 @@ scroll: true
 		</li>
 		<b><sup>*</sup>Authors contributed equally to the work, <sup>#</sup>Corresponding Author.</b>
             <ul id="sublist">
-                <li>Thornbury, M.<sup>*</sup>, Sicheri, J.<sup>*</sup>, Slaine, P.D., <b>Getz, L. J.</b>, Finlayson-Trick, E.C.L., Cook, J., Guinard, C., Boudreau, N., Jakeman, D., Rohde, J.R., McCormick, C.<sup>#</sup> (2018). "Characterization of novel lignocellulose-degrading enzymes from the porcupine microbiome using synthetic metagenomics" <i>PLoS One</i>. DOI: <a href="https://doi.org/10.1371/journal.pone.0209221" target="_blank">https://doi.org/10.1371/journal.pone.0209221</a>.</li>
+                <li>Thornbury, M.<sup>*</sup>, Sicheri, J.<sup>*</sup>, Slaine, P.D., <b>Getz, L. J.</b>, Finlayson-Trick, E.C.L., Cook, J., Guinard, C., Boudreau, N., Jakeman, D., Rohde, J.R., McCormick, C.<sup>#</sup> (2018). <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0209221" target="_blank">"Characterization of novel lignocellulose-degrading enzymes from the porcupine microbiome using synthetic metagenomics"</a> <i>PLoS One</i>. DOI: <a href="https://doi.org/10.1371/journal.pone.0209221" target="_blank">https://doi.org/10.1371/journal.pone.0209221</a>.</li>
 				<li><b>Getz, L.J.<sup>#</sup></b>, Dellaire, G.<sup>#</sup> (2018). <a href="https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(18)30207-5" target="_blank">"Angels and Devils: Dual-Use in Biotechnology."</a> <i>Trends in Biotechnology</i>. DOI: <a href="https://doi.org/10.1016/j.tibtech.2018.07.016" target="_blank">https://doi.org/10.1016/j.tibtech.2018.07.016</a>.</li>
 				<li>Runté, C., Jain, U., <b>Getz, L.J.</b>, Secord, S., Kuwae, A., Abe, A., Leblanc, J., Stadnyk, A.W., Kaper, J.B., Hansen, A.M., Thomas, N.A.<sup>#</sup> (2018). <a href="http://onlinelibrary.wiley.com/doi/10.1111/mmi.13948/full" target="_blank">"Tandem tyrosine phosphosites in the enteropathogenic <i>Escherichia coli</i> chaperone CesT are required for differential type III effector translocation and virulence."</a><i> Molecular Microbiology</i>. DOI: <a href="https://doi.org/10.1111/mmi.13948" target="_blank">https://doi.org/10.1111/mmi.13948</a>.</li>
                 <li><b>Getz, L.J.,</b> Thomas, N.A.<sup>#</sup> (2018) <a href="http://jb.asm.org/content/200/15/e00653-17.abstract" target="_blank">"The Transcriptional Regulator HlyU is a Positive Regulator for Expression of <i>exsA</i> Leading to Type III Secretion System-1 Activation in <i>Vibrio parahaemolyticus</i>"</a> <i>Journal of Bacteriology</i>. DOI: <a href="https://doi.org/10.1128/JB.00653-17" target="_blank">https://doi.org/10.1128/JB.00653-17</a>.</li>
@@ -141,16 +144,17 @@ scroll: true
     <li id="list"><b>Pre-Prints:</b>
             <ul id="sublist">
                 <li>*Thornbury, M., *Sicheri, J., Guinard, C,. Mahoney, D., Routledge, F,. Curry, M., Elaghil, M., Boudreau, N., Tsai, A., Slaine P., Finlayson-Trick, E.C.L., <b>Getz, L.J.</b>, Cook, J., Rohde, J.R., McCormick, C. <a href="https://www.biorxiv.org/content/early/2018/03/27/288985" target="_blank">“Discovery and Characterization of Novel Lignocellulose-Degrading Enzymes from the Porcupine Microbiome.”</a> BioRxiv.</li>
-                <li>Runté, C., Jain, U., <b>Getz, L.J.</b>, Secord, S., Kuwae, A., Abe, A., Leblanc, J., Stadnyk, A.W., Kaper, J.B., Hansen, A.M., Thomas, N.A. (2018) <a href="https://www.biorxiv.org/content/early/2018/02/22/270066" target="_blank">"Tandem tyrosine residues in the EPEC multicargo chaperone CesT support differential type III effector translocation and early host colonization."</a><i>BioRxiv</i>.</li>
+                <li>Runté, C., Jain, U., <b>Getz, L.J.</b>, Secord, S., Kuwae, A., Abe, A., Leblanc, J., Stadnyk, A.W., Kaper, J.B., Hansen, A.M., Thomas, N.A. (2018) <a href="https://www.biorxiv.org/content/early/2018/02/22/270066" target="_blank">"Tandem tyrosine residues in the EPEC multicargo chaperone CesT support differential type III effector translocation and early host colonization."</a><i> BioRxiv</i>.</li>
             </ul>
     </li>
     <li id="list"><b>Abstracts: </b>
          <ul id="sublist">
-                <li>Linking Phenotype and Pathogen Genomics: Tn-Seq and Next Generation DNA Sequencing, PREP Graduate Student Research Day, <i>Dalhousie University</i>, Halifax, NS - May 2018</li>
-                <li><a href="http://centerforvaccinology.ca/wp-content/uploads/2018/03/2018-Research-Day-Handbook-1.pdf" target="_blank">Linking Phenotype and Pathogen Genomics: Tn-Seq and Next Generation DNA Sequencing</a>, 23rd Annual Infectious Disesase Research Day, <i>Dalhousie University</i>, Halifax, NS - Apr 2018</li>
-                <li>HlyU and H-NS Act as a Genetic Switch for Transcriptional Control of the Type III Secretion System-I Master Regulator <i>exsA</i>, <i>ASM Vibrio2017: The Biology of Vibrios</i>, Chicago, IL - November 2017</li>
-                <li><a href="http://centerforvaccinology.ca/wp-content/uploads/2016/03/Handbook-10Apr2017.pdf" target="_blank">Discovery of a Genetic Switch in <i>Vibrio parahaemolyticus</i> That Contributes to Host Cell Death During Infection</a>, 22nd Annual Infectious Disease Research Day, <i>Dalhousie University</i>, Halifax, NS - March 2017</li>
-                <li><a href="http://2016.igem.org/wiki/images/9/9d/IGEM2016_GiantJamboree_booklet.pdf" target="_blank">A ‘spike’ in biofuel production: mining the porcupine microbiome to engineer a softwood feedstock platform</a>, Giant Jamboree Abstract Guide, <i>iGEM Giant Jamboree</i>, Boston, MA - October 2016</li>
+                <li><a href="https://lgbtstem.wordpress.com/lgbt-steminar-2019/" target="_blank">Flipping the Switch on Bacterial Pathogenesis: How the Leading Cause of Seafood-borne Gastroenteritis - <i>Vibrio parahaemolyticus</i> - Regulates Virulence</a>, LGBTSTEMinar 2019, <i>Institute of Physics</i>, London, UK. - January 2019</li>
+                <li>Linking Phenotype and Pathogen Genomics: Tn-Seq and Next Generation DNA Sequencing, PREP Graduate Student Research Day, <i>Dalhousie University</i>, Halifax, NS. - May 2018</li>
+                <li><a href="http://centerforvaccinology.ca/wp-content/uploads/2018/03/2018-Research-Day-Handbook-1.pdf" target="_blank">Linking Phenotype and Pathogen Genomics: Tn-Seq and Next Generation DNA Sequencing</a>, 23rd Annual Infectious Disesase Research Day, <i>Dalhousie University</i>, Halifax, NS. - Apr 2018</li>
+                <li>HlyU and H-NS Act as a Genetic Switch for Transcriptional Control of the Type III Secretion System-I Master Regulator <i>exsA</i>, <i>ASM Vibrio2017: The Biology of Vibrios</i>, Chicago, IL. - November 2017</li>
+                <li><a href="http://centerforvaccinology.ca/wp-content/uploads/2016/03/Handbook-10Apr2017.pdf" target="_blank">Discovery of a Genetic Switch in <i>Vibrio parahaemolyticus</i> That Contributes to Host Cell Death During Infection</a>, 22nd Annual Infectious Disease Research Day, <i>Dalhousie University</i>, Halifax, NS. - March 2017</li>
+                <li><a href="http://2016.igem.org/wiki/images/9/9d/IGEM2016_GiantJamboree_booklet.pdf" target="_blank">A ‘spike’ in biofuel production: mining the porcupine microbiome to engineer a softwood feedstock platform</a>, Giant Jamboree Abstract Guide, <i>iGEM Giant Jamboree</i>, Boston, MA. - October 2016</li>
             </ul>
     </li>
     <li id="list"><b>Blog Posts:</b>
@@ -161,22 +165,85 @@ scroll: true
         </ul>
     </li>
     </ul>
-    <h2><span class="glyphicon glyphicon-blackboard" aria-hidden="true"></span>  Conference Presentations</h2>
+    <h2><i class="fas fa-chalkboard-teacher" aria-hidden="true"></i> Invited Talks</h2>
     <ul id="list">
-        <li>PREP Graduate Student Research Day Platform Talk, <i>Dalhousie University</i>, Halifax, NS - May 2018</li>
-        <li>23rd Annual Infectious Disease Research Day Poster Presentation, <i>Centre for Vaccinology</i>, Halifax, NS - April 2018</li>
-        <li>Microbiology and Immunology Graduate Student Seminar Platform Talk, <i>Dalhousie University</i>, Halifax, NS - February 2018</li>
-        <li>ASM Vibrio2017 Poster Presentation, <i>American Society of Microbiology</i>, Chicago, IL - November 2017</li>
-        <li>22rd Annual Infectious Disease Research Day Poster Presentation, <i>Dalhousie University</i>, Halifax, NS - April, 2017</li>
-        <li>2016 iGEM Giant Jamboree Platform Talk, <i>iGEM</i>, Boston, MA - October, 2016</li>
-        <li>Microbiology and Immunology Seminar Series: iGEM Introduction Platform Talk, <i>Dalhousie University</i>, Halifax, NS - September 2016</li>
+        <li><b>Natural History Museum Life Science Seminar Series</b> - London, UK - January 2019
+            <ul>
+                <li>Title: The Multimodal Lifestyle of Marine <i>Vibrios</i></li>
+                <li>Description: <i>Vibrio</i> is a genus of marine bacteria which is able to survive and proliferate in a variety of niches, including as a human pathogen. My research aims to better understand these interactions by studying <i>Vibrio</i> environmental survival, as well as their host-pathogen interactions.</li>
+            </ul>
+        </li>
+    </ul>
+    <h2><span class="glyphicon glyphicon-blackboard" aria-hidden="true"></span>  Conference and Seminar Presentations</h2>
+    <ul id="list">
+        <li id="sublist">Microbiology and Immunology Seminar Series, <i>Dalhousie University</i>, Halifax, NS. - January 2019
+            <ul>
+                <li>Type: Oral Presentation</li>
+                <li>Title: The Multimodal Lifestyle of Marine <i>Vibrios</i></li>
+            </ul>
+        </li>
+        <li id="sublist"><b>LGBTSTEMinar 2019, <i>Institue of Physics</i>, London, UK - January 2019</b>
+        <ul>
+            <li>Type: Oral Presentation</li>
+            <li>Title: Flipping the Switch on Bacterial Pathogenesis: How the Leading Cause of Seafood-borne Gastroenteritis - <i>Vibrio parahaemolyticus - Regulates Virulence</i></li>
+            </ul>
+        </li>
+        <li id="sublist">PREP Graduate Student Research Day, <i>Dalhousie University</i>, Halifax, NS - May 2018
+           <ul>
+            <li>Type: Oral Presentation</li>
+            <li>Title: Linking Phenotype and Pathogen Genomics: TnSeq and Next Generation DNA Sequencing</li>
+            </ul>
+        </li>
+        <li id="sublist">23rd Annual Infectious Disease Research Day, <i>Centre for Vaccinology</i>, Halifax, NS - April 2018
+           <ul>
+            <li>Type: Poster Presentation</li>
+            <li>Title: Linking Phenotype and Pathogen Genomics: TnSeq and Next Generation DNA Sequencing.</li>
+            </ul>
+        </li>
+        <li id="sublist">Microbiology and Immunology Graduate Student Seminar, <i>Dalhousie University</i>, Halifax, NS - February 2018
+           <ul>
+            <li>Type: Oral Presentation</li>
+               <li>Title: <i>Vibrio parahaemolyticus</i>: A Versatile Pathogen Living a Dual-Lifestyle</li>
+            </ul>
+        </li>
+        <li id="sublist"><b>ASM Vibrio2017, <i>American Society of Microbiology</i>, Chicago, IL - November 2017</b>
+           <ul>
+            <li>Type: Poster Presentation</li>
+               <li>Title: HlyU and H-NS act as a Genetic Switch for Transcriptional Control of the Type-III Secretion System I Master Regulator <i>exsA</i></li>
+            </ul>
+        </li>
+        <li id="sublist">22rd Annual Infectious Disease Research Day, <i>Dalhousie University</i>, Halifax, NS - April, 2017
+           <ul>
+            <li>Type: Poster Presentation</li>
+               <li>Title: Discovery of a Genetic Switch in <i>Vibrio parahaemolyticus</i> that Contributes to Host Cell Death during Infection.</li>
+            </ul>
+        </li>
+        <li id="sublist">2016 iGEM Giant Jamboree, <i>iGEM</i>, Boston, MA - October 2016
+           <ul>
+            <li>Type: Poster Presentation</li>
+            <li>Title: Biofuel Production set to Spike: Identification of Biofuel Producing Enzymes in the Porcupine Microbiome</li>
+            </ul>
+        </li>
+        <li id="sublist">2016 iGEM Giant Jamboree, <i>iGEM</i>, Boston, MA - October, 2016
+           <ul>
+            <li>Type: Oral Presentation</li>
+            <li>Title: Biofuel Production set to Spike: Identification of Biofuel Producing Enzymes in the Porcupine Microbiome</li>
+            </ul>
+        </li>
+        <li id="sublist">Microbiology and Immunology Seminar Series, <i>Dalhousie University</i>, Halifax, NS - September 2016
+           <ul>
+            <li>Type: Oral Presentation</li>
+            <li>Title: State of the Union: iGEM Introduction</li>
+            </ul>
+        </li>
     </ul>
     <h2><span class="glyphicon glyphicon-apple" aria-hidden="true"></span> Teaching and Mentoring</h2>
+    <b style="text-align: center;">A Complete Teaching Dossier can be found <a href="www.landongetz.github.io/documents/teachingdossier.pdf" target="_blank"> here</a>.</b>
 	<ul id="list">
         <li id="list"><b>Part Time Academic, <i>Dalhousie University</i></b>
         <ul id="sublist">
             <li>September 2018 to <i>Present</i></li>
-            <li>Instructor for CHEM 1011/1012 at Dalhousie University and First Year Chemistry Resource Centre Coordinator</li>
+            <li>Instructor for CHEM 1011/1021 and CHEM 1012/1022 at Dalhousie University and First Year Chemistry Resource Centre Coordinator</li>
             <li>Duties include: Organize TAs, lecture once a week, respond to student e-mails, prepare course material, mark quizzes and exams.</li>
         </ul>
         </li>
@@ -242,11 +309,30 @@ scroll: true
 			</ul>
 		</li>
 	</ul>
+     <h2><span class="glyphicon glyphicon-tower" aria-hidden="true"></span>  Awards:</h2>
+    <ul id="list">
+        <li>Nominated for Vanier Canadian Graduate Scholarship by Dalhousie University - $50,000 Award</li>
+        <li>2018 Nova Scotia Health Research Foundation Scotia Scholars Award - $10,000 Award</li>
+        <li>2018 Alexander Graham Bell Canadian Graduate Scholarship - Masters Recipient - $17,500 Award</li>
+        <li>2018 Nova Scotia Graduate Scholarship - $10,000</li>
+        <li>2017 Award for Excellence in Undergraduate Honours Research - $100</li>
+        <li>2017 Nova Scotia Graduate Scholarship - $10,000</li>
+        <li>2017 Faculty of Science Undergraduate Research Prize</li>
+        <li>2017 Honours Student Prize</li>
+        <li>2016/2017 Academic Year – Faculty of Science Dean’s List</li>
+        <li>2016 Natural Science and Engineering Research Council of Canada University Summer Research Award - $4,500</li>
+        <li>2015/2016 Academic Year – Faculty of Science Dean’s List</li>
+        <li>2015 Dalhousie University In-Course Scholarship - $250</li>
+        <li>2014/2015 Academic Year – Faculty of Science Dean’s List</li>
+        <li>2013 Fall – Faculty of Science Dean’s List</li>
+        <li>2013 Dalhousie University Entrance Scholarship - $750</li>
+        <li>2013 Alexander Rutherford Scholarship - $2,500</li>
+    </ul>
     <h2><span class="fa fa-users" aria-hidden="hidden"></span> Community Service</h2>
     <ul id="list">
         <li id="list"><b>Graduate Student Representative, <i>Undergraduate Studies Committee.</i></b>
             <ul id="sublist">
-                <li>Sept 2017 to Present</li>
+                <li>Sept 2017 to <i>Present</i></li>
                 <li>Act as a liason between graduate/undergraduate students and the committee</li>
                 <li>Provide feedback to the committee based on my experience as an undergraduate student at Dalhousie Univeristy</li>
             </ul>
@@ -315,25 +401,6 @@ scroll: true
                 <li>Assisted in Computer Setups, One-on-one technology learning lessons, screen protector installation and router setups.</li>
             </ul>
         </li>
-    </ul>
-    <h2><span class="glyphicon glyphicon-tower" aria-hidden="true"></span>  Awards:</h2>
-    <ul id="list">
-        <li>Nominated for Vanier Canadian Graduate Scholarship by Dalhousie University - $50,000 Award</li>
-        <li>2018 Nova Scotia Health Research Foundation Scotia Scholars Award - $10,000 Award</li>
-        <li>2018 Alexander Graham Bell Canadian Graduate Scholarship - Masters Recipient - $17,500 Award</li>
-        <li>2018 Nova Scotia Graduate Scholarship - $10,000</li>
-        <li>2017 Award for Excellence in Undergraduate Honours Research - $100</li>
-        <li>2017 Nova Scotia Graduate Scholarship - $10,000</li>
-        <li>2017 Faculty of Science Undergraduate Research Prize</li>
-        <li>2017 Honours Student Prize</li>
-        <li>2016/2017 Academic Year – Faculty of Science Dean’s List</li>
-        <li>2016 Natural Science and Engineering Research Council of Canada University Summer Research Award - $4,500</li>
-        <li>2015/2016 Academic Year – Faculty of Science Dean’s List</li>
-        <li>2015 Dalhousie University In-Course Scholarship - $250</li>
-        <li>2014/2015 Academic Year – Faculty of Science Dean’s List</li>
-        <li>2013 Fall – Faculty of Science Dean’s List</li>
-        <li>2013 Dalhousie University Entrance Scholarship - $750</li>
-        <li>2013 Alexander Rutherford Scholarship - $2,500</li>
     </ul>
     <h2><span class="fa fa-newspaper-o" aria-hidden="true"></span> Media</h2>
     <ul id="list">
