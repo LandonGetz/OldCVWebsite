@@ -26,7 +26,7 @@ scroll: true
     <hr>
     <h1 id="CVcontent"><b>Curriculum Vitae</b></h1>
      <row style="text-align: center;">
-         <h5 style="text-align:center; padding:0;margin:5px;"><a href="www.landongetz.github.io/documents/CV.pdf" target="_blank">Download a PDF Copy</a></h5>
+         <h5 style="text-align:center; padding:0;margin:5px;"><a href="/documents/CV.pdf" target="_blank">Download a PDF Copy</a></h5>
     </row>
     <hr>
     <div id="skillslist"><h2><span class="fa fa-pie-chart" aria-hidden="true"></span> Skills</h2>
@@ -238,7 +238,7 @@ scroll: true
         </li>
     </ul>
     <h2><span class="glyphicon glyphicon-apple" aria-hidden="true"></span> Teaching and Mentoring</h2>
-    <b style="text-align: center;">A Complete Teaching Dossier can be found <a href="www.landongetz.github.io/documents/teachingdossier.pdf" target="_blank"> here</a>.</b>
+    <b style="text-align: center;">A Complete Teaching Dossier can be found <a href="/documents/teachingdossier.pdf" target="_blank"> here</a>.</b>
 	<ul id="list">
         <li id="list"><b>Part Time Academic, <i>Dalhousie University</i></b>
         <ul id="sublist">
