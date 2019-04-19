@@ -135,6 +135,7 @@ scroll: true
             </ul>
     <li id="list"><b>Commentaries:</b>
             <ul id="sublist">
+                <li><b>Getz, L.J.</b>, Dellaire, G. (2019). <a href="https://www.thehastingscenter.org/moratorium-on-human-genome-editing-time-to-get-it-right/">Moratorium on Human Genome Editing: Time to Get It Right</a>, <i><a href="https://www.thehastingscenter.org/publications-resources/forum/" target="_blank">The Hastings Center Forum Blog</a>.</i></li>
                 <li><b>Getz, L.J.</b>, Dellaire, G. (2019). <a href="https://theconversation.com/crispr-gene-editing-why-we-need-slow-science-113639">CRISPR gene editing: Why we need Slow Science</a>, <i><a href="https://theconversation.com/ca" target="_blank">The Conversation: Canada Edition</a></i>.</li>
                 <li><b>Getz, L.J.</b> (2019).<a href="https://impactethics.ca/2019/02/28/the-value-of-consumer-dna-sequencing/">The "Value" of Consumer DNA Sequencing.</a>, <i><a href="http://www.impactethics.ca" target="_blank">Impact Ethics</a></i>, <a href="https://www.dal.ca/sites/noveltechethics.html" target="_blank">Novel Tech Ethics,</a> Halifax, NS.</li>
                 <li><b>Getz, L.J.</b>, Dellaire, G., Baylis, F. (2018). <a href="https://www.thehastingscenter.org/jiankui-sorry-tale-high-stakes-science/" target="_blank">"Jiankui He: A Sorry Tale of High-Stakes Science"</a>, <i><a href="https://www.thehastingscenter.org/publications-resources/forum/" target="_blank">The Hastings Center Forum Blog</a>.</i></li>
@@ -291,8 +292,12 @@ scroll: true
             </ul>
         </li>
     </ul>
-	<h2><span class="fa fa-flask" aria-hidden="hidden"></span> Science Communication</h2>
+	<h2><span class="fa fa-flask" aria-hidden="hidden"></span> Knowledge Translation</h2>
 	<ul id="list">
+        <li id="list"><b><a href="https://www.cbc.ca/listen/shows/information-morning-ns/" target="_blank">CBC Nova Scotia's Information Morning Radio Show </a> - <i>On the Moratorium on Germline Genome Editing</i> with Portia Clarke, live in studio.</b></li>
+            <ul id="sublist">
+             <li>Discussed the 2019 call for moratorium on germline genome editing and the need for <i>Slow CRISPR Science</i></li>
+        </ul>    
         <li id="list"><b><a href="https://twitter.com/scislamhfx?lang=en" target="_blank">Science Slam Halifax Participant</a></b>
             <ul id="sublist">
                 <li>Discussed a subset of my work, marine nutrient cycles, to a lay audience at a Grade 8 education level</li>
@@ -314,7 +319,10 @@ scroll: true
 	</ul>
      <h2><span class="glyphicon glyphicon-tower" aria-hidden="true"></span>  Awards:</h2>
     <ul id="list">
-        <li>Nominated for Vanier Canadian Graduate Scholarship by Dalhousie University - $50,000 Award</li>
+        <li>2019 Dalhouise University Faculty of Medicine Excellence in Research Award - $1,000 Prize</li>
+        <li>2019 Killam Doctoral Scholarship Honorary Recipient - $30,000 Award</li>
+        <li>2019 Alexander Graham Bell Canadian Graduate Scholarship - Doctoral Honorary Recipient - $35,000 Award</li>
+        <li>Nominated for 2019 Vanier Canadian Graduate Scholarship by Dalhousie University - $50,000 Award</li>
         <li>2018 Nova Scotia Health Research Foundation Scotia Scholars Award - $10,000 Award</li>
         <li>2018 Alexander Graham Bell Canadian Graduate Scholarship - Masters Recipient - $17,500 Award</li>
         <li>2018 Nova Scotia Graduate Scholarship - $10,000</li>
@@ -407,6 +415,10 @@ scroll: true
     </ul>
     <h2><span class="fa fa-newspaper-o" aria-hidden="true"></span> Media</h2>
     <ul id="list">
+        <li id="list"><b><a href="https://www.cbc.ca/listen/shows/information-morning-ns/" target="_blank">CBC Nova Scotia's Information Morning Radio Show </a> - <i>On the Moratorium on Germline Genome Editing</i> with Portia Clarke, live in studio.</b></li>
+            <ul id="sublist">
+                <li>Discussed the 2019 call for moratorium on germline genome editing and the need for <i>Slow CRISPR Science</i></li>
+        </ul>
         <li id="list"><b><a href="https://www.cbc.ca/listen/shows/information-morning-ns/" target="_blank">CBC Nova Scotia's Information Morning Radio Show </a> - <i>Inclusion and Diversity in STEM</i> with Portia Clarke, live in studio.</b></li>
             <ul id="sublist">
                 <li>Discussed #LGBTSTEMday and LGBTQ+ Representation in Science, Technology, Engineering, and Math (STEM)</li>
