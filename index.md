@@ -7,12 +7,14 @@ page_title: Landon J. Getz
 scroll: true
 ---
 <div class="container" id="about">
-</div>
+
 
 <hr>
-<h1 id="about"><b>About Me</b></h1>
+<h1><b>About Me</b></h1>
 <hr>
+</div>
 <div class="container">
+    <h4><a href="http://www.vanier.gc.ca/en/home-accueil.html" target="_blank">Vanier Scholar</a> & <a href="http://www.killamlaureates.ca/" target="_blank">Killam Laureate</a></h4>
     <h4>I am a Ph.D. candidate in the Thomas lab at Dalhousie University studying <i>Vibrio parahaemolyticus</i> environmental survival and host-pathogen interactions.</h4>
 </div>
 <div class="container" id="contactbuttondiv">
@@ -91,8 +93,7 @@ scroll: true
     <ul id="list">
         <li id="list"><b>Ph.D Microbiology and Immunology, <i>Dalhousie University</i></b>
             <ul id="sublist">
-                <li>Nominated by Dalhousie University for the Vanier Canadian Graduate Scholarship - $50,000 Award</li>
-                <li>Nova Scotia Graduate Scholarship (NSGS) Recipient - $10,000 Award</li>
+                <li>2019 Vanier Scholar and 2019 Killam Laureate</li>
                 <li>Alexander Graham Bell Canadian Graduate Scholarship - Masters Recipient 2018 - $17,500 Award</li>
                 <li>Currently Enrolled</li>
                 <li>Studying Host-Pathogen Interactions and Environmental Survival in <i>Vibrio parahaemolyticus</i></li>
@@ -126,7 +127,7 @@ scroll: true
 		</li>
 		<b><sup>*</sup>Authors contributed equally to the work, <sup>#</sup>Corresponding Author.</b>
             <ul id="sublist">
-                <li><b>Getz, L. J.</b>, Runté, C., Rainey, J., Thomas, N.A.<sup>#</sup> (2019). "Tyrosine phosphorylation as a widespread regulatory mechanism in prokaryotes." Submitted March 15th/2019.</li>
+                <li><b>Getz, L. J.</b>, Runté, C., Rainey, J., Thomas, N.A.<sup>#</sup> (2019). "Tyrosine phosphorylation as a widespread regulatory mechanism in prokaryotes." In Revision.</li>
                 <li>Thornbury, M.<sup>*</sup>, Sicheri, J.<sup>*</sup>, Slaine, P.D., <b>Getz, L. J.</b>, Finlayson-Trick, E.C.L., Cook, J., Guinard, C., Boudreau, N., Jakeman, D., Rohde, J.R., McCormick, C.<sup>#</sup> (2018). <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0209221" target="_blank">"Characterization of novel lignocellulose-degrading enzymes from the porcupine microbiome using synthetic metagenomics"</a> <i>PLoS One</i>. DOI: <a href="https://doi.org/10.1371/journal.pone.0209221" target="_blank">https://doi.org/10.1371/journal.pone.0209221</a>.</li>
 				<li><b>Getz, L.J.<sup>#</sup></b>, Dellaire, G.<sup>#</sup> (2018). <a href="https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(18)30207-5" target="_blank">"Angels and Devils: Dual-Use in Biotechnology."</a> <i>Trends in Biotechnology</i>. DOI: <a href="https://doi.org/10.1016/j.tibtech.2018.07.016" target="_blank">https://doi.org/10.1016/j.tibtech.2018.07.016</a>.</li>
 				<li>Runté, C., Jain, U., <b>Getz, L.J.</b>, Secord, S., Kuwae, A., Abe, A., Leblanc, J., Stadnyk, A.W., Kaper, J.B., Hansen, A.M., Thomas, N.A.<sup>#</sup> (2018). <a href="http://onlinelibrary.wiley.com/doi/10.1111/mmi.13948/full" target="_blank">"Tandem tyrosine phosphosites in the enteropathogenic <i>Escherichia coli</i> chaperone CesT are required for differential type III effector translocation and virulence."</a><i> Molecular Microbiology</i>. DOI: <a href="https://doi.org/10.1111/mmi.13948" target="_blank">https://doi.org/10.1111/mmi.13948</a>.</li>
@@ -179,6 +180,24 @@ scroll: true
     </ul>
     <h2><span class="glyphicon glyphicon-blackboard" aria-hidden="true"></span>  Conference and Seminar Presentations</h2>
     <ul id="list">
+        <li id="sublist">Professional Research and Education Program Graduate Student Research Day, <i>Dalhousie University</i>, Halifax, NS. - May 2019
+            <ul>
+                <li>Type: Oral Presentation</li>
+                <li>Title: A Regulator of Sugar Metabolism Implicated in the Secretion and Virulence of <i>Vibrio parahaemolyticus</i></li>
+            </ul>
+        </li>
+        <li id="sublist"><b>Graduate Student Research Day Excellence in Research Keynote, <i>Dalhousie University</i>, Halifax, NS. - May 2019</b>
+            <ul>
+                <li>Type: Keynote</li>
+                <li>Title: <i>Vibrio parahaemolyticus</i> and infection: A complex relationship between environment and host</li>
+            </ul>
+        </li>
+        <li id="sublist">Dalhousie Conference on University Teaching and Learning, <i>Dalhousie University</i>, Halifax, NS. - May 2019
+            <ul>
+                <li>Type: Oral Presentation</li>
+                <li>Title: Creating LGBTQ+ Inclusive Spaces for Equitable Active Learning</li>
+            </ul>
+        </li>
         <li id="sublist">Microbiology and Immunology Seminar Series, <i>Dalhousie University</i>, Halifax, NS. - January 2019
             <ul>
                 <li>Type: Oral Presentation</li>
@@ -314,7 +333,11 @@ scroll: true
 	</ul>
      <h2><span class="glyphicon glyphicon-tower" aria-hidden="true"></span>  Awards:</h2>
     <ul id="list">
-        <li>Nominated for Vanier Canadian Graduate Scholarship by Dalhousie University - $50,000 Award</li>
+        <li>2019 President's Graduate Student Teaching Assistant Award - $500 Award</li>
+        <li>2019 Professional Research and Education Program (PREP) Graduate Student Research Day Platform Presentation Award - $200 Award</li>
+        <li>2019 Faculty of Medicine Excellence in Research Award - $1000 Award</li>
+        <li>2018/2019 Vanier Canadian Graduate Scholarship by Dalhousie University - $150,000 Award, 3 Year Tenure</li>
+        <li>2019 Killam Graduate Scholarship - $90,000 Award, 3 Year Tenure (Eligible for $10,000)</li>
         <li>2018 Nova Scotia Health Research Foundation Scotia Scholars Award - $10,000 Award</li>
         <li>2018 Alexander Graham Bell Canadian Graduate Scholarship - Masters Recipient - $17,500 Award</li>
         <li>2018 Nova Scotia Graduate Scholarship - $10,000</li>
@@ -407,18 +430,9 @@ scroll: true
     </ul>
     <h2><span class="fa fa-newspaper-o" aria-hidden="true"></span> Media</h2>
     <ul id="list">
-        <li id="list"><b><a href="https://www.cbc.ca/listen/shows/information-morning-ns/" target="_blank">CBC Nova Scotia's Information Morning Radio Show </a> - <i>Inclusion and Diversity in STEM</i> with Portia Clarke, live in studio.</b></li>
-            <ul id="sublist">
-                <li>Discussed #LGBTSTEMday and LGBTQ+ Representation in Science, Technology, Engineering, and Math (STEM)</li>
-            </ul>
-        <li id="list"><b>Halifax's The Coast - <i><a target="_blank" href="https://www.thecoast.ca/halifax/10-urban-gardens-you-need-to-know/Content?oid=8720166">10 urban gardens you need to know</a></i> by Victoria Walton</b></li>
-            <ul id="sublist">
-                <li>Featured for work at the Dalhousie Urban Garden</li>
-            </ul>
-        <li id="list"><b>The Dalhousie Gazette - <i><a href="http://dalgazette.com/news/urban-garden-one-dalhousies-hidden-gems/">Urban Garden is one of Dalhousie’s hidden gems</a></i> by Lauren Hazlewood</b>
-            <ul id="sublist">
-                <li>Featured for work at the Dalhousie Urban Garden</li>
-            </ul>
-            </li>
+        <li id="list"><a href="https://www.dal.ca/news.html" target="_blank">Dal News</a>. <a href="https://www.dal.ca/news/2019/05/16/government-of-canada-selects-dal-phds-and-postdocs-for-its-most-.html#" target="_blank"><i>GOVERNMENT OF CANADA SELECTS DAL PHDS AND POSTDOCS FOR ITS MOST ESTEEMED AWARDS</i>.</a> May 16th, 2019.</li>
+        <li id="list"><a href="https://www.cbc.ca/listen/shows/information-morning-ns/" target="_blank">CBC Nova Scotia's Information Morning Radio Show</a>. <i>Inclusion and Diversity in STEM</i> with Portia Clarke, live in studio. Feburary 2019.</li>
+         <li id="list"><a href="https://dalgazette.com/" target="_blank">The Dalhousie Gazette</a>. <i><a href="http://dalgazette.com/news/urban-garden-one-dalhousies-hidden-gems/">Urban Garden is one of Dalhousie’s hidden gems</a></i> by Lauren Hazlewood. September 27th, 2019.</li>
+        <li id="list"><a href="https://www.thecoast.ca/" target="_blank">Halifax's The Coast</a>. <i><a target="_blank" href="https://www.thecoast.ca/halifax/10-urban-gardens-you-need-to-know/Content?oid=8720166">10 urban gardens you need to know</a></i> by Victoria Walton. August 3rd, 2017</li>
         </ul>
 </div>
