@@ -338,18 +338,15 @@ scroll: true
 	</ul>
      <h2><span class="glyphicon glyphicon-tower" aria-hidden="true"></span>  Awards:</h2>
     <ul id="list">
-<<<<<<< HEAD
         <li>2019 President's Graduate Student Teaching Assistant Award - $500 Award</li>
         <li>2019 Professional Research and Education Program (PREP) Graduate Student Research Day Platform Presentation Award - $200 Award</li>
         <li>2019 Faculty of Medicine Excellence in Research Award - $1000 Award</li>
         <li>2018/2019 Vanier Canadian Graduate Scholarship by Dalhousie University - $150,000 Award, 3 Year Tenure</li>
         <li>2019 Killam Graduate Scholarship - $90,000 Award, 3 Year Tenure (Eligible for $10,000)</li>
-=======
         <li>2019 Dalhouise University Faculty of Medicine Excellence in Research Award - $1,000 Prize</li>
         <li>2019 Killam Doctoral Scholarship Honorary Recipient - $30,000 Award</li>
         <li>2019 Alexander Graham Bell Canadian Graduate Scholarship - Doctoral Honorary Recipient - $35,000 Award</li>
         <li>Nominated for 2019 Vanier Canadian Graduate Scholarship by Dalhousie University - $50,000 Award</li>
->>>>>>> ef585692c7b2656d500afe5f472540f738baaf35
         <li>2018 Nova Scotia Health Research Foundation Scotia Scholars Award - $10,000 Award</li>
         <li>2018 Alexander Graham Bell Canadian Graduate Scholarship - Masters Recipient - $17,500 Award</li>
         <li>2018 Nova Scotia Graduate Scholarship - $10,000</li>
@@ -442,12 +439,11 @@ scroll: true
     </ul>
     <h2><span class="fa fa-newspaper-o" aria-hidden="true"></span> Media</h2>
     <ul id="list">
-<<<<<<< HEAD
+        <li id="list"><a href="https://www.dal.ca/news.html" target="_blank">Dal News</a>. <a href="https://www.dal.ca/news/2019/06/19/teachers-who-inspire--meet-this-year-s-recipients-of-dal-s-unive.html">TEACHERS WHO INSPIRE: MEET THIS YEAR'S RECIPIENTS OF DAL'S UNIVERSITY‑WIDE TEACHING AWARDS</a>. June 20th, 2019.</li>
         <li id="list"><a href="https://www.dal.ca/news.html" target="_blank">Dal News</a>. <a href="https://www.dal.ca/news/2019/05/16/government-of-canada-selects-dal-phds-and-postdocs-for-its-most-.html#" target="_blank"><i>GOVERNMENT OF CANADA SELECTS DAL PHDS AND POSTDOCS FOR ITS MOST ESTEEMED AWARDS</i>.</a> May 16th, 2019.</li>
         <li id="list"><a href="https://www.cbc.ca/listen/shows/information-morning-ns/" target="_blank">CBC Nova Scotia's Information Morning Radio Show</a>. <i>Inclusion and Diversity in STEM</i> with Portia Clarke, live in studio. Feburary 2019.</li>
          <li id="list"><a href="https://dalgazette.com/" target="_blank">The Dalhousie Gazette</a>. <i><a href="http://dalgazette.com/news/urban-garden-one-dalhousies-hidden-gems/">Urban Garden is one of Dalhousie’s hidden gems</a></i> by Lauren Hazlewood. September 27th, 2019.</li>
         <li id="list"><a href="https://www.thecoast.ca/" target="_blank">Halifax's The Coast</a>. <i><a target="_blank" href="https://www.thecoast.ca/halifax/10-urban-gardens-you-need-to-know/Content?oid=8720166">10 urban gardens you need to know</a></i> by Victoria Walton. August 3rd, 2017</li>
-=======
         <li id="list"><b><a href="https://www.cbc.ca/listen/shows/information-morning-ns/" target="_blank">CBC Nova Scotia's Information Morning Radio Show </a> - <i>On the Moratorium on Germline Genome Editing</i> with Portia Clarke, live in studio.</b></li>
             <ul id="sublist">
                 <li>Discussed the 2019 call for moratorium on germline genome editing and the need for <i>Slow CRISPR Science</i></li>
@@ -465,6 +461,5 @@ scroll: true
                 <li>Featured for work at the Dalhousie Urban Garden</li>
             </ul>
             </li>
->>>>>>> ef585692c7b2656d500afe5f472540f738baaf35
         </ul>
 </div>
