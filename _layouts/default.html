@@ -5,8 +5,22 @@
     <link rel="stylesheet" type="text/css" href="/css/default.css">
     <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans+SC|Merriweather" rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.0.0.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/3044a9eb36.js"></script>
+    <script>
+        // When the user scrolls the page, execute myFunction 
+window.onscroll = function() {myFunction()};
+
+function myFunction() {
+  var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+  var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+  var scrolled = (winScroll / height) * 100;
+  document.getElementById("myBar").style.width = scrolled + "%";
+}
+    </script>
     <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-118011177-1"></script>
 <script>
@@ -45,64 +59,43 @@
 </head>
 <body>
     <!-- Navigation -->
-    <nav id="navbar" class="d" role="navigation">
-        <div class="container">
-            <div class="navbar-header">
-                <button type="button" id="navtoggle" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
-                    <b>Menu</b> <i class="fa fa-bars"></i>
-                </button>
-                
-            </div>
+    <nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand" href="#">Landon J. Getz</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
 
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse navbar-left navbar-main-collapse">
-                <ul class="nav navbar-nav">
-                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
-                    <li class="hidden">
-                        <a href="#page-top"></a>
-                    </li>
-                    <li>
-                        <h4 id="headertext"> {{page.page_title}} </h4>
-                    </li>
-                    <li id="spacer">Word</li>
-                    <li id="navlink">
-                        {% if page.scroll %}
-                        <a class="page-scroll" href="#about">About Me</a>
-                        {% else %}
-                        <a href="index.html">About Me</a>
-                        {% endif %}
-                    </li>
-                    
-                    <li id="navlink">
-                        {% if page.scroll %}
-                        <a class="page-scroll" href="#CV">Curriculum Vitae</a>
-                        {% else %}
-                        <a href="index.html">Curriculum Vitae</a>
-                        {% endif %}
-                    </li>
-					
-					  <li id="navlink">
-                        <a href="/blog">Blog</a>
-                    </li>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+        <a class="nav-link" href="#about">About Me</a>
+      </li>
+        <li class="nav-item">
+        <a class="nav-link" href="#CV">Curriculum Vitae</a>
+      </li>
+        <li class="nav-item">
+        <a class="nav-link" href="https://landongetz.github.io/blog">Blog</a>
+      </li>
 
-                </ul>
-            </div>
-            <!-- /.navbar-collapse -->
+    </ul>
+  </div>
+</nav>
+    <div class="row">
+        <img src="/images/IMG_2659-header.jpg" class="img-fluid rounded" style="max-height: 600px;margin-left: auto;margin-right: auto;padding-top: 20px;">
         </div>
-        <!-- /.container -->
-    </nav>
-    <div class="jumbotron" id="header" style="padding:0px;">
-        <div class="row" style="background-image: url(/images/header-dec-new.jpg); background-size: cover; background-repeat: no-repeat; height: 100%; width: 100%; border: 0px; margin: 0px; padding: 0px;">
-    
+          <div class="col-sm" id="about">
+<h1><hr><b>About Me</b><hr></h1>
+    <h4><a href="http://www.vanier.gc.ca/en/home-accueil.html" target="_blank">Vanier Scholar</a> & <a href="http://www.killamlaureates.ca/" target="_blank">Killam Laureate</a></h4>
+    <h4>I am a Ph.D. candidate in the Thomas lab at Dalhousie University studying <i>Vibrio parahaemolyticus</i> environmental survival and host-pathogen interactions.</h4>
+<div class="col-sm" id="contactbuttondiv" style="display: grid;">
+    <p id="contactbuttons"><span id="icon" class="fas fa-paper-plane"></span> Email:<a href="mailto:landon.getz@dal.ca"> landon.getz@dal.ca</a></p>
+    <p id="contactbuttons"><i id="icon" class="fab fa-twitter-square fa-1x" aria-hidden="true"></i> Twitter: <a target="_blank" href="http://twitter.com/landongetz">@landongetz</a></p>
+    <p id="contactbuttons"><span id="icon" class="fab fa-linkedin-square"></span> <a href="https://www.linkedin.com/in/landon-getz-19a473111/">Linkedin</a></p>
+    <p id="contactbuttons"><span id="icon" class="fab fa-github-square"></span> <a href="https://www.github.com/LandonGetz">Github</a></p>
+    <p id="contactbuttons"><i id="icon" class="fa fa-graduation-cap" aria-hidden="true"></i> <a href="https://scholar.google.ca/citations?user=cFMTBYMAAAAJ&hl=en&authuser=3">Google Scholar</a></p>
         </div>
-        </div>
-        <h1 id="headertext"> {{page.page_title}} </h1>
-    
-        </div>
-    <div class="container" id="content">
-        {{ content }}
     </div>
-    <footer>
-    
-    </footer>
-</body>
+    {{ content }}
+    </body>
+
+
