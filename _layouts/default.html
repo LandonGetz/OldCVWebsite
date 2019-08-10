@@ -56,6 +56,14 @@ function myFunction() {
           });
         });
 </script>
+<style>
+@media screen and (max-width: 1024px) { /* Specific to this particular image */
+  header.img {
+    left: 50%;
+    margin-left: -512px;   /* 50% */
+  }
+}    
+</style>
 </head>
 <body>
     <!-- Navigation -->
@@ -80,8 +88,8 @@ function myFunction() {
     </ul>
   </div>
 </nav>
-    <div class="row" style="background-image: url(/images/background.jpg);background-repeat: repeat;">
-        <img src="/images/IMG_2659.jpg" class="img-fluid rounded" style="max-height: 474px;margin-left: auto;margin-right: auto;margin-top: 20px;margin-bottom:20px;" media="(min-width: 40em)">
+    <div class="col-sm" style="background-image: url(/images/background.jpg);background-repeat: repeat;">
+        <img id="header.img" src="/images/IMG_2659.jpg" class="img-fluid rounded" style="max-height: 474px;margin-left: auto;margin-right: auto;margin-top: 20px;margin-bottom:20px;">
         </div>
           <div class="col-sm" id="about">
 <h1><hr><b>About Me</b><hr></h1>
