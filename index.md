@@ -92,6 +92,14 @@ scroll: true
                     <li>Expected Graduation: Summer 2022</li>
                 </ul>
             </li>
+            <li id="list"><b>Advanced Bacterial Genetics Course, <i>Cold Spring Harbour Laboratories</i></b>
+                <ul id="sublist">
+                    <li>Course Taught by: Dr. Andrew Camilli, Dr. Angelika Gründling, and Dr. Lionello Bossi.</li>
+                    <li>June 4th, 2019 to June 24th, 2019</li>
+                    <li>Topics covered include Transposon Sequencing, CRISPR/Cas, and Lambda-red recombineering in Vibrio cholerae,
+                        Salmonella enterica, and Staphylococcus aureus, among other techniques.</li>
+                </ul>
+            </li>
             <li id="list"><b>B.Sc. First Class Honours in Microbiology and Immunology, <i>Dalhousie University</i></b>
                 <ul id="sublist">
                     <li>Graduated June 2017</li>
@@ -119,7 +127,7 @@ scroll: true
             </li>
             <b><sup>*</sup>Authors contributed equally to the work, <sup>#</sup>Corresponding Author.</b>
             <ul id="sublist">
-                <li><b>Getz, L. J.</b>, Runté, C., Rainey, J., Thomas, N.A.<sup>#</sup> (2019). "Tyrosine phosphorylation as a widespread regulatory mechanism in prokaryotes." In Revision.</li>
+                <li><b>Getz, L. J.</b>, Runté, C., Rainey, J., Thomas, N.A.<sup>#</sup> (2019). <a href="https://jb.asm.org/content/201/19/e00205-19" target="_blank">"Tyrosine phosphorylation as a widespread regulatory mechanism in prokaryotes."</a> <i>Journal of Bacteriology</i>. DOI:<a href="https://doi.org/10.1128/JB.00205-19">10.1128/JB.00205-19</a></li>
                 <li>Thornbury, M.<sup>*</sup>, Sicheri, J.<sup>*</sup>, Slaine, P.D., <b>Getz, L. J.</b>, Finlayson-Trick, E.C.L., Cook, J., Guinard, C., Boudreau, N., Jakeman, D., Rohde, J.R., McCormick, C.<sup>#</sup> (2018). <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0209221" target="_blank">"Characterization of novel lignocellulose-degrading enzymes from the porcupine microbiome using synthetic metagenomics"</a> <i>PLoS One</i>. DOI: <a href="https://doi.org/10.1371/journal.pone.0209221" target="_blank">https://doi.org/10.1371/journal.pone.0209221</a>.</li>
                 <li><b>Getz, L.J.<sup>#</sup></b>, Dellaire, G.<sup>#</sup> (2018). <a href="https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(18)30207-5" target="_blank">"Angels and Devils: Dual-Use in Biotechnology."</a> <i>Trends in Biotechnology</i>. DOI: <a href="https://doi.org/10.1016/j.tibtech.2018.07.016" target="_blank">https://doi.org/10.1016/j.tibtech.2018.07.016</a>.</li>
                 <li>Runté, C., Jain, U., <b>Getz, L.J.</b>, Secord, S., Kuwae, A., Abe, A., Leblanc, J., Stadnyk, A.W., Kaper, J.B., Hansen, A.M., Thomas, N.A.<sup>#</sup> (2018). <a href="http://onlinelibrary.wiley.com/doi/10.1111/mmi.13948/full" target="_blank">"Tandem tyrosine phosphosites in the enteropathogenic <i>Escherichia coli</i> chaperone CesT are required for differential type III effector translocation and virulence."</a><i> Molecular Microbiology</i>. DOI: <a href="https://doi.org/10.1111/mmi.13948" target="_blank">https://doi.org/10.1111/mmi.13948</a>.</li>
@@ -146,12 +154,13 @@ scroll: true
             </li>
             <li id="list"><b>Abstracts: </b>
                 <ul id="sublist">
-                    <li><a href="https://lgbtstem.wordpress.com/lgbt-steminar-2019/" target="_blank">Flipping the Switch on Bacterial Pathogenesis: How the Leading Cause of Seafood-borne Gastroenteritis - <i>Vibrio parahaemolyticus</i> - Regulates Virulence</a>, LGBTSTEMinar 2019, <i>Institute of Physics</i>, London, UK. - January 2019</li>
-                    <li>Linking Phenotype and Pathogen Genomics: Tn-Seq and Next Generation DNA Sequencing, PREP Graduate Student Research Day, <i>Dalhousie University</i>, Halifax, NS. - May 2018</li>
-                    <li><a href="http://centerforvaccinology.ca/wp-content/uploads/2018/03/2018-Research-Day-Handbook-1.pdf" target="_blank">Linking Phenotype and Pathogen Genomics: Tn-Seq and Next Generation DNA Sequencing</a>, 23rd Annual Infectious Disesase Research Day, <i>Dalhousie University</i>, Halifax, NS. - Apr 2018</li>
-                    <li>HlyU and H-NS Act as a Genetic Switch for Transcriptional Control of the Type III Secretion System-I Master Regulator <i>exsA</i>, <i>ASM Vibrio2017: The Biology of Vibrios</i>, Chicago, IL. - November 2017</li>
-                    <li><a href="http://centerforvaccinology.ca/wp-content/uploads/2016/03/Handbook-10Apr2017.pdf" target="_blank">Discovery of a Genetic Switch in <i>Vibrio parahaemolyticus</i> That Contributes to Host Cell Death During Infection</a>, 22nd Annual Infectious Disease Research Day, <i>Dalhousie University</i>, Halifax, NS. - March 2017</li>
-                    <li><a href="http://2016.igem.org/wiki/images/9/9d/IGEM2016_GiantJamboree_booklet.pdf" target="_blank">A ‘spike’ in biofuel production: mining the porcupine microbiome to engineer a softwood feedstock platform</a>, Giant Jamboree Abstract Guide, <i>iGEM Giant Jamboree</i>, Boston, MA. - October 2016</li>
+                    <li><b>Getz, L.J.</b>, Brown, J., Thomas, N.A. (2019). <a href="/documents/csm-2019-full_program.pdf" target="_blank">A DNA junction superstructure regulates Type III Secretion System gene expression and virulence in <i>Vibrio parahaemolyticus</i></a>, The 69th Annual Conference of the Canadian Society of  Microbiologists, <i>Université de Sherbrooke</i>, Sherbrooke, QC. - June 2019</li>
+                    <li><b>Getz, L.J.</b>, Thomas, N.A. (2018). <a href="https://lgbtstem.wordpress.com/lgbt-steminar-2019/" target="_blank">Flipping the Switch on Bacterial Pathogenesis: How the Leading Cause of Seafood-borne Gastroenteritis - <i>Vibrio parahaemolyticus</i> - Regulates Virulence</a>, LGBTSTEMinar 2019, <i>Institute of Physics</i>, London, UK. - January 2019</li>
+                    <li><b>Getz, L.J.</b>, Comeau, A., Langille, M.G.I., Thomas, N.A. (2018). Linking Phenotype and Pathogen Genomics: Tn-Seq and Next Generation DNA Sequencing, PREP Graduate Student Research Day, <i>Dalhousie University</i>, Halifax, NS. - May 2018</li>
+                    <li><b>Getz, L.J.</b>, Comeau, A., Langille, M.G.I., Thomas, N.A. (2018). <a href="http://centerforvaccinology.ca/wp-content/uploads/2018/03/2018-Research-Day-Handbook-1.pdf" target="_blank">Linking Phenotype and Pathogen Genomics: Tn-Seq and Next Generation DNA Sequencing</a>, 23rd Annual Infectious Disesase Research Day, <i>Dalhousie University</i>, Halifax, NS. - Apr 2018</li>
+                    <li><b>Getz, L.J.</b>, Thomas, N.A. (2017). HlyU and H-NS Act as a Genetic Switch for Transcriptional Control of the Type III Secretion System-I Master Regulator <i>exsA</i>, <i>ASM Vibrio2017: The Biology of Vibrios</i>, Chicago, IL. - November 2017</li>
+                    <li><b>Getz, L.J.</b>, Thomas, N.A. (2017). <a href="http://centerforvaccinology.ca/wp-content/uploads/2016/03/Handbook-10Apr2017.pdf" target="_blank">Discovery of a Genetic Switch in <i>Vibrio parahaemolyticus</i> That Contributes to Host Cell Death During Infection</a>, 22nd Annual Infectious Disease Research Day, <i>Dalhousie University</i>, Halifax, NS. - March 2017</li>
+                    <li><b>Getz, L.J.</b>, Finlayson-Trick, E.C.L.<sup>*</sup>, Mostafa Hagar<sup>*</sup>, Slaine, P.D., Thornbury, M., Lamourerux, E., Cook, J., Langille, M.G.I., Murray, L.E., McCormick, C., Rohde, J.R., Cheng, Z.<a href="http://2016.igem.org/wiki/images/9/9d/IGEM2016_GiantJamboree_booklet.pdf" target="_blank">A ‘spike’ in biofuel production: mining the porcupine microbiome to engineer a softwood feedstock platform</a>, Giant Jamboree Abstract Guide, <i>iGEM Giant Jamboree</i>, Boston, MA. - October 2016</li>
                 </ul>
             </li>
             <li id="list"><b>Blog Posts:</b>
@@ -172,7 +181,14 @@ scroll: true
             </li>
         </ul>
         <h2><span class="fas fa-chalkboard" aria-hidden="true"></span> Conference and Seminar Presentations</h2>
+        <b>For Posters: <sup>*</sup>Presenting Author</b>
         <ul id="list">
+            <li id="sublist">69th Annual Conference of the Canadian Society of Microbiologists, <i>Université de Sherbrooke</i>, Montreal, QC - June 2019</li>
+                <ul>
+                    <li>Authors: <b>Landon J. Getz</b>, Justin Brown, Nikhil Thomas<sup>*</sup></li>
+                    <li>Type: Poster Presentation</li>
+                    <li>Title: A DNA junction superstructure regulates Type III Secretion System gene expression and virulence in <i>Vibrio parahaemolyticus</i></li>
+                </ul>
             <li id="sublist">Professional Research and Education Program Graduate Student Research Day, <i>Dalhousie University</i>, Halifax, NS. - May 2019
                 <ul>
                     <li>Type: Oral Presentation</li>
@@ -211,6 +227,7 @@ scroll: true
             </li>
             <li id="sublist">23rd Annual Infectious Disease Research Day, <i>Centre for Vaccinology</i>, Halifax, NS - April 2018
                 <ul>
+                    <li>Authors: <b>Landon J. Getz</b><sup>*</sup>, André Comeau, Morgan G. I. Langille, Nikhil Thomas</li>
                     <li>Type: Poster Presentation</li>
                     <li>Title: Linking Phenotype and Pathogen Genomics: TnSeq and Next Generation DNA Sequencing.</li>
                 </ul>
@@ -223,18 +240,21 @@ scroll: true
             </li>
             <li id="sublist"><b>ASM Vibrio2017, <i>American Society of Microbiology</i>, Chicago, IL - November 2017</b>
                 <ul>
+                    <li>Authors: <b>Landon J. Getz</b><sup>*</sup>, Nikhil Thomas</li>
                     <li>Type: Poster Presentation</li>
                     <li>Title: HlyU and H-NS act as a Genetic Switch for Transcriptional Control of the Type-III Secretion System I Master Regulator <i>exsA</i></li>
                 </ul>
             </li>
             <li id="sublist">22rd Annual Infectious Disease Research Day, <i>Dalhousie University</i>, Halifax, NS - April, 2017
                 <ul>
+                    <li>Authors: <b>Landon J. Getz</b><sup>*</sup>, Nikhil Thomas</li>
                     <li>Type: Poster Presentation</li>
                     <li>Title: Discovery of a Genetic Switch in <i>Vibrio parahaemolyticus</i> that Contributes to Host Cell Death during Infection.</li>
                 </ul>
             </li>
             <li id="sublist">2016 iGEM Giant Jamboree, <i>iGEM</i>, Boston, MA - October 2016
                 <ul>
+                    <li>Authors: <b>Getz, L.J.<sup>*</sup></b>, Finlayson-Trick, E.C.L.<sup>*</sup>, Mostafa Hagar<sup>*</sup>, Slaine, P.D., Thornbury, M., Lamourerux, E., Cook, J., Langille, M.G.I., Murray, L.E., McCormick, C., Rohde, J.R., Cheng, Z.</li>
                     <li>Type: Poster Presentation</li>
                     <li>Title: Biofuel Production set to Spike: Identification of Biofuel Producing Enzymes in the Porcupine Microbiome</li>
                 </ul>
@@ -257,7 +277,7 @@ scroll: true
         <ul id="list">
             <li id="list"><b>Part Time Academic, <i>Dalhousie University</i></b>
                 <ul id="sublist">
-                    <li>September 2018 to <i>Present</i></li>
+                    <li>September 2018 to <i>May 2019</i></li>
                     <li>Instructor for CHEM 1011/1021 and CHEM 1012/1022 at Dalhousie University and First Year Chemistry Resource Centre Coordinator</li>
                     <li>Duties include: Organize TAs, lecture once a week, respond to student e-mails, prepare course material, mark quizzes and exams.</li>
                 </ul>
@@ -330,30 +350,29 @@ scroll: true
         </ul>
         <h2><span class="fas fa-medal" aria-hidden="true"></span> Awards:</h2>
         <ul id="list">
-            <li>2019 President's Graduate Student Teaching Assistant Award - $500 Award</li>
-            <li>2019 Professional Research and Education Program (PREP) Graduate Student Research Day Platform Presentation Award - $200 Award</li>
-            <li>2019 Faculty of Medicine Excellence in Research Award - $1000 Award</li>
-            <li>2018/2019 Vanier Canadian Graduate Scholarship by Dalhousie University - $150,000 Award, 3 Year Tenure</li>
-            <li>2019 Killam Graduate Scholarship - $90,000 Award, 3 Year Tenure (Eligible for $10,000)</li>
-            <li>2019 Dalhouise University Faculty of Medicine Excellence in Research Award - $1,000 Prize</li>
-            <li>2019 Killam Doctoral Scholarship Honorary Recipient - $30,000 Award</li>
-            <li>2019 Alexander Graham Bell Canadian Graduate Scholarship - Doctoral Honorary Recipient - $35,000 Award</li>
-            <li>Nominated for 2019 Vanier Canadian Graduate Scholarship by Dalhousie University - $50,000 Award</li>
-            <li>2018 Nova Scotia Health Research Foundation Scotia Scholars Award - $10,000 Award</li>
-            <li>2018 Alexander Graham Bell Canadian Graduate Scholarship - Masters Recipient - $17,500 Award</li>
-            <li>2018 Nova Scotia Graduate Scholarship - $10,000</li>
-            <li>2017 Award for Excellence in Undergraduate Honours Research - $100</li>
-            <li>2017 Nova Scotia Graduate Scholarship - $10,000</li>
+            <li>2019 President's Graduate Student Teaching Assistant Award - $500 CAN Award</li>
+            <li>2019 Professional Research and Education Program (PREP) Graduate Student Research Day Platform Presentation Award - $200 CAN Award</li>
+            <li>2019 Faculty of Medicine Excellence in Research Award - $1000 CAN Award</li>
+            <li>2018/2019 Vanier Canadian Graduate Scholarship by Dalhousie University - $150,000 CAN Award, 3 Year Tenure</li>
+            <li>2019 Killam Graduate Scholarship - $90,000 CAN Award, 3 Year Tenure</li>
+            <li>2019 Dalhouise University Faculty of Medicine Excellence in Research Award - $1,000 CAN Prize</li>
+            <li>2019 Alexander Graham Bell Canadian Graduate Scholarship - Honourary Doctoral Recipient - $35,000 CAN Award</li>
+            <li>HHMI Tuition Scholarship, Cold Spring Harbor Laboratories Advanced Bacterial Genetics - $1500 USD Award</li>
+            <li>2018 Nova Scotia Health Research Foundation Scotia Scholars Award - $10,000 CAN Award</li>
+            <li>2018 Alexander Graham Bell Canadian Graduate Scholarship - Masters Recipient - $17,500 CAN Award</li>
+            <li>2018 Nova Scotia Graduate Scholarship - $10,000 CAN Award</li>
+            <li>2017 Award for Excellence in Undergraduate Honours Research - $100 CAN Award</li>
+            <li>2017 Nova Scotia Graduate Scholarship - $10,000 CAN Award</li>
             <li>2017 Faculty of Science Undergraduate Research Prize</li>
             <li>2017 Honours Student Prize</li>
             <li>2016/2017 Academic Year – Faculty of Science Dean’s List</li>
-            <li>2016 Natural Science and Engineering Research Council of Canada University Summer Research Award - $4,500</li>
+            <li>2016 Natural Science and Engineering Research Council of Canada University Summer Research Award - $4,500 CAN Award</li>
             <li>2015/2016 Academic Year – Faculty of Science Dean’s List</li>
-            <li>2015 Dalhousie University In-Course Scholarship - $250</li>
+            <li>2015 Dalhousie University In-Course Scholarship - $250 CAN Award</li>
             <li>2014/2015 Academic Year – Faculty of Science Dean’s List</li>
             <li>2013 Fall – Faculty of Science Dean’s List</li>
-            <li>2013 Dalhousie University Entrance Scholarship - $750</li>
-            <li>2013 Alexander Rutherford Scholarship - $2,500</li>
+            <li>2013 Dalhousie University Entrance Scholarship - $750 CAN Award</li>
+            <li>2013 Alexander Rutherford Scholarship - $2,500 CAN Award</li>
         </ul>
         <h2><span class="fa fa-users" aria-hidden="hidden"></span> Community Service</h2>
         <ul id="list">
@@ -431,27 +450,13 @@ scroll: true
         </ul>
         <h2><span class="fa fa-newspaper-o" aria-hidden="true"></span> Media</h2>
         <ul id="list">
+            <li id="list"><a href="https://www.dal.ca/news.html" target="_blank">Dal News</a>. <a href="https://www.dal.ca/news/2019/07/25/pride-in-stem.html" target="_blank">PRIDE IN STEM</a>. July 25th, 2019.</li>
             <li id="list"><a href="https://www.dal.ca/news.html" target="_blank">Dal News</a>. <a href="https://www.dal.ca/news/2019/06/19/teachers-who-inspire--meet-this-year-s-recipients-of-dal-s-unive.html">TEACHERS WHO INSPIRE: MEET THIS YEAR'S RECIPIENTS OF DAL'S UNIVERSITY‑WIDE TEACHING AWARDS</a>. June 20th, 2019.</li>
+            <li id="list">Current Exchange: A blog by CSHL Meetings and Courses.<a href="https://currentexchange.cshl.edu/blog/2019/6/visitor-of-the-week-125?fbclid=IwAR3FM8pRgKXKHuReEVRQCwT7Z5_r-G4YqzwdcPHwCms6yii3BAA8l1_zxrA"> Visitor of the Week: Landon Getz.</a> June 14th, 2019</li>
             <li id="list"><a href="https://www.dal.ca/news.html" target="_blank">Dal News</a>. <a href="https://www.dal.ca/news/2019/05/16/government-of-canada-selects-dal-phds-and-postdocs-for-its-most-.html#" target="_blank"><i>GOVERNMENT OF CANADA SELECTS DAL PHDS AND POSTDOCS FOR ITS MOST ESTEEMED AWARDS</i>.</a> May 16th, 2019.</li>
-            <li id="list"><a href="https://www.cbc.ca/listen/shows/information-morning-ns/" target="_blank">CBC Nova Scotia's Information Morning Radio Show</a>. <i>Inclusion and Diversity in STEM</i> with Portia Clarke, live in studio. Feburary 2019.</li>
+            <li id="list"><a href="https://www.cbc.ca/listen/shows/information-morning-ns/" target="_blank">CBC Nova Scotia's Information Morning Radio Show</a>. <i>On the Call for a Moratorium on Germline Genome Editing</i> with Portia Clarke, live in studio. Feburary 2019.</li>
             <li id="list"><a href="https://dalgazette.com/" target="_blank">The Dalhousie Gazette</a>. <i><a href="http://dalgazette.com/news/urban-garden-one-dalhousies-hidden-gems/">Urban Garden is one of Dalhousie’s hidden gems</a></i> by Lauren Hazlewood. September 27th, 2019.</li>
+            <li id="list"><a href="https://www.cbc.ca/listen/shows/information-morning-ns/" target="_blank">CBC Nova Scotia's Information Morning Radio Show</a>. <i>LGBTSTEMDAY: Inclusion and Diversity in STEM</i> with Portia Clarke, live in studio. July 2018.</li>
             <li id="list"><a href="https://www.thecoast.ca/" target="_blank">Halifax's The Coast</a>. <i><a target="_blank" href="https://www.thecoast.ca/halifax/10-urban-gardens-you-need-to-know/Content?oid=8720166">10 urban gardens you need to know</a></i> by Victoria Walton. August 3rd, 2017</li>
-            <li id="list"><b><a href="https://www.cbc.ca/listen/shows/information-morning-ns/" target="_blank">CBC Nova Scotia's Information Morning Radio Show </a> - <i>On the Moratorium on Germline Genome Editing</i> with Portia Clarke, live in studio.</b></li>
-            <ul id="sublist">
-                <li>Discussed the 2019 call for moratorium on germline genome editing and the need for <i>Slow CRISPR Science</i></li>
-            </ul>
-            <li id="list"><b><a href="https://www.cbc.ca/listen/shows/information-morning-ns/" target="_blank">CBC Nova Scotia's Information Morning Radio Show </a> - <i>Inclusion and Diversity in STEM</i> with Portia Clarke, live in studio.</b></li>
-            <ul id="sublist">
-                <li>Discussed #LGBTSTEMday and LGBTQ+ Representation in Science, Technology, Engineering, and Math (STEM)</li>
-            </ul>
-            <li id="list"><b>Halifax's The Coast - <i><a target="_blank" href="https://www.thecoast.ca/halifax/10-urban-gardens-you-need-to-know/Content?oid=8720166">10 urban gardens you need to know</a></i> by Victoria Walton</b></li>
-            <ul id="sublist">
-                <li>Featured for work at the Dalhousie Urban Garden</li>
-            </ul>
-            <li id="list"><b>The Dalhousie Gazette - <i><a href="http://dalgazette.com/news/urban-garden-one-dalhousies-hidden-gems/">Urban Garden is one of Dalhousie’s hidden gems</a></i> by Lauren Hazlewood</b>
-                <ul id="sublist">
-                    <li>Featured for work at the Dalhousie Urban Garden</li>
-                </ul>
-            </li>
         </ul>
     </div>
