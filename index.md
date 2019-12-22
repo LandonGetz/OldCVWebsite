@@ -42,6 +42,7 @@ scroll: true
                         <ul id="skillssublist">
                             <li>Standard Techniques (PCR, DNA/Protein Electrophoresis, etc).</li>
                             <li>Bacterial Transposon Mutagenesis.</li>
+                            <li>Advanced Cloning Techniques (Golden Gate & Gibson Assembly).</li>
                             <li>Synthetic Biology.</li>
                         </ul>
                     </div>
@@ -62,9 +63,9 @@ scroll: true
                         <h3><b>Communication:</b></h3>
                         <ul id="skillssublist">
                             <li>Clear and Effective Writing.</li>
-                            <li>Presentations.</li>
+                            <li>Presentation Skills (Powerpoint and Keynote).</li>
                             <li>Public Speaking.</li>
-                            <li>Extensive Teaching Skills.</li>
+                            <li>Extensive Teaching Experience.</li>
                         </ul>
                     </div>
                 </div>
@@ -94,10 +95,10 @@ scroll: true
             </li>
             <li id="list"><b>Advanced Bacterial Genetics Course, <i>Cold Spring Harbour Laboratories</i></b>
                 <ul id="sublist">
-                    <li>Course Taught by: Dr. Andrew Camilli, Dr. Angelika Gründling, and Dr. Lionello Bossi.</li>
+                    <li>Course Taught by: Drs. Andrew Camilli, Angelika Gründling, and Lionello Bossi.</li>
                     <li>June 4th, 2019 to June 24th, 2019</li>
-                    <li>Topics covered include Transposon Sequencing, CRISPR/Cas, and Lambda-red recombineering in Vibrio cholerae,
-                        Salmonella enterica, and Staphylococcus aureus, among other techniques.</li>
+                    <li>Topics covered include Transposon Sequencing, CRISPR/Cas, and Lambda-red recombineering in <i>Vibrio cholerae</i>,
+                        <i>Salmonella enterica</i>, and <i>Staphylococcus aureus</i>, among other techniques.</li>
                 </ul>
             </li>
             <li id="list"><b>B.Sc. First Class Honours in Microbiology and Immunology, <i>Dalhousie University</i></b>
@@ -154,6 +155,8 @@ scroll: true
             </li>
             <li id="list"><b>Abstracts: </b>
                 <ul id="sublist">
+                    <li><b>Getz, L.J.</b>, Brown, J., Thomas, N.A. (2019). Type III Secretion System Gene Expression and Virulence is Regulated by 
+                        a DNA Cruciform Structure at the exsA promoter in <i>Vibrio parahaemolyticus</i>, Genomes to Biology: the 8<sup>th</sup> International Conference on the Biology of <i>Vibrios</i>, <i>McGill University</i>, Montreal, QC. - November 2019</li>     
                     <li><b>Getz, L.J.</b>, Brown, J., Thomas, N.A. (2019). <a href="/documents/csm-2019-full_program.pdf" target="_blank">A DNA junction superstructure regulates Type III Secretion System gene expression and virulence in <i>Vibrio parahaemolyticus</i></a>, The 69th Annual Conference of the Canadian Society of  Microbiologists, <i>Université de Sherbrooke</i>, Sherbrooke, QC. - June 2019</li>
                     <li><b>Getz, L.J.</b>, Thomas, N.A. (2018). <a href="https://lgbtstem.wordpress.com/lgbt-steminar-2019/" target="_blank">Flipping the Switch on Bacterial Pathogenesis: How the Leading Cause of Seafood-borne Gastroenteritis - <i>Vibrio parahaemolyticus</i> - Regulates Virulence</a>, LGBTSTEMinar 2019, <i>Institute of Physics</i>, London, UK. - January 2019</li>
                     <li><b>Getz, L.J.</b>, Comeau, A., Langille, M.G.I., Thomas, N.A. (2018). Linking Phenotype and Pathogen Genomics: Tn-Seq and Next Generation DNA Sequencing, PREP Graduate Student Research Day, <i>Dalhousie University</i>, Halifax, NS. - May 2018</li>
@@ -173,6 +176,17 @@ scroll: true
         </ul>
         <h2><i class="fas fa-chalkboard-teacher" aria-hidden="true"></i> Invited Talks</h2>
         <ul id="list">
+            <li id="sublist">Genomics in Medicine - Emerging Technologies and Bioinformatic Challenges, <i>Dalhousie University</i>, Halifax, NS. - December 2019</li>
+                <ul>
+                    <li>Title: Transposon Sequencing: Functional Genomics for Probing Bacterial Pathogenesis</li>
+                    <li>Description: Transposon Sequencing is an emerging technique for discovering the functional outputs of different genomic regions within an organism's genome. In this talk, I outlined breifly what Transposon Sequencing is, how we use it in bacteria, and what we can learn from this technique, with a special focus on antibiotic resistance phenotypes and their associated liabilities in <i>Mycobacterium tuberculosis</i> and Methicillin-resistance <i>Staphylococcus aureus</i>.</li>
+                </ul>
+            <li id="sublist">Graduate Student Research Day Excellence in Research Keynote, <i>Dalhousie University</i>, Halifax, NS. - May 2019
+                <ul>
+                    <li>Title: <i>Vibrio parahaemolyticus</i> and infection: A complex relationship between environment and host</li>
+                    <li>Description: <i>Vibrio</i> is able to live in the environment and proliferate as free-living or symbiotic organisms with a variety of hosts, but can also cause human infections. The links between this environmental survival and human infection in <i>Vibrio parahaemolyticus</i> still remain unclear. This talk described my work in the Thomas Lab with TnSeq and how we are looking at the question of how this organism can live as both an environmental organism and a human pathogen.</li>
+                </ul>
+            </li>
             <li><b>Natural History Museum Life Science Seminar Series</b> - London, UK - January 2019
                 <ul>
                     <li>Title: The Multimodal Lifestyle of Marine <i>Vibrios</i></li>
@@ -183,6 +197,18 @@ scroll: true
         <h2><span class="fas fa-chalkboard" aria-hidden="true"></span> Conference and Seminar Presentations</h2>
         <b>For Posters: <sup>*</sup>Presenting Author</b>
         <ul id="list">
+            <li id="sublist">Genomes to Biology: The 8<sup>th</sup> International Conference on the Biology of <i>Vibrios</i>, <i>McGill University</i>, Montreal, QC - November 2019</li>
+                <ul>
+                    <li>Type: Oral Presentation</li>
+                    <li>Title: Type III Secretion System Gene Expression and Virulence is Regulated by a DNA Cruciform Structure at the <i>exsA</i> promoter in <i>Vibrio parahaemolyticus</i></li>
+                    <li><b>Awarded a People's Choice Award by the Canadian Society of Microbiologists.</b></li>
+                </ul>
+              <li id="sublist"><a href="cgeb.dal.ca" target="_blank">Centre for Comparative Genomics and Evolutionary Bioinformatics</a> Research Retreat, <i>Dalhousie University</i>, Halifax, NS - November 2019</li>
+                <ul>
+                    <li>Authors: <b>Landon J. Getz<sup>*</sup></b>, Justin Brown, Nikhil Thomas</li>
+                    <li>Type: Poster Presentation</li>
+                    <li>Title:Type III Secretion System Gene Expression and Virulence is Regulated by a DNA Cruciform Structure at the <i>exsA</i> promoter in <i>Vibrio parahaemolyticus</i></li>
+                </ul>
             <li id="sublist">69th Annual Conference of the Canadian Society of Microbiologists, <i>Université de Sherbrooke</i>, Montreal, QC - June 2019</li>
                 <ul>
                     <li>Authors: <b>Landon J. Getz</b>, Justin Brown, Nikhil Thomas<sup>*</sup></li>
@@ -193,12 +219,6 @@ scroll: true
                 <ul>
                     <li>Type: Oral Presentation</li>
                     <li>Title: A Regulator of Sugar Metabolism Implicated in the Secretion and Virulence of <i>Vibrio parahaemolyticus</i></li>
-                </ul>
-            </li>
-            <li id="sublist"><b>Graduate Student Research Day Excellence in Research Keynote, <i>Dalhousie University</i>, Halifax, NS. - May 2019</b>
-                <ul>
-                    <li>Type: Keynote</li>
-                    <li>Title: <i>Vibrio parahaemolyticus</i> and infection: A complex relationship between environment and host</li>
                 </ul>
             </li>
             <li id="sublist">Dalhousie Conference on University Teaching and Learning, <i>Dalhousie University</i>, Halifax, NS. - May 2019
@@ -325,6 +345,7 @@ scroll: true
         </ul>
         <h2><span class="fa fa-flask" aria-hidden="hidden"></span> Knowledge Translation</h2>
         <ul id="list">
+            <li id="list"><b>The National Post - <a href="https://nationalpost.com/health/breakthrough-or-a-threat-research-on-genetics-of-same-sex-behaviour-ignites-ethical-debate" target="_blank">Breakthrough or a threat? Research on genetics of same-sex behaviour ignites ethical debate</a></b></li>
             <li id="list"><b><a href="https://www.cbc.ca/listen/shows/information-morning-ns/" target="_blank">CBC Nova Scotia's Information Morning Radio Show </a> - <i>On the Moratorium on Germline Genome Editing</i> with Portia Clarke, live in studio.</b></li>
             <ul id="sublist">
                 <li>Discussed the 2019 call for moratorium on germline genome editing and the need for <i>Slow CRISPR Science</i></li>
@@ -350,6 +371,7 @@ scroll: true
         </ul>
         <h2><span class="fas fa-medal" aria-hidden="true"></span> Awards:</h2>
         <ul id="list">
+            <li>People's Choice Award for the Canadian Society of Microbiologists Student Oral Presentation Competition at the 8<sup>th</sup> Internation Conference on the Biology of <i>Vibrios</i> - $200 CAN Award</li>
             <li>2019 President's Graduate Student Teaching Assistant Award - $500 CAN Award</li>
             <li>2019 Professional Research and Education Program (PREP) Graduate Student Research Day Platform Presentation Award - $200 CAN Award</li>
             <li>2019 Faculty of Medicine Excellence in Research Award - $1000 CAN Award</li>
@@ -450,6 +472,9 @@ scroll: true
         </ul>
         <h2><span class="fa fa-newspaper-o" aria-hidden="true"></span> Media</h2>
         <ul id="list">
+            <li id="list"><a href="https://nationalpost.com/" target="_blank">The National Post</a>. <a href="https://nationalpost.com/health/breakthrough-or-a-threat-research-on-genetics-of-same-sex-behaviour-ignites-ethical-debate" target="_blank">Breakthrough or a threat? Research on genetics of same-sex behaviour ignites ethical debate</a>. December 6th, 2019.</li>
+            <li id="list"><a href="https://www.halifaxtoday.ca/" target="_blank">HalifaxToday.ca</a>. <a href="https://www.halifaxtoday.ca/local-news/halifax-based-group-building-queer-community-in-stem-fields-1879636" target="_blank">Halifax-based group building queer community in STEM fields</a>. November 24th, 2019.</li>
+            <li id="list"><a href="https://www.news957.com/sms/" target="_blank">The Sheldon McLeod Show</a>. QAtCanSTEM and Being a Queer Scientist. November 22nd, 2019.</li>
             <li id="list"><a href="https://www.dal.ca/news.html" target="_blank">Dal News</a>. <a href="https://www.dal.ca/news/2019/07/25/pride-in-stem.html" target="_blank">PRIDE IN STEM</a>. July 25th, 2019.</li>
             <li id="list"><a href="https://www.dal.ca/news.html" target="_blank">Dal News</a>. <a href="https://www.dal.ca/news/2019/06/19/teachers-who-inspire--meet-this-year-s-recipients-of-dal-s-unive.html">TEACHERS WHO INSPIRE: MEET THIS YEAR'S RECIPIENTS OF DAL'S UNIVERSITY‑WIDE TEACHING AWARDS</a>. June 20th, 2019.</li>
             <li id="list">Current Exchange: A blog by CSHL Meetings and Courses.<a href="https://currentexchange.cshl.edu/blog/2019/6/visitor-of-the-week-125?fbclid=IwAR3FM8pRgKXKHuReEVRQCwT7Z5_r-G4YqzwdcPHwCms6yii3BAA8l1_zxrA"> Visitor of the Week: Landon Getz.</a> June 14th, 2019</li>
