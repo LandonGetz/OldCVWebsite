@@ -93,7 +93,7 @@ scroll: true
                     <li>Expected Graduation: Summer 2022</li>
                 </ul>
             </li>
-            <li id="list"><b>Advanced Bacterial Genetics Course, <i>Cold Spring Harbour Laboratories</i></b>
+            <li id="list"><b>Advanced Bacterial Genetics Course, <i>Cold Spring Harbor Laboratory</i></b>
                 <ul id="sublist">
                     <li>Course Taught by: Drs. Andrew Camilli, Angelika Gründling, and Lionello Bossi.</li>
                     <li>June 4th, 2019 to June 24th, 2019</li>
@@ -137,6 +137,7 @@ scroll: true
             </ul>
             <li id="list"><b>Commentaries:</b>
                 <ul id="sublist">
+                    <li>Kofler, N., <b>Getz, L.J.</b>, Baylis, F., Dellaire, G. (2019). <a href="https://theconversation.com/genetically-modifying-mosquitoes-to-control-the-spread-of-disease-carries-unknown-risks-123862">Genetically modifying mosquitoes to control the spread of disease carries unknown risks</a>, <i><a href="https://theconversation.com/ca" target="_blank">TheConversation.ca</a>, republished in <a href="https://www.salon.com/2019/10/06/genetically-modifying-mosquitoes-to-control-the-spread-of-disease-carries-unknown-risks_partner/" target="_blank">Salon</a>, <a href="https://www.halifaxtoday.ca/local-news/decision-to-deploy-genetically-modified-mosquitoes-not-made-responsibly-researchers-say-1743841" target="_blank">HalifaxToday.ca</a>, <a href="https://www.thechronicleherald.ca/opinion/local-perspectives/commentary-genetically-modifying-mosquitoes-to-control-the-spread-of-disease-carries-unknown-risks-359367/" target="_blank">SaltWire Newspapers</a>, and <a href="https://www.ocala.com/news/20191004/genetically-modifying-mosquitoes-to-control-spread-of-disease-carries-unknown-risks/1" target="_blank">Gannett Newspapers</a>.</i></li>
                     <li><b>Getz, L.J.</b>, Dellaire, G. (2019). <a href="https://www.thehastingscenter.org/moratorium-on-human-genome-editing-time-to-get-it-right/">Moratorium on Human Genome Editing: Time to Get It Right</a>, <i><a href="https://www.thehastingscenter.org/publications-resources/forum/" target="_blank">The Hastings Center Forum Blog</a>.</i></li>
                     <li><b>Getz, L.J.</b>, Dellaire, G. (2019). <a href="https://theconversation.com/crispr-gene-editing-why-we-need-slow-science-113639">CRISPR gene editing: Why we need Slow Science</a>, <i><a href="https://theconversation.com/ca" target="_blank">The Conversation: Canada Edition</a></i>.</li>
                     <li><b>Getz, L.J.</b> (2019).<a href="https://impactethics.ca/2019/02/28/the-value-of-consumer-dna-sequencing/">The "Value" of Consumer DNA Sequencing.</a>, <i><a href="http://www.impactethics.ca" target="_blank">Impact Ethics</a></i>, <a href="https://www.dal.ca/sites/noveltechethics.html" target="_blank">Novel Tech Ethics,</a> Halifax, NS.</li>
