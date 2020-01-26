@@ -296,6 +296,13 @@ scroll: true
         <h2><span class="fas fa-school" aria-hidden="true"></span> Teaching and Mentoring</h2>
         <b style="text-align: center;">A Complete Teaching Dossier can be found <a href="/documents/teachingdossier.pdf" target="_blank"> here</a>.</b>
         <ul id="list">
+            <li id="list"><b>Graduate Student Teaching Assistant, <a href="https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&topicgroupid=19585&entitytype=CID&entitycode=BIOL+3037" target="_blank">BIOL3037: Life Rewritten</a>, <i>Dalhousie University</i></b>
+                <ul id="sublist">
+                    <li>January 2020 to <i>May 2020</i></li>
+                    <li>Teaching Assistant and Lecturer for an innovative new class which primarily involves <b>small group work</b> and departs from solely using traditonal lecture teaching. The class focuses on both the ethics and science of new gene editing technologies and synthetic biology.</li>
+                    <li>Duties include: Marking, Preparing and organizing peer feedback (using Excel, mail merge, and Microsoft Forms), develop course material as it pertains to the ethics of gene editing and gene editing technology, give integrative and discussion based lectures broadly focused on ethics foundations.</li>
+                </ul>
+            </li>
             <li id="list"><b>Part Time Academic, <i>Dalhousie University</i></b>
                 <ul id="sublist">
                     <li>September 2018 to <i>May 2019</i></li>
@@ -473,6 +480,9 @@ scroll: true
         </ul>
         <h2><span class="fa fa-newspaper-o" aria-hidden="true"></span> Media</h2>
         <ul id="list">
+            <li id="list"><a href="https://signalhfx.ca/" target="_blank">The Signal</a>. <a href="https://signalhfx.ca/halifax-event-connects-queer-voices-in-stem/" target="_blank">Halifax event connects queer voices in STEM</a>. January 20th, 2020.</li>
+            <li id="list"><a href="http://www.cbc.ca/radio/podcasts/nova-scotia/ns-information-morning/" target="_blank">CBC Nova Scotia's Information Morning Radio Show</a>. QAtCanSTEM Colloquium: Being Queer in STEM. January 17th, 2020.</li>
+            <li id="list"><a href="https://www.thecoast.ca/">Halifax's The Coast</a>. <a href="https://www.thecoast.ca/halifax/a-first-of-its-kind-queer-stem-conference-is-in-halifax-this-weekend/Content?oid=23271491">A first-of-its-kind queer STEM conference is in Halifax this weekend</a>. January 16th, 2020.</li>
             <li id="list"><a href="https://nationalpost.com/" target="_blank">The National Post</a>. <a href="https://nationalpost.com/health/breakthrough-or-a-threat-research-on-genetics-of-same-sex-behaviour-ignites-ethical-debate" target="_blank">Breakthrough or a threat? Research on genetics of same-sex behaviour ignites ethical debate</a>. December 6th, 2019.</li>
             <li id="list"><a href="https://www.halifaxtoday.ca/" target="_blank">HalifaxToday.ca</a>. <a href="https://www.halifaxtoday.ca/local-news/halifax-based-group-building-queer-community-in-stem-fields-1879636" target="_blank">Halifax-based group building queer community in STEM fields</a>. November 24th, 2019.</li>
             <li id="list"><a href="https://www.news957.com/sms/" target="_blank">The Sheldon McLeod Show</a>. QAtCanSTEM and Being a Queer Scientist. November 22nd, 2019.</li>
