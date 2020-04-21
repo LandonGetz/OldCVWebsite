@@ -128,6 +128,7 @@ scroll: true
             </li>
             <b><sup>*</sup>Authors contributed equally to the work, <sup>#</sup>Corresponding Author.</b>
             <ul id="sublist">
+                <li><b>Getz, L.J.</b>, Dellaire, G.<sup>#</sup> (2020). Back to Basics: Application of the 4-principle approach to bioethics to heritable genome editing. Science and Engineering Ethics. <b>In Revision</b></li>
                 <li><b>Getz, L. J.</b>, Runté, C., Rainey, J., Thomas, N.A.<sup>#</sup> (2019). <a href="https://jb.asm.org/content/201/19/e00205-19" target="_blank">"Tyrosine phosphorylation as a widespread regulatory mechanism in prokaryotes."</a> <i>Journal of Bacteriology</i>. DOI:<a href="https://doi.org/10.1128/JB.00205-19">10.1128/JB.00205-19</a></li>
                 <li>Thornbury, M.<sup>*</sup>, Sicheri, J.<sup>*</sup>, Slaine, P.D., <b>Getz, L. J.</b>, Finlayson-Trick, E.C.L., Cook, J., Guinard, C., Boudreau, N., Jakeman, D., Rohde, J.R., McCormick, C.<sup>#</sup> (2018). <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0209221" target="_blank">"Characterization of novel lignocellulose-degrading enzymes from the porcupine microbiome using synthetic metagenomics"</a> <i>PLoS One</i>. DOI: <a href="https://doi.org/10.1371/journal.pone.0209221" target="_blank">https://doi.org/10.1371/journal.pone.0209221</a>.</li>
                 <li><b>Getz, L.J.<sup>#</sup></b>, Dellaire, G.<sup>#</sup> (2018). <a href="https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(18)30207-5" target="_blank">"Angels and Devils: Dual-Use in Biotechnology."</a> <i>Trends in Biotechnology</i>. DOI: <a href="https://doi.org/10.1016/j.tibtech.2018.07.016" target="_blank">https://doi.org/10.1016/j.tibtech.2018.07.016</a>.</li>
@@ -137,6 +138,7 @@ scroll: true
             </ul>
             <li id="list"><b>Commentaries:</b>
                 <ul id="sublist">
+                    <li><b>Getz, L.J.</b> (2020). <a href="https://theconversation.com/rushing-coronavirus-vaccines-and-treatments-could-do-more-harm-than-good-136449" target="_blank">Rushing coronavirus vaccines and treatments could do more harm than good</a>, <i><a href="https://theconversation.com/ca" target="_blank">TheConversation.ca</a>, Republished in <a href="https://www.everythingzoomer.com/" target="_blank">Everything Zoomer</a>, and <a href="www.dal.ca/news" target="_blank">Dal News</a></i>.</li>
                     <li>Kofler, N., <b>Getz, L.J.</b>, Baylis, F., Dellaire, G. (2019). <a href="https://theconversation.com/genetically-modifying-mosquitoes-to-control-the-spread-of-disease-carries-unknown-risks-123862">Genetically modifying mosquitoes to control the spread of disease carries unknown risks</a>, <i><a href="https://theconversation.com/ca" target="_blank">TheConversation.ca</a>, republished in <a href="https://www.salon.com/2019/10/06/genetically-modifying-mosquitoes-to-control-the-spread-of-disease-carries-unknown-risks_partner/" target="_blank">Salon</a>, <a href="https://www.halifaxtoday.ca/local-news/decision-to-deploy-genetically-modified-mosquitoes-not-made-responsibly-researchers-say-1743841" target="_blank">HalifaxToday.ca</a>, <a href="https://www.thechronicleherald.ca/opinion/local-perspectives/commentary-genetically-modifying-mosquitoes-to-control-the-spread-of-disease-carries-unknown-risks-359367/" target="_blank">SaltWire Newspapers</a>, and <a href="https://www.ocala.com/news/20191004/genetically-modifying-mosquitoes-to-control-spread-of-disease-carries-unknown-risks/1" target="_blank">Gannett Newspapers</a>.</i></li>
                     <li><b>Getz, L.J.</b>, Dellaire, G. (2019). <a href="https://www.thehastingscenter.org/moratorium-on-human-genome-editing-time-to-get-it-right/">Moratorium on Human Genome Editing: Time to Get It Right</a>, <i><a href="https://www.thehastingscenter.org/publications-resources/forum/" target="_blank">The Hastings Center Forum Blog</a>.</i></li>
                     <li><b>Getz, L.J.</b>, Dellaire, G. (2019). <a href="https://theconversation.com/crispr-gene-editing-why-we-need-slow-science-113639">CRISPR gene editing: Why we need Slow Science</a>, <i><a href="https://theconversation.com/ca" target="_blank">The Conversation: Canada Edition</a></i>.</li>
@@ -379,6 +381,8 @@ scroll: true
         </ul>
         <h2><span class="fas fa-medal" aria-hidden="true"></span> Awards:</h2>
         <ul id="list">
+            <li><b>Nominated for:</b> Dalhousie Impact Awards 2020: Outstanding Student of Distinction - Not Awarded</li>
+            <Li><b>Nominated for:</b> 2020 Dalhousie's Board of Governors Award - Not Awarded</Li>
             <li>People's Choice Award for the Canadian Society of Microbiologists Student Oral Presentation Competition at the 8<sup>th</sup> Internation Conference on the Biology of <i>Vibrios</i> - $200 CAN Award</li>
             <li>2019 President's Graduate Student Teaching Assistant Award - $500 CAN Award</li>
             <li>2019 Professional Research and Education Program (PREP) Graduate Student Research Day Platform Presentation Award - $200 CAN Award</li>
@@ -406,6 +410,12 @@ scroll: true
         </ul>
         <h2><span class="fa fa-users" aria-hidden="hidden"></span> Community Service</h2>
         <ul id="list">
+            <li id="list"><b>Youth Council Member, <i>Office of the Chief Science Advisor, Goverment of Canada.</i></b>
+                <ul id="sublist">
+                    <li>February 2020 to February 2022</li>
+                    <li>Act as a youth advisor to Canada's Chief Science Advisor on issues pertaining to my areas of expertise and those that are important to the Atlantic region</li>
+                </ul>
+            </li>
             <li id="list"><b>Graduate Student Representative, <i>Undergraduate Studies Committee.</i></b>
                 <ul id="sublist">
                     <li>Sept 2017 to <i>Present</i></li>
@@ -480,13 +490,14 @@ scroll: true
         </ul>
         <h2><span class="fa fa-newspaper-o" aria-hidden="true"></span> Media</h2>
         <ul id="list">
+            <li id="list"><a href="https://www.570news.com/audio/kitchener-today-with-brian-bourke/" target="_blank">570 NEWS: Kitchener Today with Brian Bourke.</a> Live radio interview, discussing recent commentary in the Conversation on cornonavirus vaccines and treatments. April 23rd, 2020.</li>
             <li id="list"><a href="https://www.dal.ca/news.html" target="_blank">Dal News</a>. <a href="https://www.dal.ca/news/2020/01/30/creating-a-deeper-sense-of-community-for-lgbtq--scientists.html" target="_blank">CREATING A DEEPER SENSE OF COMMUNITY FOR LGBTQ+ SCIENTISTS</a>. January 30th, 2020.</li>
             <li id="list"><a href="https://signalhfx.ca/" target="_blank">The Signal</a>. <a href="https://signalhfx.ca/halifax-event-connects-queer-voices-in-stem/" target="_blank">Halifax event connects queer voices in STEM</a>. January 20th, 2020.</li>
             <li id="list"><a href="http://www.cbc.ca/radio/podcasts/nova-scotia/ns-information-morning/" target="_blank">CBC Nova Scotia's Information Morning Radio Show</a>. QAtCanSTEM Colloquium: Being Queer in STEM. January 17th, 2020.</li>
             <li id="list"><a href="https://www.thecoast.ca/">Halifax's The Coast</a>. <a href="https://www.thecoast.ca/halifax/a-first-of-its-kind-queer-stem-conference-is-in-halifax-this-weekend/Content?oid=23271491">A first-of-its-kind queer STEM conference is in Halifax this weekend</a>. January 16th, 2020.</li>
             <li id="list"><a href="https://nationalpost.com/" target="_blank">The National Post</a>. <a href="https://nationalpost.com/health/breakthrough-or-a-threat-research-on-genetics-of-same-sex-behaviour-ignites-ethical-debate" target="_blank">Breakthrough or a threat? Research on genetics of same-sex behaviour ignites ethical debate</a>. December 6th, 2019.</li>
             <li id="list"><a href="https://www.halifaxtoday.ca/" target="_blank">HalifaxToday.ca</a>. <a href="https://www.halifaxtoday.ca/local-news/halifax-based-group-building-queer-community-in-stem-fields-1879636" target="_blank">Halifax-based group building queer community in STEM fields</a>. November 24th, 2019.</li>
-            <li id="list"><a href="https://www.news957.com/sms/" target="_blank">The Sheldon McLeod Show</a>. QAtCanSTEM and Being a Queer Scientist. November 22nd, 2019.</li>
+            <li id="list"><a href="https://www.news957.com/sms/" target="_blank">The Sheldon McLeod Show</a>. Live in studio, QAtCanSTEM and Being a Queer Scientist. November 22nd, 2019.</li>
             <li id="list"><a href="https://www.dal.ca/news.html" target="_blank">Dal News</a>. <a href="https://www.dal.ca/news/2019/07/25/pride-in-stem.html" target="_blank">PRIDE IN STEM</a>. July 25th, 2019.</li>
             <li id="list"><a href="https://www.dal.ca/news.html" target="_blank">Dal News</a>. <a href="https://www.dal.ca/news/2019/06/19/teachers-who-inspire--meet-this-year-s-recipients-of-dal-s-unive.html">TEACHERS WHO INSPIRE: MEET THIS YEAR'S RECIPIENTS OF DAL'S UNIVERSITY‑WIDE TEACHING AWARDS</a>. June 20th, 2019.</li>
             <li id="list">Current Exchange: A blog by CSHL Meetings and Courses.<a href="https://currentexchange.cshl.edu/blog/2019/6/visitor-of-the-week-125?fbclid=IwAR3FM8pRgKXKHuReEVRQCwT7Z5_r-G4YqzwdcPHwCms6yii3BAA8l1_zxrA"> Visitor of the Week: Landon Getz.</a> June 14th, 2019</li>
