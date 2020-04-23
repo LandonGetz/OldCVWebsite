@@ -490,7 +490,8 @@ scroll: true
         </ul>
         <h2><span class="fa fa-newspaper-o" aria-hidden="true"></span> Media</h2>
         <ul id="list">
-            <li id="list"><a href="https://www.570news.com/audio/kitchener-today-with-brian-bourke/" target="_blank">570 NEWS: Kitchener Today with Brian Bourke.</a> Live radio interview, discussing recent commentary in the Conversation on cornonavirus vaccines and treatments. April 23rd, 2020.</li>
+            <li id="list"><a href="https://omny.fm/shows/the-jill-bennett-show/why-we-shouldn-t-rush-covid-19-treatments-and-vacc">980 CKNW - The Jill Bennet Show</a>. Live radio interivew, discussing recent commentary in the Conversation on cornonavirus vaccines and treatments. April 23rd, 2020</li>
+            <li id="list"><a href="https://www.570news.com/audio/kitchener-today-with-brian-bourke/" target="_blank">570 NEWS: Kitchener Today with Brian Bourke.</a> Live radio interview, discussing recent commentary in the Conversation on cornonavirus vaccines and treatments. April 16th, 2020.</li>
             <li id="list"><a href="https://www.dal.ca/news.html" target="_blank">Dal News</a>. <a href="https://www.dal.ca/news/2020/01/30/creating-a-deeper-sense-of-community-for-lgbtq--scientists.html" target="_blank">CREATING A DEEPER SENSE OF COMMUNITY FOR LGBTQ+ SCIENTISTS</a>. January 30th, 2020.</li>
             <li id="list"><a href="https://signalhfx.ca/" target="_blank">The Signal</a>. <a href="https://signalhfx.ca/halifax-event-connects-queer-voices-in-stem/" target="_blank">Halifax event connects queer voices in STEM</a>. January 20th, 2020.</li>
             <li id="list"><a href="http://www.cbc.ca/radio/podcasts/nova-scotia/ns-information-morning/" target="_blank">CBC Nova Scotia's Information Morning Radio Show</a>. QAtCanSTEM Colloquium: Being Queer in STEM. January 17th, 2020.</li>
