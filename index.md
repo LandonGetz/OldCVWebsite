@@ -1,9 +1,6 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
-page_title: Landon J. Getz
+page_title: Landon J Getz
 scroll: true
 ---
 <div class="container" id="CV">
@@ -314,7 +311,7 @@ scroll: true
             </li>
             <li id="list"><b>Graduate Student Mentor, <i>Dalhousie University</i></b>
                 <ul id="sublist">
-                    <li>January 2018 to <i>Present</i></li>
+                    <li>January 2018 to January 2019</li>
                     <li>Wetlab mentor for Dalhousie iGEM 2018. I ensure the safety of the students, teach them the appropraite molecular biology skills, and lead them through the Summer project.</li>
                     <li>Prepared a <b>three-day molecular biology bootcamp</b>, where each student cloned a piece of DNA into the pSB1C3 iGEM Biobrick Shipping Vector.</li>
                 </ul>
@@ -409,16 +406,39 @@ scroll: true
             <li>2013 Alexander Rutherford Scholarship - $2,500 CAN Award</li>
         </ul>
         <h2><span class="fa fa-users" aria-hidden="hidden"></span> Community Service</h2>
-        <ul id="list">
+        <ul id="list"><b><h3>Scientific Peer Review:</h3></b>
+            <li id="list">Reviewer at <i>Microbiome</i>, Springer-Nature, 2019</li>
+            <li id="list"><b>Pre-print review:</b></li>
+                <ul id="sublist">
+                    <li>The MICI5029/5049 Journal Club at Dalhousie University used their class time in the term of Winter 2020 to review pre-prints according to the Universal Peer Review guidelines proposed this article by <a href="https://linkinghub.elsevier.com/retrieve/pii/S0092-8674(19)31286-3" target="_blank">Krummel et al</a>. The reviews we published on PreReview can be found below:</li>
+                    <ul>
+                    <li>PREreview of "Discovery of a prevalent picornavirus by visualizing zebrafish immune responses." <a href="http://doi.org/10.5281/zenodo.3678334" target="_blank">doi.org/10.5281/zenodo.3678334</a></li>
+                    <li>PREreview of "Uncovering the hidden antibiotic potential of Cannabis" <a href="http://doi.org/10.5281/zenodo.3678326" target="_blank">http://doi.org/10.5281/zenodo.3678326</a></li>
+                    <li>PREreview of "Functional assessment of cell entry and receptor usage for lineage B β-coronaviruses, including 2019-nCoV" <a href="http://doi.org/10.5281/zenodo.3678320" target="_blank">http://doi.org/10.5281/zenodo.3678320</a></li>
+                    <li>PREreview of "In Vivo Dual RNA-Seq Analysis Reveals the Basis for Differential Tissue Tropism of Clinical Isolates of Streptococcus pneumoniae" <a href="http://doi.org/10.5281/zenodo.3702901" target="_blank">http://doi.org/10.5281/zenodo.3702901</a></li>
+                    <li>PREreview of "Spreading of a virulence lipid into host membranes promotes mycobacterial pathogenesis" <a href="http://doi.org/10.5281/zenodo.3718438" target="_blank">http://doi.org/10.5281/zenodo.3718438</a></li>
+                    <li>PREreview of "Necrosignaling: Cell death triggers antibiotic survival pathways in bacterial swarms." <a href="http://doi.org/10.5281/zenodo.3756966" target="_blank">http://doi.org/10.5281/zenodo.3756966</a></li>
+                    <li>PREreview of "A SARS-CoV-2-Human Protein-Protein Interaction Map Reveals Drug Targets and Potential Drug-Repurposing." <a href="http://doi.org/10.5281/zenodo.3756962" target="_blank">http://doi.org/10.5281/zenodo.3756962</a></li>
+                    </ul>
+                </ul>
+        </ul>
+        <ul id="list"><b><h3>Governmental:</h3></b>
             <li id="list"><b>Youth Council Member, <i>Office of the Chief Science Advisor, Goverment of Canada.</i></b>
                 <ul id="sublist">
                     <li>February 2020 to February 2022</li>
                     <li>Act as a youth advisor to Canada's Chief Science Advisor on issues pertaining to my areas of expertise and those that are important to the Atlantic region</li>
                 </ul>
             </li>
+        </ul>
+        <ul id="list"><b><h3>Institutional:</h3></b>
+            <li id="list"><b>Member fo the Board of Directors, Scientists of the Maritimes.</b>
+                <ul id="sublist">
+                    <li>October 2019 to <i>Present</i></li>
+                </ul>
+            </li>
             <li id="list"><b>Graduate Student Representative, <i>Undergraduate Studies Committee.</i></b>
                 <ul id="sublist">
-                    <li>Sept 2017 to <i>Present</i></li>
+                    <li>Sept 2017 to Sept 2019</li>
                     <li>Act as a liason between graduate/undergraduate students and the committee</li>
                     <li>Provide feedback to the committee based on my experience as an undergraduate student at Dalhousie Univeristy</li>
                 </ul>
@@ -429,16 +449,18 @@ scroll: true
                     <li>Act as a liaison between Dalhousie Urban Garden Society with community food initiatives and groups, prepare newsletters and social media posts and take charge of regular garden maintenance</li>
                 </ul>
             </li>
-            <li id="list"><b>Front of House, <i>Halifax Music Co-Op</i></b>
-                <ul id="sublist">
-                    <li>September 2013 to March 2015</li>
-                    <li>Take and sell tickets at the door, greet concert-goers, and sell merchandise/concessions.</li>
-                </ul>
-            </li>
             <li id="list"><b>House Co-President, <i>Howe Hall Residence Council</i></b>
                 <ul id="sublist">
                     <li>September 2013 to April 2014</li>
                     <li>Alongside the co-president, put together a house council and hold weekly house council meetings, attend monthly residence council meetings, plan house events, and support the rest of council in community initiatives.</li>
+                </ul>
+            </li>
+        </ul>
+        <ul id="list"><b><h3>Other:</h3></b>
+                <li id="list"><b>Front of House, <i>Halifax Music Co-Op</i></b>
+                <ul id="sublist">
+                    <li>September 2013 to March 2015</li>
+                    <li>Take and sell tickets at the door, greet concert-goers, and sell merchandise/concessions.</li>
                 </ul>
             </li>
         </ul>
