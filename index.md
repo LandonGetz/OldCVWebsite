@@ -125,8 +125,8 @@ scroll: true
             </li>
             <b><sup>*</sup>Authors contributed equally to the work, <sup>#</sup>Corresponding Author.</b>
             <ul id="sublist">
-                <li><b>Getz, L.J.</b>, Dellaire, G.<sup>#</sup> (2020). Back to Basics: Application of the 4-principle approach to bioethics to heritable genome editing. Science and Engineering Ethics. <b>In Revision</b></li>
-                <li><b>Getz, L. J.</b>, Runté, C., Rainey, J., Thomas, N.A.<sup>#</sup> (2019). <a href="https://jb.asm.org/content/201/19/e00205-19" target="_blank">"Tyrosine phosphorylation as a widespread regulatory mechanism in prokaryotes."</a> <i>Journal of Bacteriology</i>. DOI:<a href="https://doi.org/10.1128/JB.00205-19">10.1128/JB.00205-19</a></li>
+                <li><b>Getz, L.J.</b>, Dellaire, G.<sup>#</sup> (2020). <a href="https://link.springer.com/article/10.1007/s11948-020-00226-0" target="_blank">"Back to Basics: Application of the 4-principle approach to bioethics to heritable genome editing."</a> <i>Science and Engineering Ethics</i>. DOI: <a href="https://doi.org/10.1007/s11948-020-00226-0">10.1007/s11948-020-00226-0</a>.</li>
+                <li><b>Getz, L. J.</b>, Runté, C., Rainey, J., Thomas, N.A.<sup>#</sup> (2019). <a href="https://jb.asm.org/content/201/19/e00205-19" target="_blank">"Tyrosine phosphorylation as a widespread regulatory mechanism in prokaryotes."</a> <i>Journal of Bacteriology</i>. DOI: <a href="https://doi.org/10.1128/JB.00205-19">10.1128/JB.00205-19</a></li>
                 <li>Thornbury, M.<sup>*</sup>, Sicheri, J.<sup>*</sup>, Slaine, P.D., <b>Getz, L. J.</b>, Finlayson-Trick, E.C.L., Cook, J., Guinard, C., Boudreau, N., Jakeman, D., Rohde, J.R., McCormick, C.<sup>#</sup> (2018). <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0209221" target="_blank">"Characterization of novel lignocellulose-degrading enzymes from the porcupine microbiome using synthetic metagenomics"</a> <i>PLoS One</i>. DOI: <a href="https://doi.org/10.1371/journal.pone.0209221" target="_blank">https://doi.org/10.1371/journal.pone.0209221</a>.</li>
                 <li><b>Getz, L.J.<sup>#</sup></b>, Dellaire, G.<sup>#</sup> (2018). <a href="https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(18)30207-5" target="_blank">"Angels and Devils: Dual-Use in Biotechnology."</a> <i>Trends in Biotechnology</i>. DOI: <a href="https://doi.org/10.1016/j.tibtech.2018.07.016" target="_blank">https://doi.org/10.1016/j.tibtech.2018.07.016</a>.</li>
                 <li>Runté, C., Jain, U., <b>Getz, L.J.</b>, Secord, S., Kuwae, A., Abe, A., Leblanc, J., Stadnyk, A.W., Kaper, J.B., Hansen, A.M., Thomas, N.A.<sup>#</sup> (2018). <a href="http://onlinelibrary.wiley.com/doi/10.1111/mmi.13948/full" target="_blank">"Tandem tyrosine phosphosites in the enteropathogenic <i>Escherichia coli</i> chaperone CesT are required for differential type III effector translocation and virulence."</a><i> Molecular Microbiology</i>. DOI: <a href="https://doi.org/10.1111/mmi.13948" target="_blank">https://doi.org/10.1111/mmi.13948</a>.</li>
@@ -431,7 +431,7 @@ scroll: true
             </li>
         </ul>
         <ul id="list"><b><h3>Institutional:</h3></b>
-            <li id="list"><b>Member fo the Board of Directors, Scientists of the Maritimes.</b>
+            <li id="list"><b>Member of the Board of Directors, Scientists of the Maritimes.</b>
                 <ul id="sublist">
                     <li>October 2019 to <i>Present</i></li>
                 </ul>
