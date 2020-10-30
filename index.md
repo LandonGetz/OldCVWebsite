@@ -379,7 +379,7 @@ scroll: true
         </ul>
         <h2><span class="fas fa-medal" aria-hidden="true"></span> Awards:</h2>
         <ul id="list">
-            <li><b>2020 CIHR Silver Award at Canadian Student Health Research Forum Poster Presentation Awards - $250 CAD Award</b></li>
+            <li>2020 CIHR Silver Award at Canadian Student Health Research Forum Poster Presentation Awards - $250 CAD Award</li>
             <li><b>Nominated for:</b> Dalhousie Impact Awards 2020: Outstanding Student of Distinction - Not Awarded</li>
             <Li><b>Nominated for:</b> 2020 Dalhousie's Board of Governors Award - Not Awarded</Li>
             <li>People's Choice Award for the Canadian Society of Microbiologists Student Oral Presentation Competition at the 8<sup>th</sup> Internation Conference on the Biology of <i>Vibrios</i> - $200 CAD Award</li>
@@ -516,8 +516,8 @@ scroll: true
         </ul>
         <h2><span class="fa fa-newspaper-o" aria-hidden="true"></span> Media</h2>
         <ul id="list">
-            <li id="list">Quoted at <a href="https://www.simcoereformer.ca/">Simcoe Reformer</a>. <a href="https://www.simcoereformer.ca/health/why-its-ethical-to-deliberately-infect-healthy-young-volunteers-with-covid-19-virus-to-end-pandemic-sooner/wcm/00aee291-2352-4e50-b3f0-f03ab4933c2d?video_autoplay=true" target="_blank">Why deliberately infecting healthy young volunteers with COVID-19 virus can be done ethically.</a> October 22, 2020.</li>
-            <li id="list">Quoted at <a href="www.cbc.ca">CBC News</a>.<a href="https://www.cbc.ca/news/canada/nova-scotia/former-gold-mine-sites-linda-campbell-saint-mary-s-university-research-treatment-microbes-1.5674924">How microbes could help clean up Nova Scotia's abandoned mines</a>. August 6th, 2020.</li>
+            <li id="list"><a href="https://www.simcoereformer.ca/">Simcoe Reformer</a>. <a href="https://www.simcoereformer.ca/health/why-its-ethical-to-deliberately-infect-healthy-young-volunteers-with-covid-19-virus-to-end-pandemic-sooner/wcm/00aee291-2352-4e50-b3f0-f03ab4933c2d?video_autoplay=true" target="_blank">Why deliberately infecting healthy young volunteers with COVID-19 virus can be done ethically.</a> October 22, 2020.</li>
+            <li id="list"><a href="www.cbc.ca">CBC News</a>. <a href="https://www.cbc.ca/news/canada/nova-scotia/former-gold-mine-sites-linda-campbell-saint-mary-s-university-research-treatment-microbes-1.5674924">How microbes could help clean up Nova Scotia's abandoned mines</a>. August 6th, 2020.</li>
             <li id="list"><a href="https://omny.fm/shows/the-jill-bennett-show/why-we-shouldn-t-rush-covid-19-treatments-and-vacc">980 CKNW - The Jill Bennet Show</a>. Live radio interivew, discussing recent commentary in the Conversation on cornonavirus vaccines and treatments. April 23rd, 2020</li>
             <li id="list"><a href="https://www.570news.com/audio/kitchener-today-with-brian-bourke/" target="_blank">570 NEWS: Kitchener Today with Brian Bourke.</a> Live radio interview, discussing recent commentary in the Conversation on cornonavirus vaccines and treatments. April 16th, 2020.</li>
             <li id="list"><a href="https://www.dal.ca/news.html" target="_blank">Dal News</a>. <a href="https://www.dal.ca/news/2020/01/30/creating-a-deeper-sense-of-community-for-lgbtq--scientists.html" target="_blank">CREATING A DEEPER SENSE OF COMMUNITY FOR LGBTQ+ SCIENTISTS</a>. January 30th, 2020.</li>
