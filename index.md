@@ -135,6 +135,7 @@ scroll: true
             </ul>
             <li id="list"><b>Commentaries:</b>
                 <ul id="sublist">
+                    <li>Baylis, F., <b>Getz, L.J.</b> (2020). <a href="https://healthydebate.ca/opinions/risky-challenge-trials-unethical" target="_blank">Rush to risky chellenge trials is unethical</a>, <i><a href="https://healthydebate.ca/" target="_blank">HealthyDebate.ca</a></i>.</li>
                     <li><b>Getz, L.J.</b> (2020). <a href="https://theconversation.com/rushing-coronavirus-vaccines-and-treatments-could-do-more-harm-than-good-136449" target="_blank">Rushing coronavirus vaccines and treatments could do more harm than good</a>, <i><a href="https://theconversation.com/ca" target="_blank">TheConversation.ca</a>, Republished in <a href="https://www.everythingzoomer.com/" target="_blank">Everything Zoomer</a>, and <a href="www.dal.ca/news" target="_blank">Dal News</a></i>.</li>
                     <li>Kofler, N., <b>Getz, L.J.</b>, Baylis, F., Dellaire, G. (2019). <a href="https://theconversation.com/genetically-modifying-mosquitoes-to-control-the-spread-of-disease-carries-unknown-risks-123862">Genetically modifying mosquitoes to control the spread of disease carries unknown risks</a>, <i><a href="https://theconversation.com/ca" target="_blank">TheConversation.ca</a>, republished in <a href="https://www.salon.com/2019/10/06/genetically-modifying-mosquitoes-to-control-the-spread-of-disease-carries-unknown-risks_partner/" target="_blank">Salon</a>, <a href="https://www.halifaxtoday.ca/local-news/decision-to-deploy-genetically-modified-mosquitoes-not-made-responsibly-researchers-say-1743841" target="_blank">HalifaxToday.ca</a>, <a href="https://www.thechronicleherald.ca/opinion/local-perspectives/commentary-genetically-modifying-mosquitoes-to-control-the-spread-of-disease-carries-unknown-risks-359367/" target="_blank">SaltWire Newspapers</a>, and <a href="https://www.ocala.com/news/20191004/genetically-modifying-mosquitoes-to-control-spread-of-disease-carries-unknown-risks/1" target="_blank">Gannett Newspapers</a>.</i></li>
                     <li><b>Getz, L.J.</b>, Dellaire, G. (2019). <a href="https://www.thehastingscenter.org/moratorium-on-human-genome-editing-time-to-get-it-right/">Moratorium on Human Genome Editing: Time to Get It Right</a>, <i><a href="https://www.thehastingscenter.org/publications-resources/forum/" target="_blank">The Hastings Center Forum Blog</a>.</i></li>
@@ -378,36 +379,39 @@ scroll: true
         </ul>
         <h2><span class="fas fa-medal" aria-hidden="true"></span> Awards:</h2>
         <ul id="list">
+            <li><b>2020 CIHR Silver Award at Canadian Student Health Research Forum Poster Presentation Awards - $250 CAD Award</b></li>
             <li><b>Nominated for:</b> Dalhousie Impact Awards 2020: Outstanding Student of Distinction - Not Awarded</li>
             <Li><b>Nominated for:</b> 2020 Dalhousie's Board of Governors Award - Not Awarded</Li>
-            <li>People's Choice Award for the Canadian Society of Microbiologists Student Oral Presentation Competition at the 8<sup>th</sup> Internation Conference on the Biology of <i>Vibrios</i> - $200 CAN Award</li>
-            <li>2019 President's Graduate Student Teaching Assistant Award - $500 CAN Award</li>
-            <li>2019 Professional Research and Education Program (PREP) Graduate Student Research Day Platform Presentation Award - $200 CAN Award</li>
-            <li>2019 Faculty of Medicine Excellence in Research Award - $1000 CAN Award</li>
-            <li>2018/2019 Vanier Canadian Graduate Scholarship by Dalhousie University - $150,000 CAN Award, 3 Year Tenure</li>
-            <li>2019 Killam Graduate Scholarship - $90,000 CAN Award, 3 Year Tenure</li>
-            <li>2019 Dalhouise University Faculty of Medicine Excellence in Research Award - $1,000 CAN Prize</li>
-            <li>2019 Alexander Graham Bell Canadian Graduate Scholarship - Honourary Doctoral Recipient - $35,000 CAN Award</li>
+            <li>People's Choice Award for the Canadian Society of Microbiologists Student Oral Presentation Competition at the 8<sup>th</sup> Internation Conference on the Biology of <i>Vibrios</i> - $200 CAD Award</li>
+            <li>2019 President's Graduate Student Teaching Assistant Award - $500 CAD Award</li>
+            <li>2019 Professional Research and Education Program (PREP) Graduate Student Research Day Platform Presentation Award - $200 CAD Award</li>
+            <li>2019 Faculty of Medicine Excellence in Research Award - $1000 CAD Award</li>
+            <li>2018/2019 Vanier Canadian Graduate Scholarship by Dalhousie University - $150,000 CAD Award, 3 Year Tenure</li>
+            <li>2019 Killam Graduate Scholarship - $90,000 CAD Award, 3 Year Tenure</li>
+            <li>2019 Dalhouise University Faculty of Medicine Excellence in Research Award - $1,000 CAD Prize</li>
+            <li>2019 Alexander Graham Bell Canadian Graduate Scholarship - Honourary Doctoral Recipient - $35,000 CAD Award</li>
             <li>HHMI Tuition Scholarship, Cold Spring Harbor Laboratories Advanced Bacterial Genetics - $1500 USD Award</li>
-            <li>2018 Nova Scotia Health Research Foundation Scotia Scholars Award - $10,000 CAN Award</li>
-            <li>2018 Alexander Graham Bell Canadian Graduate Scholarship - Masters Recipient - $17,500 CAN Award</li>
-            <li>2018 Nova Scotia Graduate Scholarship - $10,000 CAN Award</li>
-            <li>2017 Award for Excellence in Undergraduate Honours Research - $100 CAN Award</li>
-            <li>2017 Nova Scotia Graduate Scholarship - $10,000 CAN Award</li>
+            <li>2018 Nova Scotia Health Research Foundation Scotia Scholars Award - $10,000 CAD Award</li>
+            <li>2018 Alexander Graham Bell Canadian Graduate Scholarship - Masters Recipient - $17,500 CAD Award</li>
+            <li>2018 Nova Scotia Graduate Scholarship - $10,000 CAD Award</li>
+            <li>2017 Award for Excellence in Undergraduate Honours Research - $100 CAD Award</li>
+            <li>2017 Nova Scotia Graduate Scholarship - $10,000 CAD Award</li>
             <li>2017 Faculty of Science Undergraduate Research Prize</li>
             <li>2017 Honours Student Prize</li>
             <li>2016/2017 Academic Year – Faculty of Science Dean’s List</li>
-            <li>2016 Natural Science and Engineering Research Council of Canada University Summer Research Award - $4,500 CAN Award</li>
+            <li>2016 Natural Science and Engineering Research Council of Canada University Summer Research Award - $4,500 CAD Award</li>
             <li>2015/2016 Academic Year – Faculty of Science Dean’s List</li>
-            <li>2015 Dalhousie University In-Course Scholarship - $250 CAN Award</li>
+            <li>2015 Dalhousie University In-Course Scholarship - $250 CAD Award</li>
             <li>2014/2015 Academic Year – Faculty of Science Dean’s List</li>
             <li>2013 Fall – Faculty of Science Dean’s List</li>
-            <li>2013 Dalhousie University Entrance Scholarship - $750 CAN Award</li>
-            <li>2013 Alexander Rutherford Scholarship - $2,500 CAN Award</li>
+            <li>2013 Dalhousie University Entrance Scholarship - $750 CAD Award</li>
+            <li>2013 Alexander Rutherford Scholarship - $2,500 CAD Award</li>
         </ul>
         <h2><span class="fa fa-users" aria-hidden="hidden"></span> Community Service</h2>
         <ul id="list"><b><h3>Scientific Peer Review:</h3></b>
-            <li id="list">Reviewer at <i>Microbiome</i>, Springer-Nature, 2019</li>
+            <li id="list">Reviewer at <i>Microbiome</i>, Springer-Nature, 2020 - Completed 2 Reviews</li>
+            <li id="list">Reviewer at <i>mSystems</i>, Springer-Nature, 2020 - Completed 2 Reviews</li>
+            <li id="list">Reviewer at <i>Microbiome</i>, Springer-Nature, 2019 - Completed 1 Review</li>
             <li id="list"><b>Pre-print review:</b></li>
                 <ul id="sublist">
                     <li>The MICI5029/5049 Journal Club at Dalhousie University used their class time in the term of Winter 2020 to review pre-prints according to the Universal Peer Review guidelines proposed this article by <a href="https://linkinghub.elsevier.com/retrieve/pii/S0092-8674(19)31286-3" target="_blank">Krummel et al</a>. The reviews we published on PreReview can be found below:</li>
@@ -512,6 +516,8 @@ scroll: true
         </ul>
         <h2><span class="fa fa-newspaper-o" aria-hidden="true"></span> Media</h2>
         <ul id="list">
+            <li id="list">Quoted at <a href="https://www.simcoereformer.ca/">Simcoe Reformer</a>. <a href="https://www.simcoereformer.ca/health/why-its-ethical-to-deliberately-infect-healthy-young-volunteers-with-covid-19-virus-to-end-pandemic-sooner/wcm/00aee291-2352-4e50-b3f0-f03ab4933c2d?video_autoplay=true" target="_blank">Why deliberately infecting healthy young volunteers with COVID-19 virus can be done ethically.</a> October 22, 2020.</li>
+            <li id="list">Quoted at <a href="www.cbc.ca">CBC News</a>.<a href="https://www.cbc.ca/news/canada/nova-scotia/former-gold-mine-sites-linda-campbell-saint-mary-s-university-research-treatment-microbes-1.5674924">How microbes could help clean up Nova Scotia's abandoned mines</a>. August 6th, 2020.</li>
             <li id="list"><a href="https://omny.fm/shows/the-jill-bennett-show/why-we-shouldn-t-rush-covid-19-treatments-and-vacc">980 CKNW - The Jill Bennet Show</a>. Live radio interivew, discussing recent commentary in the Conversation on cornonavirus vaccines and treatments. April 23rd, 2020</li>
             <li id="list"><a href="https://www.570news.com/audio/kitchener-today-with-brian-bourke/" target="_blank">570 NEWS: Kitchener Today with Brian Bourke.</a> Live radio interview, discussing recent commentary in the Conversation on cornonavirus vaccines and treatments. April 16th, 2020.</li>
             <li id="list"><a href="https://www.dal.ca/news.html" target="_blank">Dal News</a>. <a href="https://www.dal.ca/news/2020/01/30/creating-a-deeper-sense-of-community-for-lgbtq--scientists.html" target="_blank">CREATING A DEEPER SENSE OF COMMUNITY FOR LGBTQ+ SCIENTISTS</a>. January 30th, 2020.</li>
