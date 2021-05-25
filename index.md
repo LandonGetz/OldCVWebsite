@@ -125,6 +125,8 @@ scroll: true
             </li>
             <b><sup>*</sup>Authors contributed equally to the work, <sup>#</sup>Corresponding Author.</b>
             <ul id="sublist">
+                <li><b>Getz, L.J.</b>, Brown, J.M., Sobot, L., Chow, A., Mahendrarajah, J., Thomas, N.A.<sup>#</sup> (2021).
+                Attenuation of DNA Cruciforms by a Conserved Regulator Directs Virulence in Pandemic Vibrio. Under Review at Science.</li>
                 <li><b>Getz, L.J.</b>, Dellaire, G.<sup>#</sup> (2020). <a href="https://link.springer.com/article/10.1007/s11948-020-00226-0" target="_blank">"Back to Basics: Application of the 4-principle approach to bioethics to heritable genome editing."</a> <i>Science and Engineering Ethics</i>. DOI: <a href="https://doi.org/10.1007/s11948-020-00226-0">10.1007/s11948-020-00226-0</a>.</li>
                 <li><b>Getz, L. J.</b>, Runté, C., Rainey, J., Thomas, N.A.<sup>#</sup> (2019). <a href="https://jb.asm.org/content/201/19/e00205-19" target="_blank">"Tyrosine phosphorylation as a widespread regulatory mechanism in prokaryotes."</a> <i>Journal of Bacteriology</i>. DOI: <a href="https://doi.org/10.1128/JB.00205-19">10.1128/JB.00205-19</a></li>
                 <li>Thornbury, M.<sup>*</sup>, Sicheri, J.<sup>*</sup>, Slaine, P.D., <b>Getz, L. J.</b>, Finlayson-Trick, E.C.L., Cook, J., Guinard, C., Boudreau, N., Jakeman, D., Rohde, J.R., McCormick, C.<sup>#</sup> (2018). <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0209221" target="_blank">"Characterization of novel lignocellulose-degrading enzymes from the porcupine microbiome using synthetic metagenomics"</a> <i>PLoS One</i>. DOI: <a href="https://doi.org/10.1371/journal.pone.0209221" target="_blank">https://doi.org/10.1371/journal.pone.0209221</a>.</li>
@@ -135,6 +137,9 @@ scroll: true
             </ul>
             <li id="list"><b>Commentaries:</b>
                 <ul id="sublist">
+                    <li>Baylis, F., <b>Getz, L.J.</b> (2021). <a href="https://blogs.bmj.com/medical-ethics/2021/04/27/challenge-studies-for-covid-19-now-is-still-not-the-time/" target="_blank">Challenge studies for COVID-19: Now is still not the time</a><i>a href="https://blogs.bmj.com/medical-ethics/" target="_blank">JME Blog</a></i></li>
+                    <li><b>Getz, L.J.,</b>, Baylis, F. (2021). <a href="https://blogs.bmj.com/medical-ethics/2021/04/06/challenge-studies-for-covid-19-now-is-not-the-time/" target="_blank">
+                    Challenge studies for COVID-19: Now is not the time.</a><i><a href="https://blogs.bmj.com/medical-ethics/" target="_blank">JME Blog</a></i></li>
                     <li><b>Getz, L.J.</b>, Baylis, F. (2020). <a href="https://policyoptions.irpp.org/magazines/november-2020/canada-should-reject-the-idea-of-deliberately-infecting-vaccine-volunteers/" target="_blank">Canada should reject the idea of deliberately infecting vaccine volunteers.</a> <i><a href="https://policyoptions.irpp.org/" target="_blank">PolicyOptions.ca</a></i></li>
                     <li>Baylis, F., <b>Getz, L.J.</b> (2020). <a href="https://www.cbc.ca/news/opinion/opinion-covid-vaccine-human-challenge-trials-1.5790713" target="_blank">Why federal government should reject human challenge trials for COVID-19 vaccine.</a> <i><a href="https://www.cbc.ca/news/opinion" target="_blank">CBC Opinion</a></i>.</li>
                     <li>Qaiser, F., Morriseau, T., Rilling, M., Cartile, A., Sung, M., <b>Getz, L.J.</b>, Boulanger, M-E. (2020). <a href="https://sciencepolicy.ca/posts/envisioning-a-post-pandemic-future-in-the-canadian-science-community-a-youth-perspective/" target="_blank">Envisioning A Post-Pandemic Future in the Canadian Science Community: A Youth Perspective.</a> <i><a href="https://sciencepolicy.ca/posts/category/editorials/2020-conference-editorials/" target="_blank">Canadian Science Policy Conference 2020</a></i></li>
@@ -168,13 +173,6 @@ scroll: true
                     <li><b>Getz, L.J.</b>, Thomas, N.A. (2017). HlyU and H-NS Act as a Genetic Switch for Transcriptional Control of the Type III Secretion System-I Master Regulator <i>exsA</i>, <i>ASM Vibrio2017: The Biology of Vibrios</i>, Chicago, IL. - November 2017</li>
                     <li><b>Getz, L.J.</b>, Thomas, N.A. (2017). <a href="http://centerforvaccinology.ca/wp-content/uploads/2016/03/Handbook-10Apr2017.pdf" target="_blank">Discovery of a Genetic Switch in <i>Vibrio parahaemolyticus</i> That Contributes to Host Cell Death During Infection</a>, 22nd Annual Infectious Disease Research Day, <i>Dalhousie University</i>, Halifax, NS. - March 2017</li>
                     <li><b>Getz, L.J.</b>, Finlayson-Trick, E.C.L.<sup>*</sup>, Mostafa Hagar<sup>*</sup>, Slaine, P.D., Thornbury, M., Lamourerux, E., Cook, J., Langille, M.G.I., Murray, L.E., McCormick, C., Rohde, J.R., Cheng, Z.<a href="http://2016.igem.org/wiki/images/9/9d/IGEM2016_GiantJamboree_booklet.pdf" target="_blank">A ‘spike’ in biofuel production: mining the porcupine microbiome to engineer a softwood feedstock platform</a>, Giant Jamboree Abstract Guide, <i>iGEM Giant Jamboree</i>, Boston, MA. - October 2016</li>
-                </ul>
-            </li>
-            <li id="list"><b>Blog Posts:</b>
-                <ul id="sublist">
-                    <li><a href="https://plosibilities.wordpress.com/2018/03/02/borrowing-name-tags-choleras-method-of-evading-our-defences/" target="_blank">Borrowing Name-Tags: Cholera’s Method of Evading our Defences</a>, <a href="http://www.plosibilities.wordpress.com" target="_blank"><i>Plosibilities</i></a></li>
-                    <li><a href="https://plosibilities.wordpress.com/2017/09/28/vaccinia-viruss-vip-access-to-host-protein-making-machinery/" target="_blank">Vaccinia Virus’s VIP Access to Host Protein Making Machinery</a>,<a href="http://www.plosibilities.wordpress.com" target="_blank"><i> Plosibilities</i></a></li>
-                    <li><a href="https://plosibilities.wordpress.com/2017/09/14/changing-all-on-your-own-lonely-bugs-mutate-faster/" target="_blank">Changing All on Your Own: “Lonely Bugs Mutate Faster</a>,<a href="http://www.plosibilities.wordpress.com" target="_blank"><i> Plosibilities</i></a></li>
                 </ul>
             </li>
         </ul>
@@ -301,7 +299,7 @@ scroll: true
         <ul id="list">
             <li id="list"><b>Graduate Student Teaching Assistant, <a href="https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&topicgroupid=19585&entitytype=CID&entitycode=BIOL+3037" target="_blank">BIOL3037: Life Rewritten</a>, <i>Dalhousie University</i></b>
                 <ul id="sublist">
-                    <li>January 2020 to <i>May 2020</i></li>
+                    <li>January 2020 to <i>May 2021</i></li>
                     <li>Teaching Assistant and Lecturer for an innovative new class which primarily involves <b>small group work</b> and departs from solely using traditonal lecture teaching. The class focuses on both the ethics and science of new gene editing technologies and synthetic biology.</li>
                     <li>Duties include: Marking, Preparing and organizing peer feedback (using Excel, mail merge, and Microsoft Forms), develop course material as it pertains to the ethics of gene editing and gene editing technology, give integrative and discussion based lectures broadly focused on ethics foundations.</li>
                 </ul>
@@ -382,6 +380,7 @@ scroll: true
         </ul>
         <h2><span class="fas fa-medal" aria-hidden="true"></span> Awards:</h2>
         <ul id="list">
+            <li>2021 Educational Leadership Award for Collaborative Teaching</li>
             <li>2020 CIHR Silver Award at Canadian Student Health Research Forum Poster Presentation Awards - $250 CAD Award</li>
             <li><b>Nominated for:</b> Dalhousie Impact Awards 2020: Outstanding Student of Distinction - Not Awarded</li>
             <Li><b>Nominated for:</b> 2020 Dalhousie's Board of Governors Award - Not Awarded</Li>
