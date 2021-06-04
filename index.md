@@ -137,7 +137,7 @@ scroll: true
             </ul>
             <li id="list"><b>Commentaries:</b>
                 <ul id="sublist">
-                    <li>Baylis, F., <b>Getz, L.J.</b> (2021). <a href="https://blogs.bmj.com/medical-ethics/2021/04/27/challenge-studies-for-covid-19-now-is-still-not-the-time/" target="_blank">Challenge studies for COVID-19: Now is still not the time</a><i>a href="https://blogs.bmj.com/medical-ethics/" target="_blank">JME Blog</a></i></li>
+                    <li>Baylis, F., <b>Getz, L.J.</b> (2021). <a href="https://blogs.bmj.com/medical-ethics/2021/04/27/challenge-studies-for-covid-19-now-is-still-not-the-time/" target="_blank">Challenge studies for COVID-19: Now is still not the time</a><i><a href="https://blogs.bmj.com/medical-ethics/" target="_blank">JME Blog</a></i></li>
                     <li><b>Getz, L.J.,</b>, Baylis, F. (2021). <a href="https://blogs.bmj.com/medical-ethics/2021/04/06/challenge-studies-for-covid-19-now-is-not-the-time/" target="_blank">
                     Challenge studies for COVID-19: Now is not the time.</a><i><a href="https://blogs.bmj.com/medical-ethics/" target="_blank">JME Blog</a></i></li>
                     <li><b>Getz, L.J.</b>, Baylis, F. (2020). <a href="https://policyoptions.irpp.org/magazines/november-2020/canada-should-reject-the-idea-of-deliberately-infecting-vaccine-volunteers/" target="_blank">Canada should reject the idea of deliberately infecting vaccine volunteers.</a> <i><a href="https://policyoptions.irpp.org/" target="_blank">PolicyOptions.ca</a></i></li>
