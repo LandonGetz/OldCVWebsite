@@ -442,7 +442,7 @@ scroll: true
         <ul>
             <li id="list"><b>Youth Council Member, <i>Office of the Chief Science Advisor, Goverment of Canada.</i></b>
                 <ul id="sublist">
-                    <li>February 2020 to <i>Present<i></li>
+                    <li>February 2020 to <i>Present</i></li>
                     <li>Act as a youth advisor to Canada's Chief Science Advisor on issues pertaining to my areas of expertise and those that are important to the Atlantic region</li>
                 </ul>
             </li>
