@@ -410,7 +410,7 @@ scroll: true
             <li>2013 Dalhousie University Entrance Scholarship - $750 CAD Award</li>
             <li>2013 Alexander Rutherford Scholarship - $2,500 CAD Award</li>
         </ul>
-        <h2><span class="fa fa-users" aria-hidden="hidden"></span> Community Service</h2>
+        <h2><span class="fa fa-users" aria-hidden="hidden"></span>Service</h2>
         <ul id="list"><b><h3>Scientific Peer Review:</h3></b>
         <ul>
             <li id="list">Reviewer at <i>Microbiome</i>, Springer-Nature, 2020 - Completed 2 Reviews</li>
@@ -448,7 +448,17 @@ scroll: true
             </li>
         </ul>
         </ul>
-        <ul id="list"><b><h3>Institutional:</h3></b>
+        
+	<ul id="list"><b><h3>Society:</h3></b>
+	 <ul>
+	  <li id="list"><b>American Society of Microbiology: Young Ambassador to Canada</b>
+	   <ul id="sublist">
+	    <li>January 2022 - <i>Present</i></li>
+	  </ul>
+	  </li>
+	  </ul>
+	  </ul>
+	<ul id="list"><b><h3>Institutional:</h3></b>
          <ul>
             <li id="list"><b>Founder, Queer Atlantic Canadian STEM.</b>
                 <ul id="sublist">
