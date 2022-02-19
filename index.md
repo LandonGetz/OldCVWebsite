@@ -19,7 +19,7 @@ scroll: true
                     <ul id="skillssublist">
                         <li>HTML and CSS Coding.</li>
                         <li>Jekyll Static Site Building.</li>
-                        <li>Linux.</li>
+                        <li>Linux Administration and Daily Operation.</li>
                         <li>Terminal and Command Line Usage.</li>
                         <li>Biological Computing and Bioinformatics.</li>
                     </ul>
@@ -35,12 +35,13 @@ scroll: true
                 </div>
                 <div class="col-sm" id="list">
                     <div>
-                        <h3><b>Molecular Biology:</b></h3>
+                        <h3><b>Biochemistry and Molecular Biology:</b></h3>
                         <ul id="skillssublist">
-                            <li>Standard Techniques (PCR, DNA/Protein Electrophoresis, etc).</li>
+                            <li>Standard Techniques (PCR, etc).</li>
                             <li>Bacterial Transposon Mutagenesis.</li>
-                            <li>Advanced Cloning Techniques (Golden Gate & Gibson Assembly).</li>
-                            <li>Synthetic Biology.</li>
+                            <li>Advanced Cloning Techniques (Gibson).</li>
+                            <li>Protein Biochemsitry.</li>
+                            <li>DNA/Protein Interactions.</li>
                         </ul>
                     </div>
                 </div>
@@ -69,7 +70,7 @@ scroll: true
                 <div class="col-sm">
                     <h3><b>Other:</b></h3>
                     <ul id="skillssublist">
-                        <li>Knowledge of Food Gardening and Food Systems.</li>
+                        <li>Academic Activism and Ethics</li>
                         <li>Strong Leadership Skills.</li>
                         <li>Communication Skills.</li>
                         <li>Team-Oriented.</li>
@@ -126,7 +127,7 @@ scroll: true
             <b><sup>*</sup>Authors contributed equally to the work, <sup>#</sup>Corresponding Author.</b>
             <ul id="sublist">
                 <li><b>Getz, L.J.</b>, Brown, J.M., Sobot, L., Chow, A., Mahendrarajah, J., Thomas, N.A.<sup>#</sup> (2021).
-                Attenuation of DNA Cruciforms by a Conserved Regulator Directs Virulence in Pandemic Vibrio. Under Review at Science.</li>
+                Attenuation of DNA Cruciforms by a Conserved Regulator Directs Virulence in Pandemic Vibrio. In Preparation.</li>
                 <li><b>Getz, L.J.</b>, Dellaire, G.<sup>#</sup> (2020). <a href="https://link.springer.com/article/10.1007/s11948-020-00226-0" target="_blank">"Back to Basics: Application of the 4-principle approach to bioethics to heritable genome editing."</a> <i>Science and Engineering Ethics</i>. DOI: <a href="https://doi.org/10.1007/s11948-020-00226-0">10.1007/s11948-020-00226-0</a>.</li>
                 <li><b>Getz, L. J.</b>, Runté, C., Rainey, J., Thomas, N.A.<sup>#</sup> (2019). <a href="https://jb.asm.org/content/201/19/e00205-19" target="_blank">"Tyrosine phosphorylation as a widespread regulatory mechanism in prokaryotes."</a> <i>Journal of Bacteriology</i>. DOI: <a href="https://doi.org/10.1128/JB.00205-19">10.1128/JB.00205-19</a></li>
                 <li>Thornbury, M.<sup>*</sup>, Sicheri, J.<sup>*</sup>, Slaine, P.D., <b>Getz, L. J.</b>, Finlayson-Trick, E.C.L., Cook, J., Guinard, C., Boudreau, N., Jakeman, D., Rohde, J.R., McCormick, C.<sup>#</sup> (2018). <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0209221" target="_blank">"Characterization of novel lignocellulose-degrading enzymes from the porcupine microbiome using synthetic metagenomics"</a> <i>PLoS One</i>. DOI: <a href="https://doi.org/10.1371/journal.pone.0209221" target="_blank">https://doi.org/10.1371/journal.pone.0209221</a>.</li>
@@ -164,8 +165,7 @@ scroll: true
             </li>
             <li id="list"><b>Abstracts: </b>
                 <ul id="sublist">
-                    <li><b>Getz, L.J.</b>, Brown, J., Thomas, N.A. (2019). Type III Secretion System Gene Expression and Virulence is Regulated by
-                        a DNA Cruciform Structure at the exsA promoter in <i>Vibrio parahaemolyticus</i>, Genomes to Biology: the 8<sup>th</sup> International Conference on the Biology of <i>Vibrios</i>, <i>McGill University</i>, Montreal, QC. - November 2019</li>
+                    <li><b>Getz, L.J.</b>, Brown, J., Thomas, N.A. (2019). Type III Secretion System Gene Expression and Virulence is Regulated by a DNA Cruciform Structure at the exsA promoter in <i>Vibrio parahaemolyticus</i>, Genomes to Biology: the 8<sup>th</sup> International Conference on the Biology of <i>Vibrios</i>, <i>McGill University</i>, Montreal, QC. - November 2019</li>
                     <li><b>Getz, L.J.</b>, Brown, J., Thomas, N.A. (2019). <a href="/documents/csm-2019-full_program.pdf" target="_blank">A DNA junction superstructure regulates Type III Secretion System gene expression and virulence in <i>Vibrio parahaemolyticus</i></a>, The 69th Annual Conference of the Canadian Society of  Microbiologists, <i>Université de Sherbrooke</i>, Sherbrooke, QC. - June 2019</li>
                     <li><b>Getz, L.J.</b>, Thomas, N.A. (2018). <a href="https://lgbtstem.wordpress.com/lgbt-steminar-2019/" target="_blank">Flipping the Switch on Bacterial Pathogenesis: How the Leading Cause of Seafood-borne Gastroenteritis - <i>Vibrio parahaemolyticus</i> - Regulates Virulence</a>, LGBTSTEMinar 2019, <i>Institute of Physics</i>, London, UK. - January 2019</li>
                     <li><b>Getz, L.J.</b>, Comeau, A., Langille, M.G.I., Thomas, N.A. (2018). Linking Phenotype and Pathogen Genomics: Tn-Seq and Next Generation DNA Sequencing, PREP Graduate Student Research Day, <i>Dalhousie University</i>, Halifax, NS. - May 2018</li>
@@ -380,6 +380,7 @@ scroll: true
         </ul>
         <h2><span class="fas fa-medal" aria-hidden="true"></span> Awards:</h2>
         <ul id="list">
+            <li>2021 CSM Student Symposium Award - Sponsored by the Canadian College of Microbiologists - $500 CAD Award</li> 
             <li>2021 Educational Leadership Award for Collaborative Teaching</li>
             <li>2020 CIHR Silver Award at Canadian Student Health Research Forum Poster Presentation Awards - $250 CAD Award</li>
             <li><b>Nominated for:</b> Dalhousie Impact Awards 2020: Outstanding Student of Distinction - Not Awarded</li>
@@ -409,8 +410,9 @@ scroll: true
             <li>2013 Dalhousie University Entrance Scholarship - $750 CAD Award</li>
             <li>2013 Alexander Rutherford Scholarship - $2,500 CAD Award</li>
         </ul>
-        <h2><span class="fa fa-users" aria-hidden="hidden"></span> Community Service</h2>
+        <h2><span class="fa fa-users" aria-hidden="hidden"></span>Service</h2>
         <ul id="list"><b><h3>Scientific Peer Review:</h3></b>
+        <ul>
             <li id="list">Reviewer at <i>Microbiome</i>, Springer-Nature, 2020 - Completed 2 Reviews</li>
             <li id="list">Reviewer at <i>mSystems</i>, Springer-Nature, 2020 - Completed 2 Reviews</li>
             <li id="list">Reviewer at <i>Microbiome</i>, Springer-Nature, 2019 - Completed 1 Review</li>
@@ -427,48 +429,84 @@ scroll: true
                     <li>PREreview of "A SARS-CoV-2-Human Protein-Protein Interaction Map Reveals Drug Targets and Potential Drug-Repurposing." <a href="http://doi.org/10.5281/zenodo.3756962" target="_blank">http://doi.org/10.5281/zenodo.3756962</a></li>
                     </ul>
                 </ul>
+                </ul>
+        </ul>
+        <ul id="list"><b><h3>Conference Planning</h3></b>
+            <ul>
+            <li id="list">2022 QAtCanSTEM Colloquium</li>
+            <li id="list">2021 QAtCanSTEM Colloquium and Research Showcase (Remote via <a href="https://www.hopin.com" target="_blank">Hopin</a>)</li>
+            <li id="list">2020 QAtCanSTEM Colloquium (In-Person), Dalhousie University</li>
+            </ul>
         </ul>
         <ul id="list"><b><h3>Governmental:</h3></b>
+        <ul>
             <li id="list"><b>Youth Council Member, <i>Office of the Chief Science Advisor, Goverment of Canada.</i></b>
                 <ul id="sublist">
-                    <li>February 2020 to February 2022</li>
+                    <li>February 2020 to <i>Present</i></li>
                     <li>Act as a youth advisor to Canada's Chief Science Advisor on issues pertaining to my areas of expertise and those that are important to the Atlantic region</li>
                 </ul>
             </li>
         </ul>
-        <ul id="list"><b><h3>Institutional:</h3></b>
-            <li id="list"><b>Member of the Board of Directors, Scientists of the Maritimes.</b>
+        </ul>
+        
+	<ul id="list"><b><h3>Society:</h3></b>
+	 <ul>
+	  <li id="list"><b>American Society of Microbiology: Young Ambassador to Canada</b>
+	   <ul id="sublist">
+	    <li>January 2022 - <i>Present</i></li>
+	  </ul>
+	  </li>
+	  </ul>
+	  </ul>
+	<ul id="list"><b><h3>Institutional:</h3></b>
+         <ul>
+            <li id="list"><b>Founder, Queer Atlantic Canadian STEM.</b>
                 <ul id="sublist">
-                    <li>October 2019 to <i>Present</i></li>
+                    <li>July 2019 - <i>Present</i></li>
+                        <li>QAtCanSTEM functions for three main objectives:
+                        <ol>
+                            <li>To build community for Queer folks in STEM across Atlantic Canada</li>
+                            <li>To profile Queer folks in STEM across Atlantic Canada as a means to identify mentors and aid visibility</li>
+                            <li>To run an annual QAtCanSTEM Colloquium, a STEM conference whose goal is to bring together Queer folks from Atlantic Canada and beyond.</li>
+                        </ol>
+                        </li>
                 </ul>
             </li>
-            <li id="list"><b>Graduate Student Representative, <i>Undergraduate Studies Committee.</i></b>
+            <li id="list">Member of the Board of Directors, Scientists of the Maritimes.
+                <ul id="sublist">
+                    <li>October 2019 to <i>December 2021</i></li>
+                </ul>
+            </li>
+            <li id="list">Graduate Student Representative, <i>Undergraduate Studies Committee.</i><
                 <ul id="sublist">
                     <li>Sept 2017 to Sept 2019</li>
                     <li>Act as a liason between graduate/undergraduate students and the committee</li>
                     <li>Provide feedback to the committee based on my experience as an undergraduate student at Dalhousie Univeristy</li>
                 </ul>
             </li>
-            <li id="list"><b>External Coordinator, <i><a href="http://dalurbangarden.com" target="_blank">Dalhousie Urban Garden Society</a></i></b>
+            <li id="list">External Coordinator, <i><a href="http://dalurbangarden.com" target="_blank">Dalhousie Urban Garden Society</a></i>
                 <ul id="sublist">
-                    <li>May 2016 to <i>Present</i></li>
+                    <li>May 2016 to May 2019</li>
                     <li>Act as a liaison between Dalhousie Urban Garden Society with community food initiatives and groups, prepare newsletters and social media posts and take charge of regular garden maintenance</li>
                 </ul>
             </li>
-            <li id="list"><b>House Co-President, <i>Howe Hall Residence Council</i></b>
+            <li id="list">House Co-President, <i>Howe Hall Residence Council</i>
                 <ul id="sublist">
                     <li>September 2013 to April 2014</li>
                     <li>Alongside the co-president, put together a house council and hold weekly house council meetings, attend monthly residence council meetings, plan house events, and support the rest of council in community initiatives.</li>
                 </ul>
             </li>
+            </ul>
         </ul>
         <ul id="list"><b><h3>Other:</h3></b>
-                <li id="list"><b>Front of House, <i>Halifax Music Co-Op</i></b>
+        <ul>
+                <li id="list">Front of House, <i>Halifax Music Co-Op</i>
                 <ul id="sublist">
                     <li>September 2013 to March 2015</li>
                     <li>Take and sell tickets at the door, greet concert-goers, and sell merchandise/concessions.</li>
                 </ul>
             </li>
+            </ul>
         </ul>
         <h2><span class="fas fa-briefcase" aria-hidden="true"></span> Career Experience</h2>
         <ul id="list">
@@ -518,6 +556,8 @@ scroll: true
         </ul>
         <h2><span class="fa fa-newspaper-o" aria-hidden="true"></span> Media</h2>
         <ul id="list">
+            <li id="list"><a href="https://www.dal.ca/news.html" target="_blank">Dal News</a>. <a href="https://www.dal.ca/news/2021/08/18/pride-stem.html" target="_blank">Making science a better place: Student‑led group expands efforts to create community for LGBTQ+ in STEM</a>. August 18th, 2021.</li>
+            <li id="list"><a href="https://www.dal.ca/news.html" target="_blank">Dal News</a>. <a href="https://www.dal.ca/news/2021/06/23/meet-this-year-s-dalhousie-teaching-award-winners.html" target="_blank">Excellence in education: Meet this year’s Dalhousie teaching award winners</li>
             <li id="list"><a href="https://www.simcoereformer.ca/">Simcoe Reformer</a>. <a href="https://www.simcoereformer.ca/health/why-its-ethical-to-deliberately-infect-healthy-young-volunteers-with-covid-19-virus-to-end-pandemic-sooner/wcm/00aee291-2352-4e50-b3f0-f03ab4933c2d?video_autoplay=true" target="_blank">Why deliberately infecting healthy young volunteers with COVID-19 virus can be done ethically.</a> October 22, 2020.</li>
             <li id="list"><a href="www.cbc.ca">CBC News</a>. <a href="https://www.cbc.ca/news/canada/nova-scotia/former-gold-mine-sites-linda-campbell-saint-mary-s-university-research-treatment-microbes-1.5674924">How microbes could help clean up Nova Scotia's abandoned mines</a>. August 6th, 2020.</li>
             <li id="list"><a href="https://omny.fm/shows/the-jill-bennett-show/why-we-shouldn-t-rush-covid-19-treatments-and-vacc">980 CKNW - The Jill Bennet Show</a>. Live radio interivew, discussing recent commentary in the Conversation on cornonavirus vaccines and treatments. April 23rd, 2020</li>
