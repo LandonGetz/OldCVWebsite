@@ -80,7 +80,8 @@ scroll: true
         </div>
     </div>
     <div>
-        <h2 id="Education"><span class="fa fa-graduation-cap" aria-hidden="true"></span> Education</h2>
+    <br>
+    <h2 id="Education"><span class="fa fa-graduation-cap" aria-hidden="true"></span> Education</h2>
         <ul id="list">
             <li id="list"><b>Ph.D Microbiology and Immunology, <i>Dalhousie University</i></b>
                 <ul id="sublist">
@@ -120,14 +121,15 @@ scroll: true
                 </ul>
             </li>
         </ul>
-        <h2><span class="fas fa-book" aria-hidden="true"></span> Publications</h2>
+<br>
+    <h2><span class="fas fa-book" aria-hidden="true"></span> Publications</h2>
         <ul id="list">
             <li id="list"><b>Papers: </b>
             </li>
             <b><sup>*</sup>Authors contributed equally to the work, <sup>#</sup>Corresponding Author.</b>
             <ul id="sublist">
-                <li><b>Getz, L.J.</b>, Brown, J.M., Sobot, L., Chow, A., Mahendrarajah, J., Thomas, N.A.<sup>#</sup> (2021).
-                Attenuation of DNA Cruciforms by a Conserved Regulator Directs Virulence in Pandemic Vibrio. In Preparation.</li>
+                <li><b>Getz, L.J.</b>, Brown, J.M., Sobot, L., Chow, A., Mahendrarajah, J., Thomas, N.A.<sup>#</sup> (2022).
+                Attenuation of a DNA Cruciform by a Conserved Regulator Directs T3SS-1 mediated virulence in <i>Vibrio parahaemolyticus</i>. Under Review at Nucleic Acids Research.</li>
                 <li><b>Getz, L.J.</b>, Dellaire, G.<sup>#</sup> (2020). <a href="https://link.springer.com/article/10.1007/s11948-020-00226-0" target="_blank">"Back to Basics: Application of the 4-principle approach to bioethics to heritable genome editing."</a> <i>Science and Engineering Ethics</i>. DOI: <a href="https://doi.org/10.1007/s11948-020-00226-0">10.1007/s11948-020-00226-0</a>.</li>
                 <li><b>Getz, L. J.</b>, Runté, C., Rainey, J., Thomas, N.A.<sup>#</sup> (2019). <a href="https://jb.asm.org/content/201/19/e00205-19" target="_blank">"Tyrosine phosphorylation as a widespread regulatory mechanism in prokaryotes."</a> <i>Journal of Bacteriology</i>. DOI: <a href="https://doi.org/10.1128/JB.00205-19">10.1128/JB.00205-19</a></li>
                 <li>Thornbury, M.<sup>*</sup>, Sicheri, J.<sup>*</sup>, Slaine, P.D., <b>Getz, L. J.</b>, Finlayson-Trick, E.C.L., Cook, J., Guinard, C., Boudreau, N., Jakeman, D., Rohde, J.R., McCormick, C.<sup>#</sup> (2018). <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0209221" target="_blank">"Characterization of novel lignocellulose-degrading enzymes from the porcupine microbiome using synthetic metagenomics"</a> <i>PLoS One</i>. DOI: <a href="https://doi.org/10.1371/journal.pone.0209221" target="_blank">https://doi.org/10.1371/journal.pone.0209221</a>.</li>
@@ -159,6 +161,7 @@ scroll: true
             </li>
             <li id="list"><b>Pre-Prints:</b>
                 <ul id="sublist">
+		    <li><b>Getz, L.J.</b>, Brown, J.M., Sobot, L., Chow, A., Mahendrarajah, J., Thomas, N.A.<sup>#</sup> (2022). <a href="https://www.biorxiv.org/content/10.1101/2022.03.07.483294v1" target="_blank">Attenuation of a DNA Cruciform by a Conserved Regulator Directs T3SS-1 mediated virulence in <i>Vibrio parahaemolyticus</i></a>. BioRxiv.</li>
                     <li>*Thornbury, M., *Sicheri, J., Guinard, C,. Mahoney, D., Routledge, F,. Curry, M., Elaghil, M., Boudreau, N., Tsai, A., Slaine P., Finlayson-Trick, E.C.L., <b>Getz, L.J.</b>, Cook, J., Rohde, J.R., McCormick, C. <a href="https://www.biorxiv.org/content/early/2018/03/27/288985" target="_blank">“Discovery and Characterization of Novel Lignocellulose-Degrading Enzymes from the Porcupine Microbiome.”</a> BioRxiv.</li>
                     <li>Runté, C., Jain, U., <b>Getz, L.J.</b>, Secord, S., Kuwae, A., Abe, A., Leblanc, J., Stadnyk, A.W., Kaper, J.B., Hansen, A.M., Thomas, N.A. (2018) <a href="https://www.biorxiv.org/content/early/2018/02/22/270066" target="_blank">"Tandem tyrosine residues in the EPEC multicargo chaperone CesT support differential type III effector translocation and early host colonization."</a><i> BioRxiv</i>.</li>
                 </ul>
@@ -176,9 +179,15 @@ scroll: true
                 </ul>
             </li>
         </ul>
-        <h2><i class="fas fa-chalkboard-teacher" aria-hidden="true"></i> Invited Talks</h2>
+<br>
+    <h2><i class="fas fa-chalkboard-teacher" aria-hidden="true"></i> Invited Talks</h2>
         <ul id="list">
-            <li id="sublist">Genomics in Medicine - Emerging Technologies and Bioinformatic Challenges, <i>Dalhousie University</i>, Halifax, NS. - December 2019</li>
+	<li id="sublist"><b>2022 Al Downe Memorial Lecture, <i>Queen's University</i>, Kingston, ON - March 2022</b></li>
+		<ul>
+			<li>Title: Editing Nature: Genetically Modified Mosquitoes and a Case for Slow Science</li>
+			<li>Description: Mosquito-borne diseases - malaria, dengue fever, zika, and others - are a significant burden on global health and economies. As such, a variety of interventions that target and reduce mosquito populations have been developed and used to manage disease transmission and its consequences. The advent of new genetic technologies, like CRISPR/Cas9, provide innovative solutions to mosquito control and have shown significant promise in reducing mosquito populations. However, these interventions require the release of genetically-modified mosquitoes into shared spaces and carry significant uncertainty and risk. The promise and peril of these interventions make them an excellent case study for how we do science, and how we ought to do science. Taking a "Slow Science" approach to editing nature can help ensure that it is done safely, ethically, and with the support of the communities involved.</li>
+		</ul>
+	<li id="sublist">Genomics in Medicine - Emerging Technologies and Bioinformatic Challenges, <i>Dalhousie University</i>, Halifax, NS. - December 2019</li>
                 <ul>
                     <li>Title: Transposon Sequencing: Functional Genomics for Probing Bacterial Pathogenesis</li>
                     <li>Description: Transposon Sequencing is an emerging technique for discovering the functional outputs of different genomic regions within an organism's genome. In this talk, I outlined breifly what Transposon Sequencing is, how we use it in bacteria, and what we can learn from this technique, with a special focus on antibiotic resistance phenotypes and their associated liabilities in <i>Mycobacterium tuberculosis</i> and Methicillin-resistance <i>Staphylococcus aureus</i>.</li>
@@ -196,7 +205,8 @@ scroll: true
                 </ul>
             </li>
         </ul>
-        <h2><span class="fas fa-chalkboard" aria-hidden="true"></span> Conference and Seminar Presentations</h2>
+<br>
+    <h2><span class="fas fa-chalkboard" aria-hidden="true"></span> Conference and Seminar Presentations</h2>
         <b>For Posters: <sup>*</sup>Presenting Author</b>
         <ul id="list">
             <li id="sublist">Genomes to Biology: The 8<sup>th</sup> International Conference on the Biology of <i>Vibrios</i>, <i>McGill University</i>, Montreal, QC - November 2019</li>
@@ -294,24 +304,33 @@ scroll: true
                 </ul>
             </li>
         </ul>
-        <h2><span class="fas fa-school" aria-hidden="true"></span> Teaching and Mentoring</h2>
+<br>
+    <h2><span class="fas fa-school" aria-hidden="true"></span> Teaching and Mentoring</h2>
         <b style="text-align: center;">A Complete Teaching Dossier can be found <a href="/documents/teachingdossier.pdf" target="_blank"> here</a>.</b>
         <ul id="list">
-            <li id="list"><b>Graduate Student Teaching Assistant, <a href="https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&topicgroupid=19585&entitytype=CID&entitycode=BIOL+3037" target="_blank">BIOL3037: Life Rewritten</a>, <i>Dalhousie University</i></b>
+            <li id="list"><b>Part-Time Academic, <a href="https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&topicgroupid=19585&entitytype=CID&entitycode=BIOL+3037" target="_blank">BIOL3037: Life Rewritten</a>, <i>Dalhousie University</i></b>
+	    <ul id="sublist">
+	    	<li>January 2022 to May 2022</li>
+		<li>Lecturing for the ethics portion of BIOL3037, as well as contributing to worksheet and exam questions, and coordinating guest speakers and the gene drive simulation from Harvard's Scientific Citizenship Initiative with Dr. Natalie Kofler</li>
+		<li>More information on the class can be found below</li>
+	    </ul>
+	    </li>
+
+	    <li id="list">Graduate Student Teaching Assistant, <a href="https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&topicgroupid=19585&entitytype=CID&entitycode=BIOL+3037" target="_blank">BIOL3037: Life Rewritten</a>, <i>Dalhousie University</i>
                 <ul id="sublist">
-                    <li>January 2020 to <i>May 2021</i></li>
+                    <li>January 2020 to May 2021</li>
                     <li>Teaching Assistant and Lecturer for an innovative new class which primarily involves <b>small group work</b> and departs from solely using traditonal lecture teaching. The class focuses on both the ethics and science of new gene editing technologies and synthetic biology.</li>
                     <li>Duties include: Marking, Preparing and organizing peer feedback (using Excel, mail merge, and Microsoft Forms), develop course material as it pertains to the ethics of gene editing and gene editing technology, give integrative and discussion based lectures broadly focused on ethics foundations.</li>
                 </ul>
             </li>
             <li id="list"><b>Part Time Academic, <i>Dalhousie University</i></b>
                 <ul id="sublist">
-                    <li>September 2018 to <i>May 2019</i></li>
+                    <li>September 2018 to May 2019</li>
                     <li>Instructor for CHEM 1011/1021 and CHEM 1012/1022 at Dalhousie University and First Year Chemistry Resource Centre Coordinator</li>
                     <li>Duties include: Organize TAs, lecture once a week, respond to student e-mails, prepare course material, mark quizzes and exams.</li>
                 </ul>
             </li>
-            <li id="list"><b>Graduate Student Mentor, <i>Dalhousie University</i></b>
+            <li id="list">Graduate Student Mentor, <i>Dalhousie University</i>
                 <ul id="sublist">
                     <li>January 2018 to January 2019</li>
                     <li>Wetlab mentor for Dalhousie iGEM 2018. I ensure the safety of the students, teach them the appropraite molecular biology skills, and lead them through the Summer project.</li>
@@ -324,20 +343,20 @@ scroll: true
                     <li>Create TA's assignment and meeting schedule, be available throughout the week to answer questions about First Year Chemistry assignments and lecture material.</li>
                 </ul>
             </li>
-            <li id="list"><b>Microbiology and Immunology Introductory Class (MICI 2100) Teaching Assistant, <i>Dalhousie University</i></b>
+            <li id="list">Microbiology and Immunology Introductory Class (MICI 2100) Teaching Assistant, <i>Dalhousie University</i>
                 <ul id="sublist">
                     <li>September 2017 to January 2018.</li>
                     <li>Respond to student emails and Brightspace messages, be available for face-to-face conversations, and mark exams.</li>
                 </ul>
             </li>
-            <li id="list"><b>Bioinformatics and Web Design Mentor, <i>Dalhousie IGEM 2017</i></b>
+            <li id="list">Bioinformatics and Web Design Mentor, <i>Dalhousie IGEM 2017</i>
                 <ul id="sublist">
                     <li>January 2017 to January 2018.</li>
                     <li>Be a graduate student resource for the Bioinformatics and Web Design teams.</li>
                     <li>Current <i>Dalhousie iGEM 2017</i> Website can be found <a target="_blank" href="http://2017.igem.org/Team:Dalhousie">here.</a></li>
                 </ul>
             </li>
-            <li id="list"><b>Chemistry Resource Center Assistant, <i>Dalhousie University</i></b>
+            <li id="list">Chemistry Resource Center Assistant, <i>Dalhousie University</i>
                 <ul id="sublist">
                     <li>September 2015 to December 2016.</li>
                     <li>Be available throughout the week to answer questions about First Year Chemistry assignments and lecture material.</li>
@@ -352,7 +371,8 @@ scroll: true
                 </ul>
             </li>
         </ul>
-        <h2><span class="fa fa-flask" aria-hidden="hidden"></span> Knowledge Translation</h2>
+<br>
+<h2><span class="fa fa-flask" aria-hidden="hidden"></span> Knowledge Translation</h2>
         <ul id="list">
             <li id="list"><b>The National Post - <a href="https://nationalpost.com/health/breakthrough-or-a-threat-research-on-genetics-of-same-sex-behaviour-ignites-ethical-debate" target="_blank">Breakthrough or a threat? Research on genetics of same-sex behaviour ignites ethical debate</a></b></li>
             <li id="list"><b><a href="https://www.cbc.ca/listen/shows/information-morning-ns/" target="_blank">CBC Nova Scotia's Information Morning Radio Show </a> - <i>On the Moratorium on Germline Genome Editing</i> with Portia Clarke, live in studio.</b></li>
@@ -378,9 +398,11 @@ scroll: true
                 </ul>
             </li>
         </ul>
-        <h2><span class="fas fa-medal" aria-hidden="true"></span> Awards:</h2>
+<br>
+    <h2><span class="fas fa-medal" aria-hidden="true"></span> Awards:</h2>
         <ul id="list">
-            <li>2021 CSM Student Symposium Award - Sponsored by the Canadian College of Microbiologists - $500 CAD Award</li> 
+            <li>2022 Armand-Frappier Outstanding Graduate Student Award - Canadian Society of Microbiologists - $500 CAD Award</li>
+	    <li>2021 CSM Student Symposium Award - Sponsored by the Canadian College of Microbiologists - $500 CAD Award</li> 
             <li>2021 Educational Leadership Award for Collaborative Teaching</li>
             <li>2020 CIHR Silver Award at Canadian Student Health Research Forum Poster Presentation Awards - $250 CAD Award</li>
             <li><b>Nominated for:</b> Dalhousie Impact Awards 2020: Outstanding Student of Distinction - Not Awarded</li>
@@ -410,9 +432,11 @@ scroll: true
             <li>2013 Dalhousie University Entrance Scholarship - $750 CAD Award</li>
             <li>2013 Alexander Rutherford Scholarship - $2,500 CAD Award</li>
         </ul>
-        <h2><span class="fa fa-users" aria-hidden="hidden"></span>Service</h2>
+<br>
+    <h2><span class="fa fa-users" aria-hidden="hidden"></span>Service</h2>
         <ul id="list"><b><h3>Scientific Peer Review:</h3></b>
         <ul>
+	    <li id="list">Reviewer at <i>Microbiome</i>, Springer-Nature, 2022 - Completed 1 Review</li>
             <li id="list">Reviewer at <i>Microbiome</i>, Springer-Nature, 2020 - Completed 2 Reviews</li>
             <li id="list">Reviewer at <i>mSystems</i>, Springer-Nature, 2020 - Completed 2 Reviews</li>
             <li id="list">Reviewer at <i>Microbiome</i>, Springer-Nature, 2019 - Completed 1 Review</li>
@@ -430,7 +454,7 @@ scroll: true
                     </ul>
                 </ul>
                 </ul>
-        </ul>
+		</ul>
         <ul id="list"><b><h3>Conference Planning</h3></b>
             <ul>
             <li id="list">2022 QAtCanSTEM Colloquium</li>
@@ -508,7 +532,34 @@ scroll: true
             </li>
             </ul>
         </ul>
-        <h2><span class="fas fa-briefcase" aria-hidden="true"></span> Career Experience</h2>
+<br>
+
+<h2><span class="fa fa-newspaper-o" aria-hidden="true"></span> Media</h2>
+        <ul id="list">
+            <li id="list"><a href="https://www.dal.ca/news.html" target="_blank">Dal News</a>. <a href="https://www.dal.ca/news/2021/08/18/pride-stem.html" target="_blank">Making science a better place: Student‑led group expands efforts to create community for LGBTQ+ in STEM</a>. August 18th, 2021.</li>
+            <li id="list"><a href="https://www.dal.ca/news.html" target="_blank">Dal News</a>. <a href="https://www.dal.ca/news/2021/06/23/meet-this-year-s-dalhousie-teaching-award-winners.html" target="_blank">Excellence in education: Meet this year’s Dalhousie teaching award winners</li>
+            <li id="list"><a href="https://www.simcoereformer.ca/">Simcoe Reformer</a>. <a href="https://www.simcoereformer.ca/health/why-its-ethical-to-deliberately-infect-healthy-young-volunteers-with-covid-19-virus-to-end-pandemic-sooner/wcm/00aee291-2352-4e50-b3f0-f03ab4933c2d?video_autoplay=true" target="_blank">Why deliberately infecting healthy young volunteers with COVID-19 virus can be done ethically.</a> October 22, 2020.</li>
+            <li id="list"><a href="www.cbc.ca">CBC News</a>. <a href="https://www.cbc.ca/news/canada/nova-scotia/former-gold-mine-sites-linda-campbell-saint-mary-s-university-research-treatment-microbes-1.5674924">How microbes could help clean up Nova Scotia's abandoned mines</a>. August 6th, 2020.</li>
+            <li id="list"><a href="https://omny.fm/shows/the-jill-bennett-show/why-we-shouldn-t-rush-covid-19-treatments-and-vacc">980 CKNW - The Jill Bennet Show</a>. Live radio interivew, discussing recent commentary in the Conversation on cornonavirus vaccines and treatments. April 23rd, 2020</li>
+            <li id="list"><a href="https://www.570news.com/audio/kitchener-today-with-brian-bourke/" target="_blank">570 NEWS: Kitchener Today with Brian Bourke.</a> Live radio interview, discussing recent commentary in the Conversation on cornonavirus vaccines and treatments. April 16th, 2020.</li>
+            <li id="list"><a href="https://www.dal.ca/news.html" target="_blank">Dal News</a>. <a href="https://www.dal.ca/news/2020/01/30/creating-a-deeper-sense-of-community-for-lgbtq--scientists.html" target="_blank">CREATING A DEEPER SENSE OF COMMUNITY FOR LGBTQ+ SCIENTISTS</a>. January 30th, 2020.</li>
+            <li id="list"><a href="https://signalhfx.ca/" target="_blank">The Signal</a>. <a href="https://signalhfx.ca/halifax-event-connects-queer-voices-in-stem/" target="_blank">Halifax event connects queer voices in STEM</a>. January 20th, 2020.</li>
+            <li id="list"><a href="http://www.cbc.ca/radio/podcasts/nova-scotia/ns-information-morning/" target="_blank">CBC Nova Scotia's Information Morning Radio Show</a>. QAtCanSTEM Colloquium: Being Queer in STEM. January 17th, 2020.</li>
+            <li id="list"><a href="https://www.thecoast.ca/">Halifax's The Coast</a>. <a href="https://www.thecoast.ca/halifax/a-first-of-its-kind-queer-stem-conference-is-in-halifax-this-weekend/Content?oid=23271491">A first-of-its-kind queer STEM conference is in Halifax this weekend</a>. January 16th, 2020.</li>
+            <li id="list"><a href="https://nationalpost.com/" target="_blank">The National Post</a>. <a href="https://nationalpost.com/health/breakthrough-or-a-threat-research-on-genetics-of-same-sex-behaviour-ignites-ethical-debate" target="_blank">Breakthrough or a threat? Research on genetics of same-sex behaviour ignites ethical debate</a>. December 6th, 2019.</li>
+            <li id="list"><a href="https://www.halifaxtoday.ca/" target="_blank">HalifaxToday.ca</a>. <a href="https://www.halifaxtoday.ca/local-news/halifax-based-group-building-queer-community-in-stem-fields-1879636" target="_blank">Halifax-based group building queer community in STEM fields</a>. November 24th, 2019.</li>
+            <li id="list"><a href="https://www.news957.com/sms/" target="_blank">The Sheldon McLeod Show</a>. Live in studio, QAtCanSTEM and Being a Queer Scientist. November 22nd, 2019.</li>
+            <li id="list"><a href="https://www.dal.ca/news.html" target="_blank">Dal News</a>. <a href="https://www.dal.ca/news/2019/07/25/pride-in-stem.html" target="_blank">PRIDE IN STEM</a>. July 25th, 2019.</li>
+            <li id="list"><a href="https://www.dal.ca/news.html" target="_blank">Dal News</a>. <a href="https://www.dal.ca/news/2019/06/19/teachers-who-inspire--meet-this-year-s-recipients-of-dal-s-unive.html">TEACHERS WHO INSPIRE: MEET THIS YEAR'S RECIPIENTS OF DAL'S UNIVERSITY‑WIDE TEACHING AWARDS</a>. June 20th, 2019.</li>
+            <li id="list">Current Exchange: A blog by CSHL Meetings and Courses.<a href="https://currentexchange.cshl.edu/blog/2019/6/visitor-of-the-week-125?fbclid=IwAR3FM8pRgKXKHuReEVRQCwT7Z5_r-G4YqzwdcPHwCms6yii3BAA8l1_zxrA"> Visitor of the Week: Landon Getz.</a> June 14th, 2019</li>
+            <li id="list"><a href="https://www.dal.ca/news.html" target="_blank">Dal News</a>. <a href="https://www.dal.ca/news/2019/05/16/government-of-canada-selects-dal-phds-and-postdocs-for-its-most-.html#" target="_blank"><i>GOVERNMENT OF CANADA SELECTS DAL PHDS AND POSTDOCS FOR ITS MOST ESTEEMED AWARDS</i>.</a> May 16th, 2019.</li>
+            <li id="list"><a href="https://www.cbc.ca/listen/shows/information-morning-ns/" target="_blank">CBC Nova Scotia's Information Morning Radio Show</a>. <i>On the Call for a Moratorium on Germline Genome Editing</i> with Portia Clarke, live in studio. Feburary 2019.</li>
+            <li id="list"><a href="https://dalgazette.com/" target="_blank">The Dalhousie Gazette</a>. <i><a href="http://dalgazette.com/news/urban-garden-one-dalhousies-hidden-gems/">Urban Garden is one of Dalhousie’s hidden gems</a></i> by Lauren Hazlewood. September 27th, 2019.</li>
+            <li id="list"><a href="https://www.cbc.ca/listen/shows/information-morning-ns/" target="_blank">CBC Nova Scotia's Information Morning Radio Show</a>. <i>LGBTSTEMDAY: Inclusion and Diversity in STEM</i> with Portia Clarke, live in studio. July 2018.</li>
+            <li id="list"><a href="https://www.thecoast.ca/" target="_blank">Halifax's The Coast</a>. <i><a target="_blank" href="https://www.thecoast.ca/halifax/10-urban-gardens-you-need-to-know/Content?oid=8720166">10 urban gardens you need to know</a></i> by Victoria Walton. August 3rd, 2017</li>
+<br>
+
+<h2><span class="fas fa-briefcase" aria-hidden="true"></span> Career Experience</h2>
         <ul id="list">
             <li id="list"><b>NSERC USRA Research Assistant, <i>Dalhousie University</i></b>
                 <ul id="sublist">
@@ -554,28 +605,3 @@ scroll: true
                 </ul>
             </li>
         </ul>
-        <h2><span class="fa fa-newspaper-o" aria-hidden="true"></span> Media</h2>
-        <ul id="list">
-            <li id="list"><a href="https://www.dal.ca/news.html" target="_blank">Dal News</a>. <a href="https://www.dal.ca/news/2021/08/18/pride-stem.html" target="_blank">Making science a better place: Student‑led group expands efforts to create community for LGBTQ+ in STEM</a>. August 18th, 2021.</li>
-            <li id="list"><a href="https://www.dal.ca/news.html" target="_blank">Dal News</a>. <a href="https://www.dal.ca/news/2021/06/23/meet-this-year-s-dalhousie-teaching-award-winners.html" target="_blank">Excellence in education: Meet this year’s Dalhousie teaching award winners</li>
-            <li id="list"><a href="https://www.simcoereformer.ca/">Simcoe Reformer</a>. <a href="https://www.simcoereformer.ca/health/why-its-ethical-to-deliberately-infect-healthy-young-volunteers-with-covid-19-virus-to-end-pandemic-sooner/wcm/00aee291-2352-4e50-b3f0-f03ab4933c2d?video_autoplay=true" target="_blank">Why deliberately infecting healthy young volunteers with COVID-19 virus can be done ethically.</a> October 22, 2020.</li>
-            <li id="list"><a href="www.cbc.ca">CBC News</a>. <a href="https://www.cbc.ca/news/canada/nova-scotia/former-gold-mine-sites-linda-campbell-saint-mary-s-university-research-treatment-microbes-1.5674924">How microbes could help clean up Nova Scotia's abandoned mines</a>. August 6th, 2020.</li>
-            <li id="list"><a href="https://omny.fm/shows/the-jill-bennett-show/why-we-shouldn-t-rush-covid-19-treatments-and-vacc">980 CKNW - The Jill Bennet Show</a>. Live radio interivew, discussing recent commentary in the Conversation on cornonavirus vaccines and treatments. April 23rd, 2020</li>
-            <li id="list"><a href="https://www.570news.com/audio/kitchener-today-with-brian-bourke/" target="_blank">570 NEWS: Kitchener Today with Brian Bourke.</a> Live radio interview, discussing recent commentary in the Conversation on cornonavirus vaccines and treatments. April 16th, 2020.</li>
-            <li id="list"><a href="https://www.dal.ca/news.html" target="_blank">Dal News</a>. <a href="https://www.dal.ca/news/2020/01/30/creating-a-deeper-sense-of-community-for-lgbtq--scientists.html" target="_blank">CREATING A DEEPER SENSE OF COMMUNITY FOR LGBTQ+ SCIENTISTS</a>. January 30th, 2020.</li>
-            <li id="list"><a href="https://signalhfx.ca/" target="_blank">The Signal</a>. <a href="https://signalhfx.ca/halifax-event-connects-queer-voices-in-stem/" target="_blank">Halifax event connects queer voices in STEM</a>. January 20th, 2020.</li>
-            <li id="list"><a href="http://www.cbc.ca/radio/podcasts/nova-scotia/ns-information-morning/" target="_blank">CBC Nova Scotia's Information Morning Radio Show</a>. QAtCanSTEM Colloquium: Being Queer in STEM. January 17th, 2020.</li>
-            <li id="list"><a href="https://www.thecoast.ca/">Halifax's The Coast</a>. <a href="https://www.thecoast.ca/halifax/a-first-of-its-kind-queer-stem-conference-is-in-halifax-this-weekend/Content?oid=23271491">A first-of-its-kind queer STEM conference is in Halifax this weekend</a>. January 16th, 2020.</li>
-            <li id="list"><a href="https://nationalpost.com/" target="_blank">The National Post</a>. <a href="https://nationalpost.com/health/breakthrough-or-a-threat-research-on-genetics-of-same-sex-behaviour-ignites-ethical-debate" target="_blank">Breakthrough or a threat? Research on genetics of same-sex behaviour ignites ethical debate</a>. December 6th, 2019.</li>
-            <li id="list"><a href="https://www.halifaxtoday.ca/" target="_blank">HalifaxToday.ca</a>. <a href="https://www.halifaxtoday.ca/local-news/halifax-based-group-building-queer-community-in-stem-fields-1879636" target="_blank">Halifax-based group building queer community in STEM fields</a>. November 24th, 2019.</li>
-            <li id="list"><a href="https://www.news957.com/sms/" target="_blank">The Sheldon McLeod Show</a>. Live in studio, QAtCanSTEM and Being a Queer Scientist. November 22nd, 2019.</li>
-            <li id="list"><a href="https://www.dal.ca/news.html" target="_blank">Dal News</a>. <a href="https://www.dal.ca/news/2019/07/25/pride-in-stem.html" target="_blank">PRIDE IN STEM</a>. July 25th, 2019.</li>
-            <li id="list"><a href="https://www.dal.ca/news.html" target="_blank">Dal News</a>. <a href="https://www.dal.ca/news/2019/06/19/teachers-who-inspire--meet-this-year-s-recipients-of-dal-s-unive.html">TEACHERS WHO INSPIRE: MEET THIS YEAR'S RECIPIENTS OF DAL'S UNIVERSITY‑WIDE TEACHING AWARDS</a>. June 20th, 2019.</li>
-            <li id="list">Current Exchange: A blog by CSHL Meetings and Courses.<a href="https://currentexchange.cshl.edu/blog/2019/6/visitor-of-the-week-125?fbclid=IwAR3FM8pRgKXKHuReEVRQCwT7Z5_r-G4YqzwdcPHwCms6yii3BAA8l1_zxrA"> Visitor of the Week: Landon Getz.</a> June 14th, 2019</li>
-            <li id="list"><a href="https://www.dal.ca/news.html" target="_blank">Dal News</a>. <a href="https://www.dal.ca/news/2019/05/16/government-of-canada-selects-dal-phds-and-postdocs-for-its-most-.html#" target="_blank"><i>GOVERNMENT OF CANADA SELECTS DAL PHDS AND POSTDOCS FOR ITS MOST ESTEEMED AWARDS</i>.</a> May 16th, 2019.</li>
-            <li id="list"><a href="https://www.cbc.ca/listen/shows/information-morning-ns/" target="_blank">CBC Nova Scotia's Information Morning Radio Show</a>. <i>On the Call for a Moratorium on Germline Genome Editing</i> with Portia Clarke, live in studio. Feburary 2019.</li>
-            <li id="list"><a href="https://dalgazette.com/" target="_blank">The Dalhousie Gazette</a>. <i><a href="http://dalgazette.com/news/urban-garden-one-dalhousies-hidden-gems/">Urban Garden is one of Dalhousie’s hidden gems</a></i> by Lauren Hazlewood. September 27th, 2019.</li>
-            <li id="list"><a href="https://www.cbc.ca/listen/shows/information-morning-ns/" target="_blank">CBC Nova Scotia's Information Morning Radio Show</a>. <i>LGBTSTEMDAY: Inclusion and Diversity in STEM</i> with Portia Clarke, live in studio. July 2018.</li>
-            <li id="list"><a href="https://www.thecoast.ca/" target="_blank">Halifax's The Coast</a>. <i><a target="_blank" href="https://www.thecoast.ca/halifax/10-urban-gardens-you-need-to-know/Content?oid=8720166">10 urban gardens you need to know</a></i> by Victoria Walton. August 3rd, 2017</li>
-        </ul>
-    </div>
