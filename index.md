@@ -401,7 +401,7 @@ scroll: true
 <br>
     <h2><span class="fas fa-medal" aria-hidden="true"></span> Awards:</h2>
         <ul id="list">
-	    <li>2022 <a href="www.landongetz.github.io/documents/STLHE_D2L-2022-Press-Release_FINAL.pdf" target="_blank">2022 Design2Learn (D2L) Innovation Award in Teaching and Learning</a> - STLHE - $3000 CAD Award to Team</li>
+	    <li><a href="/documents/STLHE_D2L-2022-Press-Release_FINAL.pdf" target="_blank">2022 Design2Learn (D2L) Innovation Award in Teaching and Learning</a> - STLHE - $3000 CAD Award to Team</li>
 	    <li>2022 Armand-Frappier Outstanding Graduate Student Award - Canadian Society of Microbiologists - $500 CAD Award</li>
 	    <li>2021 CSM Student Symposium Award - Sponsored by the Canadian College of Microbiologists - $500 CAD Award</li> 
             <li>2021 Educational Leadership Award for Collaborative Teaching</li>
