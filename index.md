@@ -10,75 +10,6 @@ scroll: true
         <h5 style="text-align:center; padding:0;margin:5px;"><a href="/documents/CV.pdf" target="_blank">Download a PDF Copy</a></h5>
     </row>
     <hr>
-    <div id="skillslist">
-        <h2><span class="fas fa-pie-chart" aria-hidden="true"></span> Skills</h2>
-        <div class="container" id="list">
-            <div class="row">
-                <div class="col-sm">
-                    <h3><b>Technology and Computers:</b></h3>
-                    <ul id="skillssublist">
-                        <li>HTML and CSS Coding.</li>
-                        <li>Jekyll Static Site Building.</li>
-                        <li>Linux Administration and Daily Operation.</li>
-                        <li>Terminal and Command Line Usage.</li>
-                        <li>Biological Computing and Bioinformatics.</li>
-                    </ul>
-                </div>
-                <div class="col-sm">
-                    <h3><b>Research:</b></h3>
-                    <ul id="skillssublist">
-                        <li>Searching Primary Literature.</li>
-                        <li>Self-directed Question Identification.</li>
-                        <li>Grant Writing.</li>
-                        <li>Experiment and Protocol Design.</li>
-                    </ul>
-                </div>
-                <div class="col-sm" id="list">
-                    <div>
-                        <h3><b>Biochemistry and Molecular Biology:</b></h3>
-                        <ul id="skillssublist">
-                            <li>Standard Techniques (PCR, etc).</li>
-                            <li>Bacterial Transposon Mutagenesis.</li>
-                            <li>Advanced Cloning Techniques (Gibson).</li>
-                            <li>Protein Biochemsitry.</li>
-                            <li>DNA/Protein Interactions.</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-sm">
-                    <h3><b>Microbiology:</b></h3>
-                    <ul id="skillssublist">
-                        <li>Aseptic Technique.</li>
-                        <li>Bacterial Culture Techniques.</li>
-                        <li>Media/Buffer Preparation.</li>
-                        <li>Strain Maintenance and Organization.</li>
-                    </ul>
-                </div>
-                <div class="col-sm" id="list">
-                    <div>
-                        <h3><b>Communication:</b></h3>
-                        <ul id="skillssublist">
-                            <li>Clear and Effective Writing.</li>
-                            <li>Presentation Skills (Powerpoint and Keynote).</li>
-                            <li>Public Speaking.</li>
-                            <li>Extensive Teaching Experience.</li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-sm">
-                    <h3><b>Other:</b></h3>
-                    <ul id="skillssublist">
-                        <li>Academic Activism and Ethics</li>
-                        <li>Strong Leadership Skills.</li>
-                        <li>Communication Skills.</li>
-                        <li>Team-Oriented.</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
     <div>
     <br>
     <h2 id="Education"><span class="fa fa-graduation-cap" aria-hidden="true"></span> Education</h2>
@@ -86,8 +17,6 @@ scroll: true
             <li id="list"><b>Ph.D Microbiology and Immunology, <i>Dalhousie University</i></b>
                 <ul id="sublist">
                     <li>2019 Vanier Scholar and 2019 Killam Laureate</li>
-                    <li>Alexander Graham Bell Canadian Graduate Scholarship - Masters Recipient 2018 - $17,500 Award</li>
-                    <li>Currently Enrolled</li>
                     <li>Studying Host-Pathogen Interactions and Environmental Survival in <i>Vibrio parahaemolyticus</i></li>
                     <li>Expected Graduation: Summer 2022</li>
                 </ul>
@@ -129,8 +58,9 @@ scroll: true
             <b><sup>*</sup>Authors contributed equally to the work, <sup>#</sup>Corresponding Author.</b>
             <ul id="sublist">
                 <li><b>Getz, L.J.</b>, Brown, J.M., Sobot, L., Chow, A., Mahendrarajah, J., Thomas, N.A.<sup>#</sup> (2022).
-                Attenuation of a DNA Cruciform by a Conserved Regulator Directs T3SS-1 mediated virulence in <i>Vibrio parahaemolyticus</i>. Under Review at Nucleic Acids Research.</li>
-                <li><b>Getz, L.J.</b>, Dellaire, G.<sup>#</sup> (2020). <a href="https://link.springer.com/article/10.1007/s11948-020-00226-0" target="_blank">"Back to Basics: Application of the 4-principle approach to bioethics to heritable genome editing."</a> <i>Science and Engineering Ethics</i>. DOI: <a href="https://doi.org/10.1007/s11948-020-00226-0">10.1007/s11948-020-00226-0</a>.</li>
+                Attenuation of a DNA Cruciform by a Conserved Regulator Directs T3SS-1 mediated virulence in <i>Vibrio parahaemolyticus</i>. Under Revision at Nucleic Acids Research.</li>
+	<li>Kratzer, K.<sup>*</sup>, <b>Getz, L.J.<sup>*</sup></b>, Peterlini, T, Masson<sup>#</sup>, J-Y, Dellaire, G<sup>#</sup>. (2021) <a href="https://link.springer.com/article/10.1007/s00439-021-02272-5" target="_blank">"Addressing the dark matter of gene therapy: technical and ethical barriers to clinical application."</a> <i>Human Genetics</i>. DOI: <a href="https://doi.org/10.1007/s00439-021-02272-5" target="_blank"> 10.1007/s00439-021-02272-5</a></li>
+	<li><b>Getz, L.J.</b>, Dellaire, G.<sup>#</sup> (2020). <a href="https://link.springer.com/article/10.1007/s11948-020-00226-0" target="_blank">"Back to Basics: Application of the 4-principle approach to bioethics to heritable genome editing."</a> <i>Science and Engineering Ethics</i>. DOI: <a href="https://doi.org/10.1007/s11948-020-00226-0">10.1007/s11948-020-00226-0</a>.</li>
                 <li><b>Getz, L. J.</b>, Runté, C., Rainey, J., Thomas, N.A.<sup>#</sup> (2019). <a href="https://jb.asm.org/content/201/19/e00205-19" target="_blank">"Tyrosine phosphorylation as a widespread regulatory mechanism in prokaryotes."</a> <i>Journal of Bacteriology</i>. DOI: <a href="https://doi.org/10.1128/JB.00205-19">10.1128/JB.00205-19</a></li>
                 <li>Thornbury, M.<sup>*</sup>, Sicheri, J.<sup>*</sup>, Slaine, P.D., <b>Getz, L. J.</b>, Finlayson-Trick, E.C.L., Cook, J., Guinard, C., Boudreau, N., Jakeman, D., Rohde, J.R., McCormick, C.<sup>#</sup> (2018). <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0209221" target="_blank">"Characterization of novel lignocellulose-degrading enzymes from the porcupine microbiome using synthetic metagenomics"</a> <i>PLoS One</i>. DOI: <a href="https://doi.org/10.1371/journal.pone.0209221" target="_blank">https://doi.org/10.1371/journal.pone.0209221</a>.</li>
                 <li><b>Getz, L.J.<sup>#</sup></b>, Dellaire, G.<sup>#</sup> (2018). <a href="https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(18)30207-5" target="_blank">"Angels and Devils: Dual-Use in Biotechnology."</a> <i>Trends in Biotechnology</i>. DOI: <a href="https://doi.org/10.1016/j.tibtech.2018.07.016" target="_blank">https://doi.org/10.1016/j.tibtech.2018.07.016</a>.</li>
